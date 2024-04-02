@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "counter-strike-scrapers"
+version = "0.1.0"
+description = ""
+authors = ["Stelios Bitzas <stelios.bitzas@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.2"
+selenium = "^4.19.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.3.0"
+pre-commit = "^3.7.0"
+flake8 = "^7.0.0"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
