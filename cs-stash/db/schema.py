@@ -2,14 +2,12 @@ from sqlalchemy import (
     Boolean,
     Column,
     Float,
-    ForeignKey,
     Integer,
     LargeBinary,
     String,
     create_engine,
 )
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship
 from sqlalchemy_utils import ChoiceType
 from utils.utils import get_db_path
 
@@ -43,13 +41,8 @@ class ScrapedUrl(Base):
 
     id = Column(Integer, primary_key=True)
     url = Column(String)
+    type_of_url = Column(ChoiceType([("weapon", "weapon"), ("skin", "skin"), ("other", "other")], impl=String()))
     scraped_status = Column(Boolean)
-    parent_id = Column(Integer, ForeignKey("scraped_urls.id"))
-    child_url = relationship(
-        "ScrapedUrl",
-        primaryjoin="ScrapedUrl.id==ScrapedUrl.parent_id",
-        remote_side=[id],
-    )
 
     def __repr__(self):
         return f"<ScrapedURL(key={self.url})>"
@@ -60,7 +53,7 @@ class Skin(Base):
 
     id = Column(Integer, primary_key=True)
     skin_name = Column(String)
-    rarity = ChoiceType(RARITY_CHOICES)
+    rarity = Column(ChoiceType(RARITY_CHOICES, impl=String()))
     weapon_type = Column(String)
     stat_trak = Column(Boolean)
     factory_new_price = Column(Float)
