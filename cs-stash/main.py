@@ -1,5 +1,8 @@
 import argparse
 
+from db.queries import Query
+from db.session import get_initialized_session
+
 
 def main():
     parser = argparse.ArgumentParser(description="Counter Strike CSStash Scraper")
@@ -8,6 +11,9 @@ def main():
 
     if args.run == "run":
         print("Running cs-stash scraper")
+        session, session_instance = get_initialized_session()
+        query = Query(session)
+        print(query.get_all_skins())
         pass
 
 
