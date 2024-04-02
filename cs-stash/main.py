@@ -7,7 +7,7 @@ def main():
     args = parser.parse_args()
 
     if args.run == "run":
-        print("Running CSStash Scraper")
+        print("Running cs-stash scraper")
         pass
 
 

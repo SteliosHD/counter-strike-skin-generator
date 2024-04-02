@@ -4,11 +4,11 @@ import sys
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python manage.py <app_name> <command> [args]")
+        print("Usage: python manage.py <command> <app_name> [args]")
         sys.exit(1)
 
     # Extract the app name and command from the arguments
-    app_name, command = sys.argv[1], sys.argv[2]
+    command, app_name = sys.argv[1], sys.argv[2]
     additional_args = sys.argv[3:]
 
     # Assuming the main script is always named 'main.py' in each app folder
