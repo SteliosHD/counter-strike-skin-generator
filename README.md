@@ -40,3 +40,4 @@ Running cs-stash scraper
 
 ## Contributing
 If you would like to contribute to this repository, please create a new branch and make a pull request.
+Once approved by the code owner, the changes will be merged into the master branch.
