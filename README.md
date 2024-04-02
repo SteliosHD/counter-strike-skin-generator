@@ -42,6 +42,10 @@ You should see the following output
 Weapon URLs have run was successful
 [<list of weapon urls>]
 ```
+The same command can be used to run the skin_urls scraper
+```bash
+python manage.py run cs-stash --skin_urls
+```
 
 ## Contributing
 If you would like to contribute to this repository, please create a new branch and make a pull request.
