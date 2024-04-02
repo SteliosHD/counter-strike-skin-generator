@@ -2,6 +2,7 @@ import argparse
 
 from db.queries import Query
 from db.session import get_initialized_session
+from scraper import scrape
 
 
 def main():
@@ -14,6 +15,7 @@ def main():
         session, session_instance = get_initialized_session()
         query = Query(session)
         print(query.get_all_skins())
+        scrape.run()
         pass
 
 

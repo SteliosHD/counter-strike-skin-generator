@@ -23,6 +23,10 @@ poetry shell
 ```bash
 pre-commit install
 ```
+5. Install playwright
+```bash
+playwright install
+```
 
 ## Usage
 To run the scrapers, you can use the following command
