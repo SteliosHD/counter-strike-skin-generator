@@ -1,26 +1,7 @@
-from sqlalchemy import (
-    Boolean,
-    Column,
-    Float,
-    Integer,
-    LargeBinary,
-    String,
-    create_engine,
-)
+from sqlalchemy import Boolean, Column, Integer, LargeBinary, String, create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy_utils import ChoiceType
 from utils.utils import get_db_path
-
-RARITY_CHOICES = (
-    ("Consumer Grade", "Consumer Grade"),
-    ("Industrial Grade", "Industrial Grade"),
-    ("Mil-Spec", "Mil-Spec"),
-    ("Restricted", "Restricted"),
-    ("Classified", "Classified"),
-    ("Covert", "Covert"),
-    ("Contraband", "Contraband"),
-)
-
 
 Base = declarative_base()
 
@@ -53,12 +34,13 @@ class Skin(Base):
 
     id = Column(Integer, primary_key=True)
     skin_name = Column(String)
-    rarity = Column(ChoiceType(RARITY_CHOICES, impl=String()))
-    weapon_type = Column(String)
+    quality = Column(String)
+    weapon_name = Column(String)
     stat_trak = Column(Boolean)
-    factory_new_price = Column(Float)
-    texture_image = Column(LargeBinary)
+    factory_new_price = Column(String)
+    texture_image = Column(LargeBinary, nullable=True)
     cs_stash_url = Column(String)
+    texture_url = Column(String, nullable=True)
 
     def __repr__(self):
         return f"<Skin(name={self.name}, price={self.price})>"
