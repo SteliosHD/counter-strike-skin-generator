@@ -43,7 +43,7 @@ class Skin(Base):
     texture_url = Column(String, nullable=True)
 
     def __repr__(self):
-        return f"<Skin(name={self.name}, price={self.price})>"
+        return f"<Skin(name={self.skin_name}, price={self.factory_new_price})>"
 
 
 if __name__ == "__main__":

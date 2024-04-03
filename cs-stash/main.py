@@ -17,7 +17,6 @@ def main():
         print("Running cs-stash scraper")
         session, session_instance = get_initialized_session()
         query = Query(session)
-        print(query.get_all_skins())
         if args.weapon_urls:
             weapon_urls = scrape.run_weapons_scrape()
             for url in weapon_urls:
@@ -47,9 +46,9 @@ def main():
                 skins.append(skin)
         else:
             skins = query.get_all_skins()
-
-        print(weapon_urls)
-        print(skin_urls)
+        print(skins[0])
+        print(weapon_urls[0])
+        print(skin_urls[0])
 
 
 if __name__ == "__main__":
