@@ -29,7 +29,7 @@ playwright install
 
 ## Projects
 - [Counter Strike Scrapers](counter-strike-scrapers/README.md)
-- [Counter Strike Skin Classifier](counter-strike-skin-classifier/README.md)
+- [Counter Strike Skin Classifier](counter-strike-skin-classifiers/README.md)
 
 ## Contributing
 If you would like to contribute to this repository, please create a new branch and make a pull request.
