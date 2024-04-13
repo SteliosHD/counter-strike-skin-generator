@@ -1,0 +1,1413 @@
+id,skin_name,weapon_name,stat_trak,factory_new_price,quality
+2,Syndicate,CZ75-Auto,0,"7,79€",Restricted Pistol
+4,Army Sheen,CZ75-Auto,0,"4,08€",Consumer Grade Pistol
+5,Jungle Dashed,CZ75-Auto,0,"1,28€",Consumer Grade Pistol
+6,Distressed,CZ75-Auto,1,"1,18€",Mil-Spec Pistol
+7,Victoria,CZ75-Auto,1,"127,29€",Covert Pistol
+8,Circaetus,CZ75-Auto,1,"1,92€",Mil-Spec Pistol
+9,Tread Plate,CZ75-Auto,1,"19,82€",Restricted Pistol
+10,Red Astor,CZ75-Auto,1,"3,60€",Restricted Pistol
+13,Imprint,CZ75-Auto,1,"2,32€",Mil-Spec Pistol
+15,Polymer,CZ75-Auto,1,"1,14€",Mil-Spec Pistol
+16,Twist,CZ75-Auto,1,"3,85€",Mil-Spec Pistol
+17,Tigris,CZ75-Auto,1,"5,15€",Restricted Pistol
+18,Poison Dart,CZ75-Auto,1,"16,03€",Mil-Spec Pistol
+19,Crimson Web,CZ75-Auto,1,"52,89€",Mil-Spec Pistol
+21,Pole Position,CZ75-Auto,1,"5,38€",Restricted Pistol
+22,Green Plaid,CZ75-Auto,0,"3,69€",Consumer Grade Pistol
+23,Yellow Jacket,CZ75-Auto,1,"39,14€",Classified Pistol
+24,Tacticat,CZ75-Auto,1,"4,10€",Restricted Pistol
+25,Xiangliu,CZ75-Auto,1,"33,87€",Classified Pistol
+26,Vendetta,CZ75-Auto,1,"2,80€",Mil-Spec Pistol
+29,Midnight Palm,CZ75-Auto,0,"3,38€",Industrial Grade Pistol
+30,Emerald Quartz,CZ75-Auto,0,"126,38€",Mil-Spec Pistol
+31,Framework,CZ75-Auto,0,"1,28€",Consumer Grade Pistol
+32,Hexane,CZ75-Auto,1,"9,09€",Mil-Spec Pistol
+33,Eco,CZ75-Auto,1,"8,70€",Restricted Pistol
+34,Mudder,Desert Eagle,0,"0,64€",Industrial Grade Pistol
+35,Light Rail,Desert Eagle,1,"16,89€",Restricted Pistol
+36,Mecha Industries,Desert Eagle,1,"26,90€",Classified Pistol
+37,Conspiracy,Desert Eagle,1,"28,44€",Classified Pistol
+38,Printstream,Desert Eagle,1,"185,60€",Covert Pistol
+39,Blaze,Desert Eagle,0,"664,35€",Restricted Pistol
+40,Kumicho Dragon,Desert Eagle,1,"97,44€",Classified Pistol
+41,Trigger Discipline,Desert Eagle,1,"10,29€",Restricted Pistol
+42,Blue Ply,Desert Eagle,1,"7,98€",Mil-Spec Pistol
+43,Sunset Storm 弐,Desert Eagle,0,"304,16€",Restricted Pistol
+44,Emerald Jörmungandr,Desert Eagle,0,"330,03€",Restricted Pistol
+45,Night Heist,Desert Eagle,0,"16,24€",Mil-Spec Pistol
+46,Hypnotic,Desert Eagle,1,"145,38€",Classified Pistol
+48,Oxide Blaze,Desert Eagle,1,"2,42€",Mil-Spec Pistol
+49,Directive,Desert Eagle,1,"43,43€",Restricted Pistol
+50,Bronze Deco,Desert Eagle,1,"2,29€",Mil-Spec Pistol
+51,Sputnik,Desert Eagle,0,"2,50€",Mil-Spec Pistol
+52,Crimson Web,Desert Eagle,1,"407,94€",Restricted Pistol
+53,Sunset Storm 壱,Desert Eagle,0,"286,28€",Restricted Pistol
+54,Heirloom,Desert Eagle,1,"65,95€",Restricted Pistol
+55,Urban DDPAT,Desert Eagle,0,"14,91€",Industrial Grade Pistol
+56,The Bronze,Desert Eagle,0,"4,37€",Industrial Grade Pistol
+57,Hand Cannon,Desert Eagle,0,"589,78€",Restricted Pistol
+58,Urban Rubble,Desert Eagle,0,"0,52€",Mil-Spec Pistol
+59,Code Red,Desert Eagle,1,"192,10€",Covert Pistol
+60,Midnight Storm,Desert Eagle,0,"29,96€",Industrial Grade Pistol
+61,Fennec Fox,Desert Eagle,0,"464,01€",Classified Pistol
+62,Ocean Drive,Desert Eagle,1,"449,55€",Covert Pistol
+63,Naga,Desert Eagle,1,"18,14€",Restricted Pistol
+64,Cobalt Disruption,Desert Eagle,1,"166,45€",Classified Pistol
+65,Corinthian,Desert Eagle,1,"3,80€",Mil-Spec Pistol
+66,Pilot,Desert Eagle,0,"154,85€",Restricted Pistol
+67,Meteorite,Desert Eagle,0,"1,09€",Mil-Spec Pistol
+68,Golden Koi,Desert Eagle,1,"268,80€",Covert Pistol
+70,Oil Change,Dual Berettas,0,"1,02€",Consumer Grade Pistol
+71,Dualing Dragons,Dual Berettas,1,"7,47€",Mil-Spec Pistol
+72,Briar,Dual Berettas,0,"6,19€",Consumer Grade Pistol
+73,Moon in Libra,Dual Berettas,0,"5,23€",Consumer Grade Pistol
+75,Duelist,Dual Berettas,0,"141,84€",Restricted Pistol
+77,Tread,Dual Berettas,1,"3,99€",Mil-Spec Pistol
+78,Cobalt Quartz,Dual Berettas,0,"0,26€",Restricted Pistol
+79,Black Limba,Dual Berettas,1,"107,25€",Mil-Spec Pistol
+80,Royal Consorts,Dual Berettas,1,"10,13€",Restricted Pistol
+81,Drift Wood,Dual Berettas,0,"4,01€",Industrial Grade Pistol
+82,Dezastre,Dual Berettas,1,"17,08€",Restricted Pistol
+83,Heist,Dual Berettas,0,"0,60€",Consumer Grade Pistol
+84,Stained,Dual Berettas,0,"0,21€",Industrial Grade Pistol
+85,Flora Carnivora,Dual Berettas,1,"6,63€",Restricted Pistol
+87,Ventilators,Dual Berettas,1,"1,11€",Mil-Spec Pistol
+88,Urban Shock,Dual Berettas,1,"7,70€",Restricted Pistol
+89,Marina,Dual Berettas,1,"58,56€",Restricted Pistol
+90,Cartel,Dual Berettas,1,"5,28€",Mil-Spec Pistol
+91,Cobra Strike,Dual Berettas,1,"149,86€",Classified Pistol
+92,Switch Board,Dual Berettas,0,"5,01€",Industrial Grade Pistol
+93,Balance,Dual Berettas,1,"8,99€",Mil-Spec Pistol
+95,Shred,Dual Berettas,1,"1,29€",Mil-Spec Pistol
+96,Pyre,Dual Berettas,0,"35,80€",Industrial Grade Pistol
+97,Melondrama,Dual Berettas,1,"17,87€",Classified Pistol
+98,Twin Turbo,Dual Berettas,0,"7,42€",Classified Pistol
+99,Elite 1.6,Dual Berettas,1,"1,17€",Mil-Spec Pistol
+100,Hemoglobin,Dual Berettas,1,"31,55€",Restricted Pistol
+101,Retribution,Dual Berettas,1,"4,39€",Mil-Spec Pistol
+105,Case Hardened,Five-SeveN,1,"108,94€",Restricted Pistol
+106,Angry Mob,Five-SeveN,1,"45,48€",Covert Pistol
+107,Capillary,Five-SeveN,1,"1,03€",Mil-Spec Pistol
+111,Nightshade,Five-SeveN,1,"5,55€",Mil-Spec Pistol
+112,Silver Quartz,Five-SeveN,0,"0,61€",Mil-Spec Pistol
+113,Fowl Play,Five-SeveN,1,"22,65€",Classified Pistol
+114,Monkey Business,Five-SeveN,1,Not Possible,Classified Pistol
+115,Hyper Beast,Five-SeveN,1,"928,03€",Covert Pistol
+116,Withered Vine,Five-SeveN,0,"5,59€",Industrial Grade Pistol
+117,Scrawl,Five-SeveN,1,"1,24€",Mil-Spec Pistol
+119,Boost Protocol,Five-SeveN,1,"10,04€",Restricted Pistol
+120,Fairy Tale,Five-SeveN,1,"129,87€",Classified Pistol
+121,Retrobution,Five-SeveN,1,"8,13€",Restricted Pistol
+123,Orange Peel,Five-SeveN,0,"0,31€",Industrial Grade Pistol
+124,Berries And Cherries,Five-SeveN,0,"93,91€",Restricted Pistol
+125,Urban Hazard,Five-SeveN,1,"3,86€",Mil-Spec Pistol
+126,Fall Hazard,Five-SeveN,0,"349,74€",Classified Pistol
+127,Kami,Five-SeveN,1,"3,05€",Mil-Spec Pistol
+128,Violent Daimyo,Five-SeveN,1,"2,66€",Mil-Spec Pistol
+129,Scumbria,Five-SeveN,1,"1,93€",Mil-Spec Pistol
+130,Coolant,Five-SeveN,0,"0,04€",Consumer Grade Pistol
+131,Flame Test,Five-SeveN,1,"0,75€",Mil-Spec Pistol
+132,Triumvirate,Five-SeveN,1,"9,29€",Restricted Pistol
+134,Neon Kimono,Five-SeveN,0,"364,63€",Restricted Pistol
+135,Forest Night,Five-SeveN,0,"0,10€",Consumer Grade Pistol
+136,Copper Galaxy,Five-SeveN,1,"24,56€",Restricted Pistol
+137,Crimson Blossom,Five-SeveN,0,"114,88€",Mil-Spec Pistol
+138,Buddy,Five-SeveN,1,"4,28€",Restricted Pistol
+139,Neo-Noir,Glock-18,1,"268,51€",Covert Pistol
+140,Weasel,Glock-18,1,"10,20€",Restricted Pistol
+141,Vogue,Glock-18,1,"21,42€",Classified Pistol
+143,Moonrise,Glock-18,1,"5,61€",Restricted Pistol
+144,Steel Disruption,Glock-18,1,"11,25€",Restricted Pistol
+145,Water Elemental,Glock-18,1,"52,45€",Classified Pistol
+146,Winterized,Glock-18,1,"2,13€",Mil-Spec Pistol
+147,Off World,Glock-18,1,"4,33€",Mil-Spec Pistol
+148,Red Tire,Glock-18,0,"3,63€",Industrial Grade Pistol
+149,Blue Fissure,Glock-18,1,"78,88€",Mil-Spec Pistol
+151,Clear Polymer,Glock-18,1,"4,27€",Mil-Spec Pistol
+153,Sacrifice,Glock-18,1,"5,49€",Mil-Spec Pistol
+154,Death Rattle,Glock-18,0,Not Possible,Industrial Grade Pistol
+155,Pink DDPAT,Glock-18,0,"89,67€",Restricted Pistol
+156,Snack Attack,Glock-18,1,"91,88€",Classified Pistol
+157,High Beam,Glock-18,0,"0,12€",Industrial Grade Pistol
+158,Franklin,Glock-18,0,"45,09€",Restricted Pistol
+159,Synth Leaf,Glock-18,0,"320,14€",Restricted Pistol
+160,Umbral Rabbit,Glock-18,1,"6,08€",Restricted Pistol
+161,Catacombs,Glock-18,1,"1,79€",Mil-Spec Pistol
+162,Nuclear Garden,Glock-18,0,"7,22€",Restricted Pistol
+163,Wraiths,Glock-18,1,"4,93€",Mil-Spec Pistol
+164,Warhawk,Glock-18,1,"4,38€",Mil-Spec Pistol
+165,Twilight Galaxy,Glock-18,0,"236,65€",Classified Pistol
+166,Bullet Queen,Glock-18,1,"174,99€",Covert Pistol
+167,Grinder,Glock-18,1,"7,84€",Restricted Pistol
+169,Ramese's Reach,Glock-18,0,"17,92€",Restricted Pistol
+170,Royal Legion,Glock-18,1,"29,61€",Restricted Pistol
+171,Wasteland Rebel,Glock-18,1,"32,97€",Covert Pistol
+172,Dragon Tattoo,Glock-18,1,"304,60€",Restricted Pistol
+173,Oxide Blaze,Glock-18,1,"1,59€",Mil-Spec Pistol
+174,Brass,Glock-18,0,"91,69€",Restricted Pistol
+175,Reactor,Glock-18,0,"12,02€",Mil-Spec Pistol
+176,Ironwork,Glock-18,1,"6,56€",Mil-Spec Pistol
+177,Gamma Doppler,Glock-18,0,"70,77€",Covert Pistol
+178,Bunsen Burner,Glock-18,1,"6,98€",Mil-Spec Pistol
+179,Fade,Glock-18,0,No Recent Price,Restricted Pistol
+181,Pulse,P2000,1,"3,46€",Mil-Spec Pistol
+182,Urban Hazard,P2000,1,"0,82€",Mil-Spec Pistol
+183,Grassland Leaves,P2000,0,"176,65€",Industrial Grade Pistol
+184,Lifted Spirits,P2000,1,"0,76€",Mil-Spec Pistol
+185,Scorpion,P2000,0,"6,08€",Restricted Pistol
+186,Woodsman,P2000,1,"25,88€",Restricted Pistol
+187,Coach Class,P2000,0,"20,63€",Industrial Grade Pistol
+188,Granite Marbleized,P2000,0,"0,26€",Industrial Grade Pistol
+189,Amber Fade,P2000,0,"8,60€",Restricted Pistol
+190,Corticera,P2000,1,"54,16€",Classified Pistol
+191,Ocean Foam,P2000,1,"408,56€",Classified Pistol
+192,Imperial,P2000,1,"1,36€",Mil-Spec Pistol
+193,Gnarled,P2000,1,"0,97€",Mil-Spec Pistol
+194,Obsidian,P2000,1,"19,12€",Restricted Pistol
+195,Dispatch,P2000,0,"23,54€",Mil-Spec Pistol
+196,Fire Elemental,P2000,1,"231,99€",Covert Pistol
+198,Chainmail,P2000,0,"120,63€",Mil-Spec Pistol
+199,Red FragCam,P2000,1,"6,19€",Mil-Spec Pistol
+200,Space Race,P2000,0,"8,49€",Restricted Pistol
+201,Handgun,P2000,1,"16,91€",Restricted Pistol
+202,Pathfinder,P2000,0,"22,48€",Industrial Grade Pistol
+203,Imperial Dragon,P2000,1,"24,99€",Classified Pistol
+204,Ivory,P2000,1,"3,09€",Mil-Spec Pistol
+205,Panther Camo,P2000,0,"3,34€",Industrial Grade Pistol
+207,Acid Etched,P2000,1,"6,80€",Restricted Pistol
+208,Wicked Sick,P2000,1,"30,46€",Classified Pistol
+209,Oceanic,P2000,1,"1,76€",Mil-Spec Pistol
+210,Turf,P2000,1,"3,75€",Mil-Spec Pistol
+211,X-Ray,P250,1,"3,11€",Restricted Pistol
+212,Vino Primo,P250,0,"8,89€",Restricted Pistol
+213,Inferno,P250,1,"4,59€",Restricted Pistol
+214,Modern Hunter,P250,0,"441,38€",Mil-Spec Pistol
+215,Supernova,P250,1,"4,76€",Restricted Pistol
+216,Digital Architect,P250,0,"55,10€",Restricted Pistol
+217,Muertos,P250,1,"28,11€",Classified Pistol
+218,Dark Filigree,P250,0,"7,39€",Industrial Grade Pistol
+219,See Ya Later,P250,1,"42,29€",Covert Pistol
+220,Mint Kimono,P250,0,"5,09€",Consumer Grade Pistol
+221,Bone Mask,P250,0,"9,51€",Consumer Grade Pistol
+222,Re.built,P250,1,"1,17€",Mil-Spec Pistol
+223,Undertow,P250,1,"66,63€",Classified Pistol
+224,Mehndi,P250,1,"81,72€",Classified Pistol
+225,Metallic DDPAT,P250,0,"0,15€",Industrial Grade Pistol
+226,Nuclear Threat,P250,0,"641,53€",Restricted Pistol
+227,Nevermore,P250,1,"3,81€",Restricted Pistol
+228,Forest Night,P250,0,"1,23€",Consumer Grade Pistol
+230,Cyber Shell,P250,1,"3,66€",Restricted Pistol
+231,Contamination,P250,0,"2,80€",Industrial Grade Pistol
+232,Contaminant,P250,1,"2,43€",Mil-Spec Pistol
+233,Exchanger,P250,0,"0,56€",Mil-Spec Pistol
+234,Iron Clad,P250,1,"2,56€",Mil-Spec Pistol
+235,Franklin,P250,0,"1,75€",Classified Pistol
+236,Hive,P250,1,"9,63€",Mil-Spec Pistol
+237,Bengal Tiger,P250,0,"20,66€",Mil-Spec Pistol
+238,Facility Draft,P250,0,"0,04€",Consumer Grade Pistol
+239,Cartel,P250,1,"77,80€",Classified Pistol
+240,Cassette,P250,1,"0,64€",Mil-Spec Pistol
+241,Drought,P250,0,"0,67€",Consumer Grade Pistol
+242,Crimson Kimono,P250,0,"25,05€",Industrial Grade Pistol
+243,Facets,P250,0,"25,58€",Industrial Grade Pistol
+244,Red Rock,P250,1,"25,68€",Restricted Pistol
+245,Asiimov,P250,1,Not Possible,Classified Pistol
+246,Steel Disruption,P250,1,"5,88€",Mil-Spec Pistol
+248,Boreal Forest,P250,0,"0,12€",Consumer Grade Pistol
+249,Visions,P250,1,"22,43€",Classified Pistol
+250,Wingshot,P250,1,"11,20€",Restricted Pistol
+251,Verdigris,P250,1,"1,71€",Mil-Spec Pistol
+252,Splash,P250,1,"121,73€",Restricted Pistol
+253,Ripple,P250,1,"0,95€",Mil-Spec Pistol
+254,Apep's Curse,P250,0,"124,29€",Classified Pistol
+255,Gunsmoke,P250,0,"33,63€",Industrial Grade Pistol
+256,Black & Tan,P250,0,"29,40€",Mil-Spec Pistol
+257,Valence,P250,1,"3,21€",Mil-Spec Pistol
+258,Canal Spray,R8 Revolver,0,"5,51€",Consumer Grade Pistol
+260,Reboot,R8 Revolver,1,"14,--€",Restricted Pistol
+261,Llama Cannon,R8 Revolver,1,"31,96€",Classified Pistol
+262,Memento,R8 Revolver,1,"6,33€",Mil-Spec Pistol
+263,Grip,R8 Revolver,1,"1,02€",Mil-Spec Pistol
+264,Inlay,R8 Revolver,0,"0,12€",Consumer Grade Pistol
+265,Crazy 8,R8 Revolver,1,"6,03€",Restricted Pistol
+266,Blaze,R8 Revolver,0,"1,50€",Mil-Spec Pistol
+267,Fade,R8 Revolver,1,"75,45€",Covert Pistol
+268,Crimson Web,R8 Revolver,1,"22,96€",Mil-Spec Pistol
+269,Survivalist,R8 Revolver,1,"1,29€",Mil-Spec Pistol
+270,Amber Fade,R8 Revolver,0,"1,07€",Classified Pistol
+271,Bone Forged,R8 Revolver,1,"0,82€",Mil-Spec Pistol
+272,Banana Cannon,R8 Revolver,1,"5,33€",Restricted Pistol
+273,Bone Mask,R8 Revolver,0,"0,08€",Consumer Grade Pistol
+274,Junk Yard,R8 Revolver,1,"1,94€",Mil-Spec Pistol
+275,Skull Crusher,R8 Revolver,1,Not Possible,Classified Pistol
+276,Phoenix Marker,R8 Revolver,0,"3,37€",Industrial Grade Pistol
+277,Desert Brush,R8 Revolver,0,"1,06€",Consumer Grade Pistol
+279,Jambiya,Tec-9,1,"4,08€",Mil-Spec Pistol
+280,Cut Out,Tec-9,1,"24,99€",Mil-Spec Pistol
+281,Fubar,Tec-9,1,Not Possible,Mil-Spec Pistol
+283,Nuclear Threat,Tec-9,0,"812,38€",Restricted Pistol
+284,Ossified,Tec-9,0,"1,36€",Mil-Spec Pistol
+285,Remote Control,Tec-9,0,"5,67€",Classified Pistol
+286,Bamboozle,Tec-9,1,"3,99€",Restricted Pistol
+287,Rust Leaf,Tec-9,0,"24,34€",Industrial Grade Pistol
+288,Fuel Injector,Tec-9,1,"39,97€",Classified Pistol
+289,Blast From the Past,Tec-9,0,"16,--€",Mil-Spec Pistol
+290,Orange Murano,Tec-9,0,"9,19€",Industrial Grade Pistol
+291,Urban DDPAT,Tec-9,0,"0,12€",Consumer Grade Pistol
+292,Flash Out,Tec-9,1,"1,09€",Mil-Spec Pistol
+293,Brass,Tec-9,0,"57,53€",Mil-Spec Pistol
+294,Cracked Opal,Tec-9,1,"1,65€",Mil-Spec Pistol
+295,Safety Net,Tec-9,0,"1,43€",Mil-Spec Pistol
+296,Army Mesh,Tec-9,0,"0,04€",Consumer Grade Pistol
+297,Isaac,Tec-9,1,"25,40€",Mil-Spec Pistol
+298,Decimator,Tec-9,1,"165,81€",Classified Pistol
+299,Titanium Bit,Tec-9,1,"21,07€",Restricted Pistol
+300,Hades,Tec-9,0,"22,96€",Industrial Grade Pistol
+301,Toxic,Tec-9,0,"8,28€",Mil-Spec Pistol
+302,Ice Cap,Tec-9,1,"1,45€",Mil-Spec Pistol
+304,Sandstorm,Tec-9,1,Not Possible,Mil-Spec Pistol
+305,Terrace,Tec-9,0,"128,12€",Mil-Spec Pistol
+307,Bamboo Forest,Tec-9,0,"6,71€",Consumer Grade Pistol
+308,Mummy's Rot,Tec-9,0,"2,41€",Mil-Spec Pistol
+309,Rebel,Tec-9,1,"1,12€",Mil-Spec Pistol
+310,Phoenix Chalk,Tec-9,0,"0,68€",Consumer Grade Pistol
+311,VariCamo,Tec-9,0,"0,16€",Industrial Grade Pistol
+313,Avalanche,Tec-9,1,"13,79€",Restricted Pistol
+314,Re-Entry,Tec-9,1,"4,37€",Restricted Pistol
+315,Snek-9,Tec-9,1,"3,68€",Mil-Spec Pistol
+316,Red Quartz,Tec-9,0,"0,13€",Restricted Pistol
+317,Brother,Tec-9,1,"3,98€",Restricted Pistol
+318,Forest Leaves,USP-S,0,"1,21€",Industrial Grade Pistol
+319,Night Ops,USP-S,0,"0,52€",Mil-Spec Pistol
+320,Cortex,USP-S,1,"29,--€",Classified Pistol
+321,Caiman,USP-S,1,"150,93€",Classified Pistol
+322,Cyrex,USP-S,1,"12,88€",Restricted Pistol
+323,Torque,USP-S,1,"5,08€",Mil-Spec Pistol
+324,Lead Conduit,USP-S,1,"22,27€",Mil-Spec Pistol
+325,Business Class,USP-S,0,"60,91€",Mil-Spec Pistol
+326,Stainless,USP-S,1,"81,66€",Mil-Spec Pistol
+327,Blueprint,USP-S,1,"128,06€",Mil-Spec Pistol
+328,Guardian,USP-S,1,"12,06€",Restricted Pistol
+329,Desert Tactical,USP-S,0,"0,77€",Industrial Grade Pistol
+330,Para Green,USP-S,0,"18,45€",Industrial Grade Pistol
+331,Overgrowth,USP-S,1,"292,31€",Restricted Pistol
+332,Target Acquired,USP-S,0,"234,72€",Classified Pistol
+333,Kill Confirmed,USP-S,1,"557,31€",Covert Pistol
+334,Black Lotus,USP-S,1,"44,51€",Mil-Spec Pistol
+335,Neo-Noir,USP-S,1,"121,57€",Covert Pistol
+336,Serum,USP-S,1,"62,12€",Classified Pistol
+338,Dark Water,USP-S,1,Not Possible,Restricted Pistol
+339,Orange Anolis,USP-S,0,"100,14€",Restricted Pistol
+340,The Traitor,USP-S,1,"196,71€",Covert Pistol
+341,Purple DDPAT,USP-S,0,"17,46€",Mil-Spec Pistol
+343,Pathfinder,USP-S,0,"28,92€",Industrial Grade Pistol
+344,Ancient Visions,USP-S,0,"52,94€",Restricted Pistol
+345,Orion,USP-S,1,"127,41€",Classified Pistol
+346,Royal Blue,USP-S,0,"57,90€",Industrial Grade Pistol
+347,Flashback,USP-S,1,"3,45€",Restricted Pistol
+348,Ticket to Hell,USP-S,1,"6,39€",Restricted Pistol
+349,Monster Mashup,USP-S,1,"92,20€",Classified Pistol
+350,Printstream,USP-S,1,"305,54€",Covert Pistol
+351,Road Rash,USP-S,0,"64,33€",Restricted Pistol
+352,Blood Tiger,USP-S,1,"11,37€",Mil-Spec Pistol
+353,Check Engine,USP-S,0,"1,49€",Mil-Spec Pistol
+354,Lapis Gator,MAC-10,1,"1,89€",Mil-Spec SMG
+356,Disco Tech,MAC-10,1,"44,30€",Classified SMG
+357,Stalker,MAC-10,1,"325,43€",Covert SMG
+359,Neon Rider,MAC-10,1,"41,51€",Covert SMG
+360,Echoing Sands,MAC-10,0,"0,76€",Industrial Grade SMG
+361,Commuter,MAC-10,0,"137,74€",Industrial Grade SMG
+362,Strats,MAC-10,0,"1,07€",Consumer Grade SMG
+363,Oceanic,MAC-10,1,"0,72€",Mil-Spec SMG
+364,Copper Borre,MAC-10,0,"137,95€",Mil-Spec SMG
+365,Sienna Damask,MAC-10,0,"0,71€",Consumer Grade SMG
+366,Red Filigree,MAC-10,0,"92,73€",Restricted SMG
+367,Case Hardened,MAC-10,0,"95,97€",Restricted SMG
+372,Carnivore,MAC-10,1,"2,30€",Mil-Spec SMG
+373,Palm,MAC-10,0,"0,21€",Industrial Grade SMG
+374,Pipe Down,MAC-10,1,"5,55€",Restricted SMG
+375,Nuclear Garden,MAC-10,0,"11,45€",Mil-Spec SMG
+376,Rangeen,MAC-10,1,"1,49€",Mil-Spec SMG
+377,Graven,MAC-10,1,"119,79€",Restricted SMG
+378,Whitefish,MAC-10,1,"2,31€",Mil-Spec SMG
+379,Sakkaku,MAC-10,1,Not Possible,Restricted SMG
+380,Heat,MAC-10,1,"17,61€",Restricted SMG
+381,Tatter,MAC-10,1,"17,41€",Restricted SMG
+382,Amber Fade,MAC-10,0,"20,49€",Mil-Spec SMG
+383,Button Masher,MAC-10,1,"3,05€",Restricted SMG
+384,Last Dive,MAC-10,1,"5,98€",Restricted SMG
+385,Calf Skin,MAC-10,0,"0,21€",Industrial Grade SMG
+386,Gold Brick,MAC-10,0,"71,06€",Restricted SMG
+387,Curse,MAC-10,1,"18,95€",Restricted SMG
+388,Urban DDPAT,MAC-10,0,"18,58€",Consumer Grade SMG
+389,Allure,MAC-10,1,"4,60€",Restricted SMG
+390,Toybox,MAC-10,1,"61,56€",Classified SMG
+391,Surfwood,MAC-10,0,"4,60€",Consumer Grade SMG
+392,Malachite,MAC-10,1,"9,18€",Restricted SMG
+393,Fade,MAC-10,0,"36,73€",Mil-Spec SMG
+394,Classic Crate,MAC-10,1,"1,34€",Mil-Spec SMG
+395,Aloha,MAC-10,1,"6,39€",Mil-Spec SMG
+396,Ensnared,MAC-10,1,"1,10€",Mil-Spec SMG
+397,Hot Snakes,MAC-10,0,"241,04€",Classified SMG
+398,Monkeyflage,MAC-10,1,"0,95€",Mil-Spec SMG
+399,Propaganda,MAC-10,0,"38,52€",Classified SMG
+400,Co-Processor,MP5-SD,0,"0,56€",Mil-Spec SMG
+402,Dirt Drop,MP5-SD,0,"0,07€",Consumer Grade SMG
+403,Necro Jr.,MP5-SD,1,"1,01€",Mil-Spec SMG
+404,Oxide Oasis,MP5-SD,0,"398,30€",Classified SMG
+405,Agent,MP5-SD,1,"13,90€",Restricted SMG
+406,Acid Wash,MP5-SD,1,"4,17€",Mil-Spec SMG
+407,Autumn Twilly,MP5-SD,0,"7,57€",Restricted SMG
+408,Condition Zero,MP5-SD,1,"4,12€",Mil-Spec SMG
+409,Gauss,MP5-SD,1,"3,70€",Restricted SMG
+410,Bamboo Garden,MP5-SD,0,"4,39€",Consumer Grade SMG
+411,Kitbash,MP5-SD,1,"3,70€",Restricted SMG
+412,Desert Strike,MP5-SD,1,"1,23€",Mil-Spec SMG
+413,Phosphor,MP5-SD,1,"22,89€",Classified SMG
+414,Lab Rats,MP5-SD,0,No Recent Price,Restricted SMG
+415,Liquidation,MP5-SD,1,"1,60€",Mil-Spec SMG
+416,Ocean Foam,MP7,1,"7,68€",Restricted SMG
+417,Fade,MP7,0,"7,99€",Restricted SMG
+418,Vault Heist,MP7,0,"3,16€",Industrial Grade SMG
+419,Gunsmoke,MP7,0,"12,45€",Industrial Grade SMG
+420,Urban Hazard,MP7,1,"0,82€",Mil-Spec SMG
+421,Asterion,MP7,0,"5,73€",Consumer Grade SMG
+423,Forest DDPAT,MP7,0,"0,06€",Consumer Grade SMG
+424,Cirrus,MP7,1,"2,42€",Mil-Spec SMG
+426,Abyssal Apparition,MP7,1,"17,84€",Classified SMG
+427,Neon Ply,MP7,1,"13,94€",Restricted SMG
+428,Tall Grass,MP7,0,"3,36€",Industrial Grade SMG
+429,Motherboard,MP7,0,"0,10€",Industrial Grade SMG
+430,Special Delivery,MP7,1,"9,69€",Restricted SMG
+431,Impire,MP7,1,"9,18€",Restricted SMG
+432,Teal Blossom,MP7,0,"98,82€",Mil-Spec SMG
+433,Skulls,MP7,1,Not Possible,Mil-Spec SMG
+434,Akoben,MP7,1,"1,20€",Mil-Spec SMG
+435,Bloodsport,MP7,1,"15,79€",Covert SMG
+436,Nemesis,MP7,1,"36,95€",Classified SMG
+437,Olive Plaid,MP7,0,"3,68€",Consumer Grade SMG
+438,Guerrilla,MP7,1,"4,01€",Mil-Spec SMG
+439,Armor Core,MP7,1,"0,78€",Mil-Spec SMG
+440,Mischief,MP7,1,Not Possible,Mil-Spec SMG
+441,Prey,MP7,0,"1,08€",Consumer Grade SMG
+442,Scorched,MP7,0,"8,47€",Consumer Grade SMG
+443,Sunbaked,MP7,0,"0,14€",Consumer Grade SMG
+444,Powercore,MP7,1,"6,98€",Restricted SMG
+445,Orange Peel,MP7,0,"13,52€",Industrial Grade SMG
+447,Army Recon,MP7,0,"0,05€",Consumer Grade SMG
+449,Full Stop,MP7,0,"31,38€",Mil-Spec SMG
+450,Sand Scale,MP9,1,"1,17€",Mil-Spec SMG
+452,Capillary,MP9,1,"1,82€",Mil-Spec SMG
+453,Hypnotic,MP9,1,"31,25€",Restricted SMG
+454,Stained Glass,MP9,0,"131,65€",Restricted SMG
+455,Orange Peel,MP9,0,"0,28€",Industrial Grade SMG
+456,Ruby Poison Dart,MP9,1,"7,--€",Restricted SMG
+457,Featherweight,MP9,1,"1,39€",Mil-Spec SMG
+458,Modest Threat,MP9,1,"0,88€",Mil-Spec SMG
+459,Mount Fuji,MP9,1,"28,54€",Restricted SMG
+460,Airlock,MP9,1,"24,56€",Classified SMG
+461,Army Sheen,MP9,0,"0,81€",Consumer Grade SMG
+462,Wild Lily,MP9,0,No Recent Price,Classified SMG
+463,Deadly Poison,MP9,1,"5,43€",Mil-Spec SMG
+464,Dark Age,MP9,0,"127,78€",Mil-Spec SMG
+465,Sand Dashed,MP9,0,"0,09€",Consumer Grade SMG
+466,Green Plaid,MP9,0,"4,48€",Consumer Grade SMG
+467,Starlight Protector,MP9,1,"64,89€",Covert SMG
+468,Music Box,MP9,0,"17,48€",Mil-Spec SMG
+469,Bioleak,MP9,1,"1,34€",Mil-Spec SMG
+470,Pandora's Box,MP9,0,"166,44€",Mil-Spec SMG
+471,Old Roots,MP9,0,"5,48€",Industrial Grade SMG
+472,Slide,MP9,0,"0,07€",Consumer Grade SMG
+473,Food Chain,MP9,1,"25,03€",Classified SMG
+474,Black Sand,MP9,1,"1,02€",Mil-Spec SMG
+476,Dry Season,MP9,0,"53,78€",Consumer Grade SMG
+477,Setting Sun,MP9,0,"11,19€",Mil-Spec SMG
+479,Goo,MP9,1,"4,36€",Restricted SMG
+480,Dart,MP9,1,"2,50€",Mil-Spec SMG
+481,Rose Iron,MP9,1,"17,02€",Restricted SMG
+482,Hydra,MP9,1,"42,87€",Classified SMG
+483,Night Riot,PP-Bizon,1,"0,78€",Mil-Spec SMG
+484,Rust Coat,PP-Bizon,0,"26,79€",Mil-Spec SMG
+485,Night Ops,PP-Bizon,0,"0,10€",Industrial Grade SMG
+486,Lumen,PP-Bizon,1,"4,09€",Mil-Spec SMG
+487,Urban Dashed,PP-Bizon,0,"0,09€",Consumer Grade SMG
+488,Antique,PP-Bizon,1,"19,19€",Restricted SMG
+489,Brass,PP-Bizon,0,"2,28€",Mil-Spec SMG
+491,Space Cat,PP-Bizon,1,"2,84€",Restricted SMG
+492,Osiris,PP-Bizon,1,"4,79€",Restricted SMG
+493,Cobalt Halftone,PP-Bizon,1,"4,81€",Mil-Spec SMG
+494,Blue Streak,PP-Bizon,1,"25,09€",Restricted SMG
+495,Runic,PP-Bizon,1,"1,07€",Mil-Spec SMG
+496,Photic Zone,PP-Bizon,1,"5,12€",Mil-Spec SMG
+497,Facility Sketch,PP-Bizon,0,"0,04€",Consumer Grade SMG
+498,Jungle Slipstream,PP-Bizon,1,"0,91€",Mil-Spec SMG
+499,High Roller,PP-Bizon,1,"32,45€",Classified SMG
+500,Water Sigil,PP-Bizon,1,"5,68€",Mil-Spec SMG
+501,Breaker Box,PP-Bizon,0,"3,69€",Industrial Grade SMG
+502,Anolis,PP-Bizon,0,"0,75€",Consumer Grade SMG
+503,Irradiated Alert,PP-Bizon,0,"27,85€",Consumer Grade SMG
+504,Embargo,PP-Bizon,1,"15,89€",Restricted SMG
+506,Harvester,PP-Bizon,1,"1,77€",Mil-Spec SMG
+507,Carbon Fiber,PP-Bizon,0,"13,99€",Industrial Grade SMG
+508,Fuel Rod,PP-Bizon,1,"11,37€",Restricted SMG
+509,Judgement of Anubis,PP-Bizon,1,"44,51€",Covert SMG
+510,Forest Leaves,PP-Bizon,0,"33,29€",Consumer Grade SMG
+511,Bamboo Print,PP-Bizon,0,"5,04€",Consumer Grade SMG
+512,Modern Hunter,PP-Bizon,0,"155,84€",Mil-Spec SMG
+514,Sand Dashed,PP-Bizon,0,"0,07€",Consumer Grade SMG
+515,Death Rattle,PP-Bizon,0,Not Possible,Consumer Grade SMG
+516,Death by Kitty,P90,1,Not Possible,Covert SMG
+517,Ash Wood,P90,0,"0,16€",Industrial Grade SMG
+518,Chopper,P90,1,"5,78€",Restricted SMG
+519,Ancient Earth,P90,0,"0,75€",Consumer Grade SMG
+520,Virus,P90,1,"32,45€",Restricted SMG
+521,Verdant Growth,P90,0,"3,51€",Industrial Grade SMG
+522,Shallow Grave,P90,1,"17,84€",Classified SMG
+523,Glacier Mesh,P90,0,"25,01€",Mil-Spec SMG
+524,Leather,P90,0,"18,07€",Industrial Grade SMG
+525,Asiimov,P90,1,"193,84€",Covert SMG
+526,Astral Jörmungandr,P90,0,"346,58€",Restricted SMG
+527,Emerald Dragon,P90,1,"1 422,67€",Classified SMG
+528,Death Grip,P90,1,"35,52€",Restricted SMG
+529,Shapewood,P90,1,"37,15€",Classified SMG
+530,Teardown,P90,0,"0,51€",Mil-Spec SMG
+531,Freight,P90,1,"0,88€",Mil-Spec SMG
+532,Grim,P90,1,"2,48€",Mil-Spec SMG
+534,Module,P90,1,"3,31€",Mil-Spec SMG
+535,Elite Build,P90,1,"5,73€",Mil-Spec SMG
+536,ScaraB Rush,P90,0,"13,39€",Restricted SMG
+537,Blind Spot,P90,1,"22,25€",Restricted SMG
+538,Tiger Pit,P90,0,"14,78€",Mil-Spec SMG
+539,Scorched,P90,0,"8,45€",Consumer Grade SMG
+540,Sand Spray,P90,0,"0,08€",Consumer Grade SMG
+541,Desert Warfare,P90,1,"14,90€",Mil-Spec SMG
+542,Sunset Lily,P90,0,"25,91€",Industrial Grade SMG
+543,Vent Rush,P90,1,"4,41€",Restricted SMG
+544,Traction,P90,1,"4,59€",Mil-Spec SMG
+545,Run and Hide,P90,0,"335,17€",Classified SMG
+546,Cold Blooded,P90,1,"91,83€",Classified SMG
+547,Schematic,P90,0,"13,97€",Mil-Spec SMG
+548,Facility Negative,P90,0,"0,56€",Mil-Spec SMG
+549,Neoqueen,P90,1,"4,21€",Restricted SMG
+550,Fallout Warning,P90,0,"275,49€",Industrial Grade SMG
+551,Baroque Red,P90,0,"32,33€",Mil-Spec SMG
+552,Trigon,P90,1,Not Possible,Classified SMG
+553,Cocoa Rampage,P90,1,"2,29€",Mil-Spec SMG
+554,Off World,P90,1,"1,75€",Mil-Spec SMG
+555,Desert DDPAT,P90,0,"1,06€",Consumer Grade SMG
+556,Nostalgia,P90,1,"26,15€",Classified SMG
+557,Roadblock,UMP-45,1,"0,92€",Mil-Spec SMG
+558,Corporal,UMP-45,1,"1,39€",Mil-Spec SMG
+559,Mechanism,UMP-45,0,"4,23€",Industrial Grade SMG
+560,Momentum,UMP-45,1,"20,39€",Classified SMG
+561,Exposure,UMP-45,1,"3,32€",Restricted SMG
+562,Scorched,UMP-45,0,"5,--€",Consumer Grade SMG
+563,Fallout Warning,UMP-45,0,"107,76€",Industrial Grade SMG
+564,Oscillator,UMP-45,1,"1,55€",Mil-Spec SMG
+565,Plastique,UMP-45,1,"4,71€",Restricted SMG
+566,Gunsmoke,UMP-45,0,"0,18€",Industrial Grade SMG
+567,Wild Child,UMP-45,1,"31,14€",Classified SMG
+568,Riot,UMP-45,1,"1,33€",Mil-Spec SMG
+569,Delusion,UMP-45,1,"4,65€",Mil-Spec SMG
+570,Grand Prix,UMP-45,1,Not Possible,Restricted SMG
+571,Full Stop,UMP-45,0,"1,59€",Mil-Spec SMG
+572,Fade,UMP-45,0,"582,47€",Classified SMG
+573,Bone Pile,UMP-45,1,"34,94€",Mil-Spec SMG
+574,Carbon Fiber,UMP-45,0,"0,14€",Industrial Grade SMG
+575,Metal Flowers,UMP-45,1,"6,28€",Mil-Spec SMG
+576,Briefing,UMP-45,1,"1,31€",Mil-Spec SMG
+577,Arctic Wolf,UMP-45,1,"3,68€",Restricted SMG
+578,Blaze,UMP-45,0,"18,37€",Mil-Spec SMG
+580,Urban DDPAT,UMP-45,0,"0,09€",Consumer Grade SMG
+581,Mudder,UMP-45,0,"0,06€",Consumer Grade SMG
+584,Labyrinth,UMP-45,1,"0,85€",Mil-Spec SMG
+585,Scaffold,UMP-45,1,"7,65€",Restricted SMG
+586,Day Lily,UMP-45,0,"96,67€",Mil-Spec SMG
+587,Facility Dark,UMP-45,0,"0,04€",Consumer Grade SMG
+588,Gold Bismuth,UMP-45,1,"11,16€",Restricted SMG
+589,Moonrise,UMP-45,1,"3,33€",Restricted SMG
+590,Crime Scene,UMP-45,0,"94,02€",Restricted SMG
+591,Minotaur's Labyrinth,UMP-45,0,"120,52€",Mil-Spec SMG
+592,Houndstooth,UMP-45,0,"3,12€",Industrial Grade SMG
+593,Primal Saber,UMP-45,1,"21,87€",Classified SMG
+594,Metallic DDPAT,MAG-7,0,"0,15€",Industrial Grade Shotgun
+595,Counter Terrace,MAG-7,0,"120,55€",Mil-Spec Shotgun
+596,Cinquedea,MAG-7,0,"813,75€",Classified Shotgun
+597,Memento,MAG-7,1,"8,98€",Mil-Spec Shotgun
+598,Firestarter,MAG-7,1,"12,89€",Mil-Spec Shotgun
+599,Popdog,MAG-7,1,"0,91€",Mil-Spec Shotgun
+600,Navy Sheen,MAG-7,0,"0,68€",Consumer Grade Shotgun
+601,Hard Water,MAG-7,1,"5,86€",Mil-Spec Shotgun
+603,Copper Coated,MAG-7,0,"2,29€",Mil-Spec Shotgun
+604,SWAG-7,MAG-7,1,"4,48€",Restricted Shotgun
+606,Rust Coat,MAG-7,0,"0,06€",Consumer Grade Shotgun
+607,Heat,MAG-7,1,"8,59€",Restricted Shotgun
+608,Hazard,MAG-7,0,"148,74€",Mil-Spec Shotgun
+609,Insomnia,MAG-7,1,"0,98€",Mil-Spec Shotgun
+610,Carbon Fiber,MAG-7,0,"4,28€",Industrial Grade Shotgun
+611,Justice,MAG-7,1,"29,76€",Classified Shotgun
+612,Core Breach,MAG-7,0,"4,84€",Restricted Shotgun
+613,Praetorian,MAG-7,1,"9,86€",Restricted Shotgun
+614,Monster Call,MAG-7,1,"4,87€",Restricted Shotgun
+615,Foresight,MAG-7,1,"0,65€",Mil-Spec Shotgun
+616,Irradiated Alert,MAG-7,0,"21,85€",Consumer Grade Shotgun
+619,BI83 Spectrum,MAG-7,1,"6,96€",Restricted Shotgun
+620,Prism Terrace,MAG-7,0,"52,56€",Restricted Shotgun
+621,Sonar,MAG-7,1,"1,30€",Mil-Spec Shotgun
+622,Cobalt Core,MAG-7,1,"1,51€",Mil-Spec Shotgun
+623,Petroglyph,MAG-7,1,"4,13€",Restricted Shotgun
+624,Chainmail,MAG-7,0,"28,94€",Industrial Grade Shotgun
+625,Heaven Guard,MAG-7,1,"1,25€",Mil-Spec Shotgun
+627,Baroque Orange,Nova,0,"102,87€",Restricted Shotgun
+628,Mandrel,Nova,0,"0,04€",Consumer Grade Shotgun
+629,Red Quartz,Nova,0,"8,66€",Restricted Shotgun
+630,Modern Hunter,Nova,0,"294,24€",Mil-Spec Shotgun
+631,Caged Steel,Nova,0,"0,14€",Industrial Grade Shotgun
+632,Wood Fired,Nova,1,"0,68€",Mil-Spec Shotgun
+633,Tempest,Nova,1,"29,83€",Mil-Spec Shotgun
+635,Blaze Orange,Nova,0,"927,31€",Mil-Spec Shotgun
+636,Koi,Nova,1,"4,49€",Restricted Shotgun
+637,Plume,Nova,1,"3,98€",Mil-Spec Shotgun
+638,Windblown,Nova,1,"1,61€",Mil-Spec Shotgun
+639,Bloomstick,Nova,1,"276,32€",Classified Shotgun
+640,Antique,Nova,1,"28,74€",Classified Shotgun
+642,Graphite,Nova,1,"35,19€",Restricted Shotgun
+643,Moon in Libra,Nova,0,"5,37€",Consumer Grade Shotgun
+645,Predator,Nova,0,"0,09€",Consumer Grade Shotgun
+646,Interlock,Nova,0,"14,67€",Mil-Spec Shotgun
+648,Quick Sand,Nova,0,"29,94€",Mil-Spec Shotgun
+649,Clear Polymer,Nova,1,"11,46€",Restricted Shotgun
+650,Walnut,Nova,0,"20,08€",Consumer Grade Shotgun
+651,Rust Coat,Nova,0,"3,38€",Industrial Grade Shotgun
+652,Forest Leaves,Nova,0,"34,95€",Consumer Grade Shotgun
+653,Army Sheen,Nova,0,"0,69€",Consumer Grade Shotgun
+654,Hyper Beast,Nova,1,"72,31€",Classified Shotgun
+655,Ranger,Nova,1,"1,92€",Mil-Spec Shotgun
+656,Toy Soldier,Nova,1,"9,38€",Restricted Shotgun
+657,Rising Skull,Nova,1,"16,47€",Restricted Shotgun
+658,Wild Six,Nova,1,"3,32€",Restricted Shotgun
+659,Gila,Nova,1,"3,19€",Restricted Shotgun
+660,Polar Mesh,Nova,0,"0,08€",Consumer Grade Shotgun
+661,Ghost Camo,Nova,1,"5,86€",Mil-Spec Shotgun
+662,Sobek's Bite,Nova,0,"12,80€",Restricted Shotgun
+663,Exo,Nova,1,"0,91€",Mil-Spec Shotgun
+664,Brake Light,Sawed-Off,0,"0,89€",Mil-Spec Shotgun
+665,Copper,Sawed-Off,0,"125,08€",Mil-Spec Shotgun
+666,Amber Fade,Sawed-Off,0,"0,52€",Mil-Spec Shotgun
+667,Black Sand,Sawed-Off,1,"0,81€",Mil-Spec Shotgun
+668,The Kraken,Sawed-Off,1,"47,37€",Covert Shotgun
+669,Highwayman,Sawed-Off,1,"7,94€",Restricted Shotgun
+670,Parched,Sawed-Off,0,"1,06€",Consumer Grade Shotgun
+671,Mosaico,Sawed-Off,0,"34,93€",Industrial Grade Shotgun
+672,Morris,Sawed-Off,1,"0,91€",Mil-Spec Shotgun
+673,Devourer,Sawed-Off,1,"32,44€",Classified Shotgun
+674,Snake Camo,Sawed-Off,0,"0,18€",Industrial Grade Shotgun
+675,Jungle Thicket,Sawed-Off,0,"4,39€",Consumer Grade Shotgun
+676,Irradiated Alert,Sawed-Off,0,"14,34€",Consumer Grade Shotgun
+677,Rust Coat,Sawed-Off,0,"22,66€",Industrial Grade Shotgun
+678,Apocalypto,Sawed-Off,1,"3,95€",Restricted Shotgun
+679,Forest DDPAT,Sawed-Off,0,"0,05€",Consumer Grade Shotgun
+681,Limelight,Sawed-Off,1,"6,52€",Restricted Shotgun
+682,Wasteland Princess,Sawed-Off,1,"17,73€",Classified Shotgun
+683,Full Stop,Sawed-Off,0,"0,51€",Mil-Spec Shotgun
+684,Fubar,Sawed-Off,1,Not Possible,Mil-Spec Shotgun
+685,Zander,Sawed-Off,1,"1,57€",Mil-Spec Shotgun
+686,Kiss♥Love,Sawed-Off,1,"28,94€",Classified Shotgun
+687,Orange DDPAT,Sawed-Off,1,"169,37€",Restricted Shotgun
+688,Serenity,Sawed-Off,1,"7,36€",Restricted Shotgun
+689,Sage Spray,Sawed-Off,0,"5,97€",Consumer Grade Shotgun
+690,Clay Ambush,Sawed-Off,0,"0,58€",Consumer Grade Shotgun
+691,Yorick,Sawed-Off,1,"1,53€",Mil-Spec Shotgun
+692,Bamboo Shadow,Sawed-Off,0,"4,44€",Consumer Grade Shotgun
+693,First Class,Sawed-Off,0,"42,23€",Mil-Spec Shotgun
+694,Origami,Sawed-Off,1,"0,79€",Mil-Spec Shotgun
+695,Spirit Board,Sawed-Off,1,"0,85€",Mil-Spec Shotgun
+696,Frost Borre,XM1014,0,"129,77€",Mil-Spec Shotgun
+698,Incinegator,XM1014,1,Not Possible,Classified Shotgun
+699,Entombed,XM1014,1,"18,63€",Classified Shotgun
+700,Heaven Guard,XM1014,1,"23,92€",Restricted Shotgun
+701,Fallout Warning,XM1014,0,"190,58€",Industrial Grade Shotgun
+702,Ancient Lore,XM1014,0,"52,49€",Restricted Shotgun
+703,Blue Tire,XM1014,0,"1,13€",Consumer Grade Shotgun
+704,Red Python,XM1014,1,Not Possible,Mil-Spec Shotgun
+705,Watchdog,XM1014,1,"22,96€",Mil-Spec Shotgun
+706,Slipstream,XM1014,1,"1,29€",Mil-Spec Shotgun
+707,Blaze Orange,XM1014,0,No Recent Price,Mil-Spec Shotgun
+708,Banana Leaf,XM1014,0,"24,59€",Industrial Grade Shotgun
+709,Blue Steel,XM1014,0,"0,22€",Industrial Grade Shotgun
+710,Zombie Offensive,XM1014,1,"2,89€",Restricted Shotgun
+711,Quicksilver,XM1014,1,"1,71€",Mil-Spec Shotgun
+712,Scumbria,XM1014,1,"2,90€",Mil-Spec Shotgun
+713,Teclu Burner,XM1014,1,"8,34€",Restricted Shotgun
+714,Urban Perforated,XM1014,0,"8,53€",Consumer Grade Shotgun
+715,VariCamo Blue,XM1014,0,"16,27€",Mil-Spec Shotgun
+716,Red Leather,XM1014,0,"55,27€",Mil-Spec Shotgun
+717,Tranquility,XM1014,1,"89,84€",Classified Shotgun
+719,Bone Machine,XM1014,0,"8,21€",Mil-Spec Shotgun
+720,Oxide Blaze,XM1014,1,"0,66€",Mil-Spec Shotgun
+721,Black Tie,XM1014,1,"12,26€",Restricted Shotgun
+722,Seasons,XM1014,1,"6,52€",Restricted Shotgun
+723,Ziggy,XM1014,1,"4,28€",Restricted Shotgun
+724,XOXO,XM1014,1,"25,50€",Classified Shotgun
+726,Hieroglyph,XM1014,0,"0,15€",Consumer Grade Shotgun
+727,Elegant Vines,XM1014,0,"69,53€",Restricted Shotgun
+729,CaliCamo,XM1014,0,"0,10€",Industrial Grade Shotgun
+730,Charter,XM1014,0,"0,80€",Consumer Grade Shotgun
+731,Humidor,M249,0,"21,97€",Mil-Spec Machine Gun
+732,Downtown,M249,1,"4,23€",Restricted Machine Gun
+733,Magma,M249,1,"2,67€",Mil-Spec Machine Gun
+734,Warbird,M249,1,"3,03€",Mil-Spec Machine Gun
+735,Emerald Poison Dart,M249,1,"5,94€",Restricted Machine Gun
+736,System Lock,M249,1,"2,03€",Mil-Spec Machine Gun
+737,Nebula Crusader,M249,1,"11,63€",Restricted Machine Gun
+738,O.S.I.P.R.,M249,1,"1,61€",Mil-Spec Machine Gun
+739,Midnight Palm,M249,0,"5,49€",Industrial Grade Machine Gun
+740,Spectre,M249,1,"1,02€",Mil-Spec Machine Gun
+741,Jungle DDPAT,M249,0,"24,48€",Consumer Grade Machine Gun
+742,Contrast Spray,M249,0,"4,98€",Consumer Grade Machine Gun
+743,Aztec,M249,1,"4,31€",Restricted Machine Gun
+745,Gator Mesh,M249,0,"0,11€",Industrial Grade Machine Gun
+746,Predator,M249,0,"1,27€",Consumer Grade Machine Gun
+747,Shipping Forecast,M249,0,"20,96€",Industrial Grade Machine Gun
+748,Blizzard Marbleized,M249,0,"251,70€",Industrial Grade Machine Gun
+749,Deep Relief,M249,1,"2,53€",Mil-Spec Machine Gun
+751,Submerged,M249,0,"0,13€",Consumer Grade Machine Gun
+752,Infrastructure,Negev,0,"14,57€",Mil-Spec Machine Gun
+753,Boroque Sand,Negev,0,"4,54€",Consumer Grade Machine Gun
+754,Man-o'-war,Negev,1,Not Possible,Mil-Spec Machine Gun
+755,Nuclear Waste,Negev,0,"2,80€",Industrial Grade Machine Gun
+756,Lionfish,Negev,1,"3,30€",Restricted Machine Gun
+757,Mjölnir,Negev,0,No Recent Price,Classified Machine Gun
+758,dev_texture,Negev,1,"3,32€",Restricted Machine Gun
+759,Desert-Strike,Negev,1,"0,81€",Mil-Spec Machine Gun
+760,Bratatat,Negev,1,"25,94€",Mil-Spec Machine Gun
+761,Loudmouth,Negev,1,Not Possible,Restricted Machine Gun
+762,Palm,Negev,0,"82,51€",Industrial Grade Machine Gun
+763,Power Loader,Negev,1,"31,99€",Restricted Machine Gun
+765,Bulkhead,Negev,0,"0,10€",Industrial Grade Machine Gun
+766,Terrain,Negev,1,"1,39€",Mil-Spec Machine Gun
+767,Phoenix Stencil,Negev,0,"14,97€",Mil-Spec Machine Gun
+768,Dazzle,Negev,1,Not Possible,Mil-Spec Machine Gun
+769,Prototype,Negev,1,"1,02€",Mil-Spec Machine Gun
+770,CaliCamo,Negev,0,"11,53€",Industrial Grade Machine Gun
+771,Army Sheen,Negev,0,"0,04€",Consumer Grade Machine Gun
+772,Drop Me,Negev,1,"1,06€",Mil-Spec Machine Gun
+773,Ultralight,Negev,1,"0,66€",Mil-Spec Machine Gun
+774,Jaguar,AK-47,1,"699,22€",Covert Rifle
+775,Head Shot,AK-47,1,"211,25€",Covert Rifle
+776,Neon Rider,AK-47,1,"389,47€",Covert Rifle
+777,Red Laminate,AK-47,1,"1 546,33€",Classified Rifle
+778,Rat Rod,AK-47,1,"36,95€",Restricted Rifle
+779,Redline,AK-47,1,Not Possible,Classified Rifle
+780,Legion of Anubis,AK-47,1,"64,72€",Covert Rifle
+781,Point Disarray,AK-47,1,"87,77€",Classified Rifle
+782,Aquamarine Revenge,AK-47,1,"299,67€",Covert Rifle
+783,Frontside Misty,AK-47,1,"153,56€",Classified Rifle
+784,Baroque Purple,AK-47,0,"16,22€",Industrial Grade Rifle
+785,Black Laminate,AK-47,0,"204,83€",Mil-Spec Rifle
+787,Blue Laminate,AK-47,1,"44,92€",Restricted Rifle
+788,Nightwish,AK-47,1,"173,75€",Covert Rifle
+789,X-Ray,AK-47,0,No Recent Price,Covert Rifle
+790,Neon Revolution,AK-47,1,"165,53€",Covert Rifle
+791,Wasteland Rebel,AK-47,1,No Recent Price,Covert Rifle
+792,Orbit Mk01,AK-47,1,"68,85€",Restricted Rifle
+793,Jungle Spray,AK-47,0,"138,73€",Industrial Grade Rifle
+794,Uncharted,AK-47,1,"5,30€",Mil-Spec Rifle
+795,Asiimov,AK-47,1,"567,50€",Covert Rifle
+796,Vulcan,AK-47,1,No Recent Price,Covert Rifle
+797,Predator,AK-47,0,"53,32€",Industrial Grade Rifle
+798,Fire Serpent,AK-47,1,No Recent Price,Covert Rifle
+799,First Class,AK-47,0,"159,72€",Restricted Rifle
+800,Jet Set,AK-47,0,"1 053,83€",Classified Rifle
+801,Green Laminate,AK-47,0,"26,15€",Mil-Spec Rifle
+802,Slate,AK-47,1,"43,72€",Restricted Rifle
+803,Bloodsport,AK-47,1,"314,71€",Covert Rifle
+804,Gold Arabesque,AK-47,0,No Recent Price,Covert Rifle
+805,The Empress,AK-47,1,"338,45€",Covert Rifle
+806,Elite Build,AK-47,1,"24,32€",Mil-Spec Rifle
+807,Panthera onca,AK-47,0,"359,38€",Classified Rifle
+808,Emerald Pinstripe,AK-47,0,"9,21€",Restricted Rifle
+809,Steel Delta,AK-47,0,"2,90€",Mil-Spec Rifle
+810,Safari Mesh,AK-47,0,"2,14€",Industrial Grade Rifle
+811,Wild Lotus,AK-47,0,No Recent Price,Covert Rifle
+812,Fuel Injector,AK-47,1,No Recent Price,Covert Rifle
+813,Ice Coaled,AK-47,1,"55,46€",Classified Rifle
+814,Cartel,AK-47,1,"94,49€",Classified Rifle
+815,Leet Museo,AK-47,1,"180,82€",Covert Rifle
+816,Phantom Disruptor,AK-47,1,"36,07€",Classified Rifle
+817,Case Hardened,AK-47,1,"1 205,36€",Classified Rifle
+818,Hydroponic,AK-47,0,No Recent Price,Classified Rifle
+819,Safety Net,AK-47,0,"8,46€",Restricted Rifle
+820,Navy Murano,AUG,0,"4,85€",Consumer Grade Rifle
+821,Arctic Wolf,AUG,1,"20,96€",Restricted Rifle
+822,Tom Cat,AUG,1,"1,34€",Mil-Spec Rifle
+823,Syd Mead,AUG,1,"20,65€",Classified Rifle
+824,Carved Jade,AUG,0,"20,65€",Mil-Spec Rifle
+825,Sweeper,AUG,0,"0,05€",Consumer Grade Rifle
+826,Chameleon,AUG,1,"24,97€",Covert Rifle
+827,Torque,AUG,1,"18,12€",Restricted Rifle
+828,Spalted Wood,AUG,0,"5,72€",Industrial Grade Rifle
+829,Snake Pit,AUG,0,"0,12€",Consumer Grade Rifle
+831,Death by Puppy,AUG,1,"29,85€",Classified Rifle
+832,Wings,AUG,1,"26,70€",Mil-Spec Rifle
+833,Surveillance,AUG,0,"0,79€",Consumer Grade Rifle
+834,Fleet Flock,AUG,1,"26,97€",Classified Rifle
+835,Sand Storm,AUG,0,"72,20€",Restricted Rifle
+836,Akihabara Accept,AUG,0,No Recent Price,Covert Rifle
+837,Amber Slipstream,AUG,1,"1,14€",Mil-Spec Rifle
+838,Ricochet,AUG,1,"2,59€",Mil-Spec Rifle
+839,Bengal Tiger,AUG,1,"97,74€",Classified Rifle
+840,Copperhead,AUG,0,Not Possible,Mil-Spec Rifle
+841,Condemned,AUG,0,"0,26€",Industrial Grade Rifle
+842,Daedalus,AUG,0,"5,14€",Consumer Grade Rifle
+843,Momentum,AUG,1,"62,10€",Classified Rifle
+845,Aristocrat,AUG,1,"7,06€",Restricted Rifle
+846,Flame Jörmungandr,AUG,0,"339,20€",Restricted Rifle
+847,Plague,AUG,1,"4,44€",Mil-Spec Rifle
+848,Stymphalian,AUG,1,"17,41€",Classified Rifle
+849,Triqua,AUG,1,"2,53€",Mil-Spec Rifle
+850,Radiation Hazard,AUG,0,"2,48€",Industrial Grade Rifle
+852,Midnight Lily,AUG,0,"347,73€",Restricted Rifle
+853,Amber Fade,AUG,0,"1,49€",Mil-Spec Rifle
+855,Random Access,AUG,0,"4,64€",Restricted Rifle
+857,BOOM,AWP,1,"1 033,06€",Classified Sniper Rifle
+858,Black Nile,AWP,0,"5,99€",Mil-Spec Sniper Rifle
+859,Graphite,AWP,1,"486,28€",Classified Sniper Rifle
+860,Neo-Noir,AWP,1,"86,24€",Covert Sniper Rifle
+861,The Prince,AWP,0,No Recent Price,Covert Sniper Rifle
+863,Mortis,AWP,1,"16,65€",Classified Sniper Rifle
+864,Elite Build,AWP,1,"82,65€",Classified Sniper Rifle
+865,PAW,AWP,1,"14,01€",Restricted Sniper Rifle
+866,Redline,AWP,1,Not Possible,Classified Sniper Rifle
+867,Fade,AWP,0,"1 337,63€",Covert Sniper Rifle
+868,Pit Viper,AWP,0,Not Possible,Restricted Sniper Rifle
+869,Safari Mesh,AWP,0,"1,27€",Industrial Grade Sniper Rifle
+870,Lightning Strike,AWP,1,"988,51€",Covert Sniper Rifle
+871,Medusa,AWP,0,No Recent Price,Covert Sniper Rifle
+872,Snake Camo,AWP,0,"277,69€",Mil-Spec Sniper Rifle
+873,Silk Tiger,AWP,0,"343,77€",Classified Sniper Rifle
+874,Exoskeleton,AWP,1,"33,37€",Restricted Sniper Rifle
+875,Phobos,AWP,1,"6,13€",Restricted Sniper Rifle
+876,Sun in Leo,AWP,0,"37,43€",Industrial Grade Sniper Rifle
+877,Chromatic Aberration,AWP,1,"57,10€",Covert Sniper Rifle
+878,Duality,AWP,1,"38,66€",Classified Sniper Rifle
+879,Atheris,AWP,1,"44,44€",Restricted Sniper Rifle
+880,POP AWP,AWP,0,"7,74€",Restricted Sniper Rifle
+881,Corticera,AWP,1,"115,23€",Classified Sniper Rifle
+882,Capillary,AWP,1,"10,56€",Mil-Spec Sniper Rifle
+883,Oni Taiji,AWP,1,"973,67€",Covert Sniper Rifle
+884,Fever Dream,AWP,1,"34,39€",Classified Sniper Rifle
+885,Worm God,AWP,1,"7,39€",Restricted Sniper Rifle
+886,Desert Hydra,AWP,0,No Recent Price,Covert Sniper Rifle
+887,Hyper Beast,AWP,1,"292,10€",Covert Sniper Rifle
+888,Wildfire,AWP,1,"332,90€",Covert Sniper Rifle
+889,Containment Breach,AWP,1,"1 426,04€",Covert Sniper Rifle
+890,Man-o'-war,AWP,1,Not Possible,Covert Sniper Rifle
+891,Pink DDPAT,AWP,0,"119,62€",Restricted Sniper Rifle
+892,Electric Hive,AWP,1,"132,80€",Classified Sniper Rifle
+893,Acheron,AWP,0,"1,73€",Mil-Spec Sniper Rifle
+894,Asiimov,AWP,1,Not Possible,Covert Sniper Rifle
+895,Dragon Lore,AWP,0,No Recent Price,Covert Sniper Rifle
+896,Gungnir,AWP,0,No Recent Price,Covert Sniper Rifle
+897,ZX Spectron,FAMAS,1,"22,--€",Restricted Rifle
+898,Spitfire,FAMAS,0,"217,69€",Restricted Rifle
+899,Prime Conspiracy,FAMAS,0,"91,82€",Restricted Rifle
+900,Sergeant,FAMAS,1,Not Possible,Restricted Rifle
+901,Faulty Wiring,FAMAS,0,"1,14€",Consumer Grade Rifle
+902,Commemoration,FAMAS,1,"63,98€",Covert Rifle
+903,Valence,FAMAS,1,"16,17€",Restricted Rifle
+904,Survivor Z,FAMAS,1,"1,67€",Mil-Spec Rifle
+905,Doomkitty,FAMAS,1,Not Possible,Mil-Spec Rifle
+906,Teardown,FAMAS,0,"0,63€",Mil-Spec Rifle
+907,Hexane,FAMAS,1,"8,59€",Mil-Spec Rifle
+908,Pulse,FAMAS,1,"14,45€",Restricted Rifle
+909,Meow 36,FAMAS,1,"1,51€",Mil-Spec Rifle
+910,Eye of Athena,FAMAS,1,"35,08€",Classified Rifle
+911,Mecha Industries,FAMAS,1,"22,93€",Classified Rifle
+912,Djinn,FAMAS,1,"29,07€",Classified Rifle
+913,CaliCamo,FAMAS,0,"3,44€",Industrial Grade Rifle
+914,Rapid Eye Movement,FAMAS,1,"21,32€",Classified Rifle
+915,Afterimage,FAMAS,1,"47,47€",Classified Rifle
+916,Waters of Nephthys,FAMAS,0,"126,97€",Classified Rifle
+917,Decommissioned,FAMAS,1,"2,53€",Mil-Spec Rifle
+918,Dark Water,FAMAS,0,Not Possible,Mil-Spec Rifle
+919,Sundown,FAMAS,0,"121,63€",Mil-Spec Rifle
+920,Meltdown,FAMAS,0,"36,15€",Classified Rifle
+921,Contrast Spray,FAMAS,0,"79,30€",Consumer Grade Rifle
+922,Roll Cage,FAMAS,1,"96,09€",Covert Rifle
+923,Crypsis,FAMAS,1,"1,74€",Mil-Spec Rifle
+924,Macabre,FAMAS,1,"5,88€",Mil-Spec Rifle
+925,Cyanospatter,FAMAS,0,"0,72€",Industrial Grade Rifle
+927,Night Borre,FAMAS,0,"6,83€",Consumer Grade Rifle
+928,Styx,FAMAS,0,"10,17€",Restricted Rifle
+929,Neural Net,FAMAS,1,"5,44€",Restricted Rifle
+930,Digital Mesh,G3SG1,1,"2,42€",Mil-Spec Sniper Rifle
+931,Desert Storm,G3SG1,0,"0,08€",Consumer Grade Sniper Rifle
+932,Chronos,G3SG1,0,"263,80€",Restricted Sniper Rifle
+933,Murky,G3SG1,1,"2,13€",Mil-Spec Sniper Rifle
+934,VariCamo,G3SG1,0,"0,11€",Industrial Grade Sniper Rifle
+935,Ancient Ritual,G3SG1,0,"3,70€",Industrial Grade Sniper Rifle
+936,Scavenger,G3SG1,1,"3,47€",Restricted Sniper Rifle
+937,Orange Kimono,G3SG1,0,"4,32€",Consumer Grade Sniper Rifle
+938,Polar Camo,G3SG1,0,"0,12€",Consumer Grade Sniper Rifle
+939,The Executioner,G3SG1,1,Not Possible,Classified Sniper Rifle
+940,Black Sand,G3SG1,1,"2,80€",Mil-Spec Sniper Rifle
+941,Violet Murano,G3SG1,0,"30,19€",Mil-Spec Sniper Rifle
+942,Jungle Dashed,G3SG1,0,"0,07€",Consumer Grade Sniper Rifle
+943,Keeping Tabs,G3SG1,1,"3,95€",Mil-Spec Sniper Rifle
+945,Demeter,G3SG1,1,"52,25€",Mil-Spec Sniper Rifle
+946,Hunter,G3SG1,1,"1,17€",Mil-Spec Sniper Rifle
+947,Ventilator,G3SG1,1,"0,89€",Mil-Spec Sniper Rifle
+948,High Seas,G3SG1,1,"8,50€",Restricted Sniper Rifle
+949,Orange Crash,G3SG1,1,"1,02€",Mil-Spec Sniper Rifle
+950,Azure Zebra,G3SG1,1,"5,56€",Mil-Spec Sniper Rifle
+951,New Roots,G3SG1,0,"27,96€",Mil-Spec Sniper Rifle
+952,Stinger,G3SG1,1,"3,56€",Restricted Sniper Rifle
+953,Arctic Camo,G3SG1,0,"102,37€",Industrial Grade Sniper Rifle
+954,Safari Mesh,G3SG1,0,"18,24€",Consumer Grade Sniper Rifle
+955,Dream Glade,G3SG1,1,"3,06€",Restricted Sniper Rifle
+957,Flux,G3SG1,1,"69,23€",Classified Sniper Rifle
+958,Amber Fade,Galil AR,0,"28,25€",Mil-Spec Rifle
+961,Destroyer,Galil AR,1,"0,76€",Mil-Spec Rifle
+962,Kami,Galil AR,1,"6,08€",Mil-Spec Rifle
+963,Chromatic Aberration,Galil AR,1,"29,94€",Classified Rifle
+965,Cold Fusion,Galil AR,0,"0,31€",Industrial Grade Rifle
+966,Stone Cold,Galil AR,1,"25,50€",Restricted Rifle
+967,Hunting Blind,Galil AR,0,"4,26€",Consumer Grade Rifle
+968,Akoben,Galil AR,1,"2,04€",Mil-Spec Rifle
+969,Eco,Galil AR,1,Not Possible,Classified Rifle
+970,Sage Spray,Galil AR,0,"0,13€",Consumer Grade Rifle
+971,Shattered,Galil AR,1,"98,57€",Mil-Spec Rifle
+972,Aqua Terrace,Galil AR,0,"123,40€",Mil-Spec Rifle
+973,Firefight,Galil AR,1,"8,20€",Restricted Rifle
+974,Urban Rubble,Galil AR,0,"16,54€",Industrial Grade Rifle
+975,Winter Forest,Galil AR,0,"579,64€",Industrial Grade Rifle
+976,VariCamo,Galil AR,0,"0,11€",Industrial Grade Rifle
+977,Dusk Ruins,Galil AR,0,"16,96€",Mil-Spec Rifle
+978,Signal,Galil AR,1,"3,78€",Restricted Rifle
+979,Connexion,Galil AR,1,"3,89€",Restricted Rifle
+980,Vandal,Galil AR,1,"6,93€",Mil-Spec Rifle
+981,Cerberus,Galil AR,0,"77,89€",Restricted Rifle
+982,Crimson Tsunami,Galil AR,1,"8,85€",Restricted Rifle
+983,Rocket Pop,Galil AR,1,"18,66€",Mil-Spec Rifle
+984,Chatterbox,Galil AR,1,Not Possible,Covert Rifle
+985,CAUTION!,Galil AR,0,"69,81€",Restricted Rifle
+986,Phoenix Blacklight,Galil AR,0,"76,63€",Restricted Rifle
+987,Sugar Rush,Galil AR,1,"166,91€",Classified Rifle
+988,Sandstorm,Galil AR,1,Not Possible,Mil-Spec Rifle
+989,Black Sand,Galil AR,1,"2,81€",Mil-Spec Rifle
+990,Orange DDPAT,Galil AR,1,"839,31€",Restricted Rifle
+991,Nightmare,M4A1-S,1,"116,27€",Classified Rifle
+992,Emphorosaur-S,M4A1-S,1,"13,25€",Restricted Rifle
+993,Master Piece,M4A1-S,0,"497,11€",Classified Rifle
+994,Hyper Beast,M4A1-S,1,"480,13€",Covert Rifle
+995,Night Terror,M4A1-S,1,"7,33€",Restricted Rifle
+996,Chantico's Fire,M4A1-S,1,"367,07€",Covert Rifle
+997,Basilisk,M4A1-S,1,"45,43€",Restricted Rifle
+998,Blue Phosphor,M4A1-S,0,"748,68€",Classified Rifle
+999,Moss Quartz,M4A1-S,0,"69,84€",Industrial Grade Rifle
+1000,Hot Rod,M4A1-S,0,"1 010,32€",Classified Rifle
+1001,Golden Coil,M4A1-S,1,"498,96€",Covert Rifle
+1002,Printstream,M4A1-S,1,"1 152,38€",Covert Rifle
+1004,Blood Tiger,M4A1-S,1,"17,80€",Mil-Spec Rifle
+1005,Briefing,M4A1-S,1,"41,43€",Mil-Spec Rifle
+1006,Mud-Spec,M4A1-S,0,"1,27€",Industrial Grade Rifle
+1007,Imminent Danger,M4A1-S,0,No Recent Price,Covert Rifle
+1008,Player Two,M4A1-S,1,"223,94€",Covert Rifle
+1009,Boreal Forest,M4A1-S,0,"2,04€",Industrial Grade Rifle
+1010,Welcome to the Jungle,M4A1-S,0,No Recent Price,Covert Rifle
+1011,VariCamo,M4A1-S,0,"1,19€",Mil-Spec Rifle
+1012,Bright Water,M4A1-S,1,Not Possible,Restricted Rifle
+1013,Knight,M4A1-S,0,No Recent Price,Classified Rifle
+1014,Flashback,M4A1-S,1,"16,--€",Restricted Rifle
+1015,Dark Water,M4A1-S,1,Not Possible,Restricted Rifle
+1017,Leaded Glass,M4A1-S,1,"34,48€",Classified Rifle
+1018,Control Panel,M4A1-S,0,"63,98€",Classified Rifle
+1019,Decimator,M4A1-S,1,"92,05€",Classified Rifle
+1020,Mecha Industries,M4A1-S,1,"213,28€",Covert Rifle
+1021,Fizzy POP,M4A1-S,0,"2,48€",Mil-Spec Rifle
+1022,Atomic Alloy,M4A1-S,1,"165,84€",Classified Rifle
+1023,Icarus Fell,M4A1-S,0,"556,38€",Restricted Rifle
+1024,Guardian,M4A1-S,1,"91,83€",Classified Rifle
+1025,Cyrex,M4A1-S,1,"135,14€",Covert Rifle
+1026,In Living Color,M4A4,1,"86,37€",Covert Rifle
+1027,The Coalition,M4A4,0,"389,31€",Covert Rifle
+1028,Global Offensive,M4A4,0,"23,47€",Mil-Spec Rifle
+1029,Radiation Hazard,M4A4,0,"581,76€",Mil-Spec Rifle
+1030,Bullet Rain,M4A4,1,"191,95€",Covert Rifle
+1031,Cyber Security,M4A4,1,"112,79€",Classified Rifle
+1033,Tooth Fairy,M4A4,1,"18,52€",Classified Rifle
+1034,龍王 (Dragon King),M4A4,1,"72,48€",Classified Rifle
+1035,Temukau,M4A4,1,"353,38€",Covert Rifle
+1036,Howl,M4A4,1,No Recent Price,Contraband Rifle
+1037,Desolate Space,M4A4,1,"89,51€",Classified Rifle
+1038,The Battlestar,M4A4,1,"48,77€",Covert Rifle
+1039,Spider Lily,M4A4,1,"58,45€",Restricted Rifle
+1040,Griffin,M4A4,1,"17,41€",Restricted Rifle
+1041,Faded Zebra,M4A4,1,"79,80€",Mil-Spec Rifle
+1042,Buzz Kill,M4A4,1,"83,45€",Covert Rifle
+1043,Converter,M4A4,0,"0,91€",Mil-Spec Rifle
+1044,Urban DDPAT,M4A4,0,"3,28€",Industrial Grade Rifle
+1045,Poseidon,M4A4,0,"1 669,16€",Classified Rifle
+1046,Neo-Noir,M4A4,1,"96,03€",Covert Rifle
+1047,Desert-Strike,M4A4,1,"28,86€",Covert Rifle
+1048,Royal Paladin,M4A4,1,"305,90€",Covert Rifle
+1049,Asiimov,M4A4,1,Not Possible,Covert Rifle
+1050,X-Ray,M4A4,1,"87,16€",Covert Rifle
+1051,Jungle Tiger,M4A4,0,"78,84€",Industrial Grade Rifle
+1053,The Emperor,M4A4,1,"415,27€",Covert Rifle
+1054,Red DDPAT,M4A4,0,"100,14€",Restricted Rifle
+1055,Evil Daimyo,M4A4,1,"17,14€",Restricted Rifle
+1056,Zirka,M4A4,1,"144,56€",Restricted Rifle
+1057,Mainframe,M4A4,0,"0,11€",Industrial Grade Rifle
+1058,Desert Storm,M4A4,0,"45,91€",Industrial Grade Rifle
+1059,Daybreak,M4A4,0,"278,19€",Restricted Rifle
+1060,Eye of Horus,M4A4,0,"933,16€",Covert Rifle
+1061,Poly Mag,M4A4,1,"2,57€",Mil-Spec Rifle
+1062,Modern Hunter,M4A4,0,"358,18€",Restricted Rifle
+1063,Magnesium,M4A4,1,"10,90€",Mil-Spec Rifle
+1064,Dark Blossom,M4A4,0,"24,85€",Industrial Grade Rifle
+1065,Hellfire,M4A4,1,"161,95€",Classified Rifle
+1066,Magna Carta,SCAR-20,0,"22,95€",Mil-Spec Sniper Rifle
+1067,Green Marine,SCAR-20,1,"1,49€",Mil-Spec Sniper Rifle
+1068,Fragments,SCAR-20,1,"0,88€",Mil-Spec Sniper Rifle
+1069,Assault,SCAR-20,1,"0,78€",Mil-Spec Sniper Rifle
+1070,Poultrygeist,SCAR-20,1,"0,67€",Mil-Spec Sniper Rifle
+1071,Grotto,SCAR-20,1,"1,42€",Mil-Spec Sniper Rifle
+1072,Bloodsport,SCAR-20,1,"19,95€",Classified Sniper Rifle
+1073,Crimson Web,SCAR-20,1,"56,90€",Mil-Spec Sniper Rifle
+1074,Outbreak,SCAR-20,1,"1,32€",Mil-Spec Sniper Rifle
+1076,Sand Mesh,SCAR-20,0,"0,08€",Consumer Grade Sniper Rifle
+1077,Brass,SCAR-20,0,"132,35€",Mil-Spec Sniper Rifle
+1078,Jungle Slipstream,SCAR-20,1,"0,64€",Mil-Spec Sniper Rifle
+1079,Splash Jam,SCAR-20,0,No Recent Price,Classified Sniper Rifle
+1082,Stone Mosaico,SCAR-20,0,"4,39€",Consumer Grade Sniper Rifle
+1083,Cardiac,SCAR-20,1,"68,79€",Classified Sniper Rifle
+1084,Cyrex,SCAR-20,1,"135,76€",Classified Sniper Rifle
+1085,Torn,SCAR-20,1,"2,29€",Mil-Spec Sniper Rifle
+1086,Powercore,SCAR-20,1,"5,29€",Restricted Sniper Rifle
+1087,Carbon Fiber,SCAR-20,0,"0,15€",Industrial Grade Sniper Rifle
+1088,Palm,SCAR-20,0,"59,90€",Industrial Grade Sniper Rifle
+1089,Enforcer,SCAR-20,1,"5,05€",Restricted Sniper Rifle
+1090,Army Sheen,SCAR-20,0,"3,96€",Consumer Grade Sniper Rifle
+1091,Blueprint,SCAR-20,1,"1,13€",Mil-Spec Sniper Rifle
+1092,Cyrex,SG 553,1,"52,11€",Classified Rifle
+1093,Army Sheen,SG 553,0,"0,04€",Consumer Grade Rifle
+1096,Colony IV,SG 553,1,"105,96€",Classified Rifle
+1097,Phantom,SG 553,1,"3,74€",Restricted Rifle
+1098,Cyberforce,SG 553,1,"1,40€",Mil-Spec Rifle
+1099,Traveler,SG 553,0,"18,02€",Industrial Grade Rifle
+1100,Gator Mesh,SG 553,0,"11,98€",Industrial Grade Rifle
+1101,Damascus Steel,SG 553,0,"1,17€",Mil-Spec Rifle
+1102,Fallout Warning,SG 553,0,"2,80€",Industrial Grade Rifle
+1103,Ol' Rusty,SG 553,1,"0,67€",Mil-Spec Rifle
+1104,Pulse,SG 553,1,Not Possible,Restricted Rifle
+1106,Hypnotic,SG 553,0,"44,40€",Restricted Rifle
+1107,Barricade,SG 553,0,"6,99€",Consumer Grade Rifle
+1108,Wave Spray,SG 553,1,"66,25€",Mil-Spec Rifle
+1109,Dragon Tech,SG 553,1,"4,37€",Restricted Rifle
+1110,Aerial,SG 553,1,"0,92€",Mil-Spec Rifle
+1111,Danger Close,SG 553,1,"1,24€",Mil-Spec Rifle
+1112,Integrale,SG 553,0,"131,32€",Classified Rifle
+1113,Heavy Metal,SG 553,1,"1,82€",Mil-Spec Rifle
+1114,Tiger Moth,SG 553,1,"7,09€",Restricted Rifle
+1115,Atlas,SG 553,1,"1,20€",Mil-Spec Rifle
+1116,Waves Perforated,SG 553,0,"0,09€",Consumer Grade Rifle
+1118,Aloha,SG 553,1,"0,69€",Mil-Spec Rifle
+1119,Triarch,SG 553,1,"5,48€",Restricted Rifle
+1120,Desert Blossom,SG 553,0,"17,48€",Mil-Spec Rifle
+1122,Darkwing,SG 553,1,"7,65€",Restricted Rifle
+1123,Lush Ruins,SG 553,0,"0,79€",Consumer Grade Rifle
+1124,Hazard Pay,SG 553,0,"315,69€",Classified Rifle
+1125,Bleached,SG 553,0,"1,16€",Consumer Grade Rifle
+1126,Dragonfire,SSG 08,1,"87,71€",Covert Sniper Rifle
+1127,Prey,SSG 08,0,"0,67€",Consumer Grade Sniper Rifle
+1128,Sea Calico,SSG 08,0,"394,30€",Restricted Sniper Rifle
+1130,Parallax,SSG 08,1,"16,75€",Restricted Sniper Rifle
+1131,Necropos,SSG 08,1,"6,95€",Mil-Spec Sniper Rifle
+1132,Orange Filigree,SSG 08,0,"30,45€",Mil-Spec Sniper Rifle
+1133,Big Iron,SSG 08,1,"58,99€",Classified Sniper Rifle
+1136,Mainframe 001,SSG 08,1,"1,39€",Mil-Spec Sniper Rifle
+1137,Mayan Dreams,SSG 08,0,"46,85€",Industrial Grade Sniper Rifle
+1138,Death Strike,SSG 08,0,"722,35€",Classified Sniper Rifle
+1139,Bloodshot,SSG 08,1,Not Possible,Classified Sniper Rifle
+1140,Death's Head,SSG 08,1,"21,78€",Restricted Sniper Rifle
+1141,Azure Glyph,SSG 08,0,"0,68€",Industrial Grade Sniper Rifle
+1142,Lichen Dashed,SSG 08,0,"35,72€",Consumer Grade Sniper Rifle
+1144,Jungle Dashed,SSG 08,0,"4,08€",Consumer Grade Sniper Rifle
+1145,Acid Fade,SSG 08,0,"0,93€",Mil-Spec Sniper Rifle
+1146,Abyss,SSG 08,1,"10,32€",Mil-Spec Sniper Rifle
+1147,Threat Detected,SSG 08,0,"22,85€",Mil-Spec Sniper Rifle
+1148,Ghost Crusader,SSG 08,1,"14,72€",Restricted Sniper Rifle
+1149,Dark Water,SSG 08,1,Not Possible,Mil-Spec Sniper Rifle
+1150,Blood in the Water,SSG 08,1,"468,74€",Covert Sniper Rifle
+1151,Tropical Storm,SSG 08,0,"88,89€",Industrial Grade Sniper Rifle
+1152,Spring Twilly,SSG 08,0,"1,43€",Mil-Spec Sniper Rifle
+1153,Hand Brake,SSG 08,0,"1,--€",Mil-Spec Sniper Rifle
+1154,Carbon Fiber,SSG 08,0,"3,78€",Industrial Grade Sniper Rifle
+1155,Fever Dream,SSG 08,1,"7,41€",Restricted Sniper Rifle
+1156,Turbo Peek,SSG 08,1,"53,91€",Classified Sniper Rifle
+1157,Detour,SSG 08,0,"20,21€",Mil-Spec Sniper Rifle
+1158,Slashed,SSG 08,1,Not Possible,Mil-Spec Sniper Rifle
+1159,Scorched,Bayonet,1,No Recent Price,Covert Knife
+1161,Bright Water,Bayonet,1,"423,97€",Covert Knife
+1162,Gamma Doppler,Bayonet,1,"1 262,75€",Covert Knife
+1163,Rust Coat,Bayonet,1,Not Possible,Covert Knife
+1164,Damascus Steel,Bayonet,1,"545,40€",Covert Knife
+1165,Fade,Bayonet,1,"947,32€",Covert Knife
+1166,Autotronic,Bayonet,1,No Recent Price,Covert Knife
+1167,Forest DDPAT,Bayonet,1,No Recent Price,Covert Knife
+1168,Doppler,Bayonet,1,"821,13€",Covert Knife
+1169,Safari Mesh,Bayonet,1,No Recent Price,Covert Knife
+1170,Lore,Bayonet,1,"1 119,01€",Covert Knife
+1172,Urban Masked,Bayonet,1,No Recent Price,Covert Knife
+1173,Marble Fade,Bayonet,1,"798,59€",Covert Knife
+1175,Boreal Forest,Bayonet,1,No Recent Price,Covert Knife
+1176,Stained,Bayonet,1,No Recent Price,Covert Knife
+1177,Case Hardened,Bayonet,1,No Recent Price,Covert Knife
+1178,Slaughter,Bayonet,1,"1 033,16€",Covert Knife
+1179,Tiger Tooth,Bayonet,1,"664,83€",Covert Knife
+1180,Freehand,Bayonet,1,"678,40€",Covert Knife
+1181,Blue Steel,Bayonet,1,No Recent Price,Covert Knife
+1182,Crimson Web,Bayonet,1,No Recent Price,Covert Knife
+1183,Black Laminate,Bayonet,1,"557,96€",Covert Knife
+1184,Lore,Bowie Knife,1,"649,11€",Covert Knife
+1185,Scorched,Bowie Knife,1,No Recent Price,Covert Knife
+1187,Damascus Steel,Bowie Knife,1,"284,75€",Covert Knife
+1188,Gamma Doppler,Bowie Knife,1,"496,11€",Covert Knife
+1189,Rust Coat,Bowie Knife,1,Not Possible,Covert Knife
+1190,Marble Fade,Bowie Knife,1,"425,63€",Covert Knife
+1191,Boreal Forest,Bowie Knife,1,No Recent Price,Covert Knife
+1192,Slaughter,Bowie Knife,1,"485,61€",Covert Knife
+1194,Stained,Bowie Knife,1,No Recent Price,Covert Knife
+1195,Crimson Web,Bowie Knife,1,No Recent Price,Covert Knife
+1196,Autotronic,Bowie Knife,1,"549,03€",Covert Knife
+1197,Black Laminate,Bowie Knife,1,"424,53€",Covert Knife
+1198,Freehand,Bowie Knife,1,"272,50€",Covert Knife
+1199,Bright Water,Bowie Knife,1,"204,--€",Covert Knife
+1200,Doppler,Bowie Knife,1,"554,99€",Covert Knife
+1201,Forest DDPAT,Bowie Knife,1,No Recent Price,Covert Knife
+1202,Case Hardened,Bowie Knife,1,No Recent Price,Covert Knife
+1204,Tiger Tooth,Bowie Knife,1,"416,53€",Covert Knife
+1205,Urban Masked,Bowie Knife,1,No Recent Price,Covert Knife
+1206,Fade,Bowie Knife,1,"631,88€",Covert Knife
+1207,Safari Mesh,Bowie Knife,1,No Recent Price,Covert Knife
+1208,Blue Steel,Bowie Knife,1,No Recent Price,Covert Knife
+1210,Damascus Steel,Butterfly Knife,1,"1 597,69€",Covert Knife
+1211,Black Laminate,Butterfly Knife,1,No Recent Price,Covert Knife
+1212,Blue Steel,Butterfly Knife,1,No Recent Price,Covert Knife
+1214,Case Hardened,Butterfly Knife,1,No Recent Price,Covert Knife
+1215,Lore,Butterfly Knife,1,No Recent Price,Covert Knife
+1216,Freehand,Butterfly Knife,1,"1 492,36€",Covert Knife
+1217,Urban Masked,Butterfly Knife,1,No Recent Price,Covert Knife
+1218,Boreal Forest,Butterfly Knife,1,No Recent Price,Covert Knife
+1219,Rust Coat,Butterfly Knife,1,Not Possible,Covert Knife
+1220,Crimson Web,Butterfly Knife,1,No Recent Price,Covert Knife
+1221,Gamma Doppler,Butterfly Knife,1,No Recent Price,Covert Knife
+1223,Forest DDPAT,Butterfly Knife,1,No Recent Price,Covert Knife
+1224,Marble Fade,Butterfly Knife,1,No Recent Price,Covert Knife
+1225,Bright Water,Butterfly Knife,1,No Recent Price,Covert Knife
+1226,Tiger Tooth,Butterfly Knife,1,No Recent Price,Covert Knife
+1227,Fade,Butterfly Knife,1,No Recent Price,Covert Knife
+1228,Slaughter,Butterfly Knife,1,No Recent Price,Covert Knife
+1229,Stained,Butterfly Knife,1,No Recent Price,Covert Knife
+1230,Doppler,Butterfly Knife,1,No Recent Price,Covert Knife
+1231,Scorched,Butterfly Knife,1,No Recent Price,Covert Knife
+1232,Autotronic,Butterfly Knife,1,No Recent Price,Covert Knife
+1233,Safari Mesh,Butterfly Knife,1,No Recent Price,Covert Knife
+1235,Blue Steel,Classic Knife,1,"927,31€",Covert Knife
+1236,Night Stripe,Classic Knife,1,No Recent Price,Covert Knife
+1237,Crimson Web,Classic Knife,1,No Recent Price,Covert Knife
+1238,Slaughter,Classic Knife,1,"463,64€",Covert Knife
+1239,Boreal Forest,Classic Knife,1,No Recent Price,Covert Knife
+1240,Fade,Classic Knife,1,"912,22€",Covert Knife
+1241,Safari Mesh,Classic Knife,1,No Recent Price,Covert Knife
+1242,Scorched,Classic Knife,1,No Recent Price,Covert Knife
+1243,Urban Masked,Classic Knife,1,No Recent Price,Covert Knife
+1244,Forest DDPAT,Classic Knife,1,No Recent Price,Covert Knife
+1245,Stained,Classic Knife,1,No Recent Price,Covert Knife
+1246,Case Hardened,Classic Knife,1,"669,82€",Covert Knife
+1247,Marble Fade,Falchion Knife,1,"394,30€",Covert Knife
+1249,Lore,Falchion Knife,1,"368,33€",Covert Knife
+1251,Safari Mesh,Falchion Knife,1,No Recent Price,Covert Knife
+1252,Gamma Doppler,Falchion Knife,1,"581,02€",Covert Knife
+1253,Autotronic,Falchion Knife,1,"413,19€",Covert Knife
+1254,Tiger Tooth,Falchion Knife,1,"330,74€",Covert Knife
+1255,Blue Steel,Falchion Knife,1,No Recent Price,Covert Knife
+1256,Forest DDPAT,Falchion Knife,1,No Recent Price,Covert Knife
+1257,Bright Water,Falchion Knife,1,"213,23€",Covert Knife
+1258,Fade,Falchion Knife,1,"510,01€",Covert Knife
+1259,Crimson Web,Falchion Knife,1,No Recent Price,Covert Knife
+1260,Black Laminate,Falchion Knife,1,No Recent Price,Covert Knife
+1261,Stained,Falchion Knife,1,No Recent Price,Covert Knife
+1262,Boreal Forest,Falchion Knife,1,No Recent Price,Covert Knife
+1263,Slaughter,Falchion Knife,1,"458,94€",Covert Knife
+1264,Doppler,Falchion Knife,1,"589,67€",Covert Knife
+1265,Urban Masked,Falchion Knife,1,No Recent Price,Covert Knife
+1267,Scorched,Falchion Knife,1,No Recent Price,Covert Knife
+1268,Case Hardened,Falchion Knife,1,No Recent Price,Covert Knife
+1269,Freehand,Falchion Knife,1,"225,75€",Covert Knife
+1270,Damascus Steel,Falchion Knife,1,"278,18€",Covert Knife
+1271,Rust Coat,Falchion Knife,1,Not Possible,Covert Knife
+1272,Safari Mesh,Flip Knife,1,No Recent Price,Covert Knife
+1274,Marble Fade,Flip Knife,1,"693,74€",Covert Knife
+1276,Slaughter,Flip Knife,1,"549,23€",Covert Knife
+1277,Urban Masked,Flip Knife,1,No Recent Price,Covert Knife
+1278,Case Hardened,Flip Knife,1,No Recent Price,Covert Knife
+1279,Black Laminate,Flip Knife,1,"509,92€",Covert Knife
+1280,Tiger Tooth,Flip Knife,1,"463,88€",Covert Knife
+1281,Damascus Steel,Flip Knife,1,"363,17€",Covert Knife
+1282,Bright Water,Flip Knife,1,"316,53€",Covert Knife
+1283,Gamma Doppler,Flip Knife,1,"787,60€",Covert Knife
+1284,Crimson Web,Flip Knife,1,No Recent Price,Covert Knife
+1285,Doppler,Flip Knife,1,"617,02€",Covert Knife
+1286,Blue Steel,Flip Knife,1,No Recent Price,Covert Knife
+1287,Fade,Flip Knife,1,"1 024,32€",Covert Knife
+1288,Scorched,Flip Knife,1,No Recent Price,Covert Knife
+1289,Boreal Forest,Flip Knife,1,No Recent Price,Covert Knife
+1290,Forest DDPAT,Flip Knife,1,No Recent Price,Covert Knife
+1291,Lore,Flip Knife,1,"699,42€",Covert Knife
+1292,Autotronic,Flip Knife,1,"1 235,68€",Covert Knife
+1293,Freehand,Flip Knife,1,"315,28€",Covert Knife
+1295,Rust Coat,Flip Knife,1,Not Possible,Covert Knife
+1296,Stained,Flip Knife,1,No Recent Price,Covert Knife
+1297,Marble Fade,Gut Knife,1,"255,01€",Covert Knife
+1298,Safari Mesh,Gut Knife,1,No Recent Price,Covert Knife
+1299,Bright Water,Gut Knife,1,"168,46€",Covert Knife
+1300,Boreal Forest,Gut Knife,1,No Recent Price,Covert Knife
+1301,Tiger Tooth,Gut Knife,1,"219,61€",Covert Knife
+1302,Gamma Doppler,Gut Knife,1,"354,60€",Covert Knife
+1303,Freehand,Gut Knife,1,"162,27€",Covert Knife
+1304,Damascus Steel,Gut Knife,1,"189,66€",Covert Knife
+1305,Stained,Gut Knife,1,"198,78€",Covert Knife
+1306,Urban Masked,Gut Knife,1,No Recent Price,Covert Knife
+1307,Doppler,Gut Knife,1,"258,72€",Covert Knife
+1308,Slaughter,Gut Knife,1,"349,48€",Covert Knife
+1309,Scorched,Gut Knife,1,No Recent Price,Covert Knife
+1310,Lore,Gut Knife,1,"483,13€",Covert Knife
+1311,Autotronic,Gut Knife,1,"588,99€",Covert Knife
+1312,Fade,Gut Knife,1,"360,19€",Covert Knife
+1313,Rust Coat,Gut Knife,1,Not Possible,Covert Knife
+1315,Blue Steel,Gut Knife,1,"1 340,93€",Covert Knife
+1316,Crimson Web,Gut Knife,1,No Recent Price,Covert Knife
+1317,Forest DDPAT,Gut Knife,1,No Recent Price,Covert Knife
+1319,Case Hardened,Gut Knife,1,No Recent Price,Covert Knife
+1321,Black Laminate,Gut Knife,1,"265,04€",Covert Knife
+1322,Doppler,Huntsman Knife,1,"645,28€",Covert Knife
+1323,Lore,Huntsman Knife,1,"533,20€",Covert Knife
+1324,Case Hardened,Huntsman Knife,1,No Recent Price,Covert Knife
+1325,Damascus Steel,Huntsman Knife,1,"330,10€",Covert Knife
+1326,Rust Coat,Huntsman Knife,1,Not Possible,Covert Knife
+1327,Ultraviolet,Huntsman Knife,1,No Recent Price,Covert Knife
+1328,Boreal Forest,Huntsman Knife,1,No Recent Price,Covert Knife
+1329,Gamma Doppler,Huntsman Knife,1,"606,05€",Covert Knife
+1330,Blue Steel,Huntsman Knife,1,No Recent Price,Covert Knife
+1331,Autotronic,Huntsman Knife,1,"474,89€",Covert Knife
+1332,Crimson Web,Huntsman Knife,1,No Recent Price,Covert Knife
+1333,Scorched,Huntsman Knife,1,No Recent Price,Covert Knife
+1334,Forest DDPAT,Huntsman Knife,1,No Recent Price,Covert Knife
+1335,Fade,Huntsman Knife,1,"690,85€",Covert Knife
+1336,Urban Masked,Huntsman Knife,1,No Recent Price,Covert Knife
+1337,Slaughter,Huntsman Knife,1,"853,12€",Covert Knife
+1338,Black Laminate,Huntsman Knife,1,"598,94€",Covert Knife
+1340,Stained,Huntsman Knife,1,No Recent Price,Covert Knife
+1342,Bright Water,Huntsman Knife,1,"212,81€",Covert Knife
+1343,Marble Fade,Huntsman Knife,1,"512,56€",Covert Knife
+1344,Tiger Tooth,Huntsman Knife,1,"398,30€",Covert Knife
+1345,Freehand,Huntsman Knife,1,"255,08€",Covert Knife
+1346,Safari Mesh,Huntsman Knife,1,No Recent Price,Covert Knife
+1347,Damascus Steel,Karambit,1,No Recent Price,Covert Knife
+1348,Fade,Karambit,1,No Recent Price,Covert Knife
+1349,Crimson Web,Karambit,1,No Recent Price,Covert Knife
+1350,Blue Steel,Karambit,1,No Recent Price,Covert Knife
+1351,Bright Water,Karambit,1,"959,76€",Covert Knife
+1352,Slaughter,Karambit,1,No Recent Price,Covert Knife
+1354,Gamma Doppler,Karambit,1,No Recent Price,Covert Knife
+1355,Forest DDPAT,Karambit,1,No Recent Price,Covert Knife
+1356,Autotronic,Karambit,1,No Recent Price,Covert Knife
+1357,Tiger Tooth,Karambit,1,"1 430,48€",Covert Knife
+1358,Doppler,Karambit,1,"1 730,31€",Covert Knife
+1359,Rust Coat,Karambit,1,Not Possible,Covert Knife
+1360,Safari Mesh,Karambit,1,No Recent Price,Covert Knife
+1361,Lore,Karambit,1,No Recent Price,Covert Knife
+1362,Black Laminate,Karambit,1,No Recent Price,Covert Knife
+1364,Stained,Karambit,1,No Recent Price,Covert Knife
+1365,Case Hardened,Karambit,1,No Recent Price,Covert Knife
+1366,Urban Masked,Karambit,1,No Recent Price,Covert Knife
+1367,Boreal Forest,Karambit,1,No Recent Price,Covert Knife
+1368,Marble Fade,Karambit,1,No Recent Price,Covert Knife
+1370,Scorched,Karambit,1,No Recent Price,Covert Knife
+1371,Freehand,Karambit,1,"960,96€",Covert Knife
+1372,Boreal Forest,Kukri Knife,1,No Recent Price,Covert Knife
+1373,Fade,Kukri Knife,1,No Recent Price,Covert Knife
+1374,Blue Steel,Kukri Knife,1,No Recent Price,Covert Knife
+1375,Urban Masked,Kukri Knife,1,"1 498,10€",Covert Knife
+1377,Safari Mesh,Kukri Knife,1,No Recent Price,Covert Knife
+1378,Night Stripe,Kukri Knife,1,No Recent Price,Covert Knife
+1379,Crimson Web,Kukri Knife,1,No Recent Price,Covert Knife
+1380,Slaughter,Kukri Knife,1,"1 089,78€",Covert Knife
+1381,Stained,Kukri Knife,1,No Recent Price,Covert Knife
+1382,Forest DDPAT,Kukri Knife,1,No Recent Price,Covert Knife
+1383,Scorched,Kukri Knife,1,No Recent Price,Covert Knife
+1384,Case Hardened,Kukri Knife,1,No Recent Price,Covert Knife
+1385,Forest DDPAT,M9 Bayonet,1,No Recent Price,Covert Knife
+1386,Tiger Tooth,M9 Bayonet,1,"1 350,97€",Covert Knife
+1388,Marble Fade,M9 Bayonet,1,"1 559,61€",Covert Knife
+1389,Lore,M9 Bayonet,1,No Recent Price,Covert Knife
+1391,Case Hardened,M9 Bayonet,1,No Recent Price,Covert Knife
+1392,Fade,M9 Bayonet,1,No Recent Price,Covert Knife
+1393,Gamma Doppler,M9 Bayonet,1,No Recent Price,Covert Knife
+1394,Crimson Web,M9 Bayonet,1,No Recent Price,Covert Knife
+1396,Blue Steel,M9 Bayonet,1,"1 286,05€",Covert Knife
+1397,Urban Masked,M9 Bayonet,1,No Recent Price,Covert Knife
+1398,Boreal Forest,M9 Bayonet,1,No Recent Price,Covert Knife
+1399,Freehand,M9 Bayonet,1,"918,03€",Covert Knife
+1400,Slaughter,M9 Bayonet,1,No Recent Price,Covert Knife
+1401,Damascus Steel,M9 Bayonet,1,"1 247,80€",Covert Knife
+1402,Autotronic,M9 Bayonet,1,No Recent Price,Covert Knife
+1403,Scorched,M9 Bayonet,1,No Recent Price,Covert Knife
+1404,Doppler,M9 Bayonet,1,"1 647,76€",Covert Knife
+1405,Rust Coat,M9 Bayonet,1,Not Possible,Covert Knife
+1406,Bright Water,M9 Bayonet,1,"1 131,03€",Covert Knife
+1407,Stained,M9 Bayonet,1,No Recent Price,Covert Knife
+1408,Safari Mesh,M9 Bayonet,1,No Recent Price,Covert Knife
+1409,Black Laminate,M9 Bayonet,1,No Recent Price,Covert Knife
+1410,Marble Fade,Navaja Knife,1,"222,55€",Covert Knife
+1411,Scorched,Navaja Knife,1,No Recent Price,Covert Knife
+1412,Tiger Tooth,Navaja Knife,1,"182,68€",Covert Knife
+1414,Forest DDPAT,Navaja Knife,1,No Recent Price,Covert Knife
+1415,Damascus Steel,Navaja Knife,1,"134,45€",Covert Knife
+1416,Doppler,Navaja Knife,1,"267,99€",Covert Knife
+1417,Safari Mesh,Navaja Knife,1,No Recent Price,Covert Knife
+1418,Fade,Navaja Knife,1,"349,61€",Covert Knife
+1419,Case Hardened,Navaja Knife,1,No Recent Price,Covert Knife
+1420,Crimson Web,Navaja Knife,1,No Recent Price,Covert Knife
+1421,Stained,Navaja Knife,1,"240,17€",Covert Knife
+1422,Night Stripe,Navaja Knife,1,No Recent Price,Covert Knife
+1423,Slaughter,Navaja Knife,1,"249,55€",Covert Knife
+1424,Rust Coat,Navaja Knife,1,Not Possible,Covert Knife
+1425,Blue Steel,Navaja Knife,1,"191,86€",Covert Knife
+1426,Boreal Forest,Navaja Knife,1,No Recent Price,Covert Knife
+1427,Urban Masked,Navaja Knife,1,No Recent Price,Covert Knife
+1429,Slaughter,Nomad Knife,1,"648,19€",Covert Knife
+1430,Night Stripe,Nomad Knife,1,No Recent Price,Covert Knife
+1431,Boreal Forest,Nomad Knife,1,No Recent Price,Covert Knife
+1432,Urban Masked,Nomad Knife,1,No Recent Price,Covert Knife
+1433,Scorched,Nomad Knife,1,"549,03€",Covert Knife
+1435,Crimson Web,Nomad Knife,1,No Recent Price,Covert Knife
+1436,Fade,Nomad Knife,1,"1 112,77€",Covert Knife
+1437,Forest DDPAT,Nomad Knife,1,No Recent Price,Covert Knife
+1438,Case Hardened,Nomad Knife,1,"891,14€",Covert Knife
+1439,Stained,Nomad Knife,1,No Recent Price,Covert Knife
+1440,Safari Mesh,Nomad Knife,1,No Recent Price,Covert Knife
+1441,Blue Steel,Nomad Knife,1,No Recent Price,Covert Knife
+1442,Case Hardened,Paracord Knife,1,"799,80€",Covert Knife
+1443,Fade,Paracord Knife,1,"600,17€",Covert Knife
+1444,Forest DDPAT,Paracord Knife,1,No Recent Price,Covert Knife
+1445,Night Stripe,Paracord Knife,1,No Recent Price,Covert Knife
+1446,Stained,Paracord Knife,1,No Recent Price,Covert Knife
+1447,Safari Mesh,Paracord Knife,1,No Recent Price,Covert Knife
+1448,Blue Steel,Paracord Knife,1,"530,08€",Covert Knife
+1449,Scorched,Paracord Knife,1,No Recent Price,Covert Knife
+1450,Urban Masked,Paracord Knife,1,No Recent Price,Covert Knife
+1451,Boreal Forest,Paracord Knife,1,No Recent Price,Covert Knife
+1452,Crimson Web,Paracord Knife,1,No Recent Price,Covert Knife
+1454,Slaughter,Paracord Knife,1,"460,12€",Covert Knife
+1455,Boreal Forest,Shadow Daggers,1,No Recent Price,Covert Knife
+1456,Marble Fade,Shadow Daggers,1,"245,73€",Covert Knife
+1457,Scorched,Shadow Daggers,1,No Recent Price,Covert Knife
+1458,Urban Masked,Shadow Daggers,1,No Recent Price,Covert Knife
+1459,Case Hardened,Shadow Daggers,1,"450,67€",Covert Knife
+1460,Forest DDPAT,Shadow Daggers,1,No Recent Price,Covert Knife
+1461,Stained,Shadow Daggers,1,"297,04€",Covert Knife
+1462,Tiger Tooth,Shadow Daggers,1,"206,03€",Covert Knife
+1463,Rust Coat,Shadow Daggers,1,Not Possible,Covert Knife
+1464,Gamma Doppler,Shadow Daggers,1,"298,46€",Covert Knife
+1465,Fade,Shadow Daggers,1,"349,11€",Covert Knife
+1467,Autotronic,Shadow Daggers,1,"258,29€",Covert Knife
+1468,Freehand,Shadow Daggers,1,"197,28€",Covert Knife
+1469,Black Laminate,Shadow Daggers,1,"204,--€",Covert Knife
+1470,Safari Mesh,Shadow Daggers,1,No Recent Price,Covert Knife
+1472,Bright Water,Shadow Daggers,1,"137,78€",Covert Knife
+1473,Slaughter,Shadow Daggers,1,"256,07€",Covert Knife
+1474,Crimson Web,Shadow Daggers,1,No Recent Price,Covert Knife
+1476,Damascus Steel,Shadow Daggers,1,"159,39€",Covert Knife
+1477,Doppler,Shadow Daggers,1,"315,27€",Covert Knife
+1478,Blue Steel,Shadow Daggers,1,"319,92€",Covert Knife
+1479,Lore,Shadow Daggers,1,"388,42€",Covert Knife
+1480,Crimson Web,Skeleton Knife,1,No Recent Price,Covert Knife
+1482,Blue Steel,Skeleton Knife,1,No Recent Price,Covert Knife
+1483,Case Hardened,Skeleton Knife,1,No Recent Price,Covert Knife
+1484,Fade,Skeleton Knife,1,No Recent Price,Covert Knife
+1485,Urban Masked,Skeleton Knife,1,No Recent Price,Covert Knife
+1486,Boreal Forest,Skeleton Knife,1,No Recent Price,Covert Knife
+1487,Night Stripe,Skeleton Knife,1,No Recent Price,Covert Knife
+1488,Forest DDPAT,Skeleton Knife,1,No Recent Price,Covert Knife
+1489,Slaughter,Skeleton Knife,1,"1 108,76€",Covert Knife
+1490,Safari Mesh,Skeleton Knife,1,No Recent Price,Covert Knife
+1491,Scorched,Skeleton Knife,1,"1 546,33€",Covert Knife
+1492,Stained,Skeleton Knife,1,No Recent Price,Covert Knife
+1493,Forest DDPAT,Stiletto Knife,1,No Recent Price,Covert Knife
+1495,Stained,Stiletto Knife,1,No Recent Price,Covert Knife
+1497,Crimson Web,Stiletto Knife,1,No Recent Price,Covert Knife
+1498,Scorched,Stiletto Knife,1,No Recent Price,Covert Knife
+1499,Damascus Steel,Stiletto Knife,1,No Recent Price,Covert Knife
+1500,Boreal Forest,Stiletto Knife,1,No Recent Price,Covert Knife
+1501,Fade,Stiletto Knife,1,"1 023,79€",Covert Knife
+1502,Night Stripe,Stiletto Knife,1,No Recent Price,Covert Knife
+1503,Urban Masked,Stiletto Knife,1,No Recent Price,Covert Knife
+1504,Marble Fade,Stiletto Knife,1,"700,26€",Covert Knife
+1505,Safari Mesh,Stiletto Knife,1,No Recent Price,Covert Knife
+1506,Slaughter,Stiletto Knife,1,"828,30€",Covert Knife
+1507,Case Hardened,Stiletto Knife,1,"892,85€",Covert Knife
+1508,Blue Steel,Stiletto Knife,1,No Recent Price,Covert Knife
+1509,Rust Coat,Stiletto Knife,1,Not Possible,Covert Knife
+1510,Doppler,Stiletto Knife,1,"746,48€",Covert Knife
+1511,Tiger Tooth,Stiletto Knife,1,"574,84€",Covert Knife
+1512,Night Stripe,Survival Knife,1,No Recent Price,Covert Knife
+1513,Urban Masked,Survival Knife,1,No Recent Price,Covert Knife
+1514,Fade,Survival Knife,1,"533,20€",Covert Knife
+1515,Forest DDPAT,Survival Knife,1,No Recent Price,Covert Knife
+1516,Stained,Survival Knife,1,"303,13€",Covert Knife
+1517,Scorched,Survival Knife,1,No Recent Price,Covert Knife
+1518,Blue Steel,Survival Knife,1,"352,37€",Covert Knife
+1519,Safari Mesh,Survival Knife,1,No Recent Price,Covert Knife
+1520,Slaughter,Survival Knife,1,"345,10€",Covert Knife
+1521,Boreal Forest,Survival Knife,1,"798,59€",Covert Knife
+1522,Crimson Web,Survival Knife,1,No Recent Price,Covert Knife
+1524,Case Hardened,Survival Knife,1,No Recent Price,Covert Knife
+1525,Urban Masked,Talon Knife,1,"1 112,77€",Covert Knife
+1526,Slaughter,Talon Knife,1,"1 167,37€",Covert Knife
+1527,Stained,Talon Knife,1,"1 747,91€",Covert Knife
+1528,Marble Fade,Talon Knife,1,"1 020,04€",Covert Knife
+1529,Fade,Talon Knife,1,No Recent Price,Covert Knife
+1531,Scorched,Talon Knife,1,No Recent Price,Covert Knife
+1532,Blue Steel,Talon Knife,1,"1 547,25€",Covert Knife
+1533,Tiger Tooth,Talon Knife,1,"879,43€",Covert Knife
+1534,Boreal Forest,Talon Knife,1,No Recent Price,Covert Knife
+1535,Damascus Steel,Talon Knife,1,"637,63€",Covert Knife
+1537,Doppler,Talon Knife,1,"1 374,68€",Covert Knife
+1538,Crimson Web,Talon Knife,1,No Recent Price,Covert Knife
+1539,Night Stripe,Talon Knife,1,No Recent Price,Covert Knife
+1540,Case Hardened,Talon Knife,1,No Recent Price,Covert Knife
+1541,Forest DDPAT,Talon Knife,1,No Recent Price,Covert Knife
+1542,Rust Coat,Talon Knife,1,Not Possible,Covert Knife
+1543,Safari Mesh,Talon Knife,1,No Recent Price,Covert Knife
+1544,Crimson Web,Ursus Knife,1,No Recent Price,Covert Knife
+1545,Night Stripe,Ursus Knife,1,No Recent Price,Covert Knife
+1546,Forest DDPAT,Ursus Knife,1,No Recent Price,Covert Knife
+1548,Slaughter,Ursus Knife,1,"553,89€",Covert Knife
+1549,Doppler,Ursus Knife,1,"602,75€",Covert Knife
+1551,Rust Coat,Ursus Knife,1,Not Possible,Covert Knife
+1552,Fade,Ursus Knife,1,"723,30€",Covert Knife
+1553,Boreal Forest,Ursus Knife,1,No Recent Price,Covert Knife
+1554,Marble Fade,Ursus Knife,1,"587,60€",Covert Knife
+1555,Tiger Tooth,Ursus Knife,1,"375,45€",Covert Knife
+1556,Urban Masked,Ursus Knife,1,No Recent Price,Covert Knife
+1557,Scorched,Ursus Knife,1,No Recent Price,Covert Knife
+1558,Safari Mesh,Ursus Knife,1,No Recent Price,Covert Knife
+1559,Stained,Ursus Knife,1,"369,90€",Covert Knife
+1560,Damascus Steel,Ursus Knife,1,"261,40€",Covert Knife
+1561,Case Hardened,Ursus Knife,1,No Recent Price,Covert Knife
+1562,Blue Steel,Ursus Knife,1,"463,88€",Covert Knife
