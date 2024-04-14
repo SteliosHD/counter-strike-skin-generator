@@ -25,5 +25,8 @@ def save_datasets():
         pickle.dump(dataset_qualities, f)
 
 
-save_datasets()
-print("Datasets saved")
+if __name__ == "__main__":
+    # save_datasets()
+    # print("Datasets saved")
+    dataset_prices.push_to_hub("stelioshd/counter_strike_skins_prices")
+    dataset_qualities.push_to_hub("stelioshd/counter_strike_skins_quality")
