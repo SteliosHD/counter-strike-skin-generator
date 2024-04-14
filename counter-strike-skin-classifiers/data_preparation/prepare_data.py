@@ -149,6 +149,19 @@ def generate_quality_labeled_images(
         skin_id = row["id"]
         quality = row["quality"]
         weapon_name = row["weapon_name"]
+        knife_names = [
+            "knife",
+            "bayonet",
+            "karambit",
+            "m9",
+            "gut",
+            "flip",
+            "butterfly",
+            "daggers",
+        ]
+        any_knife_in_weapon_name = any(knife_name in weapon_name.lower() for knife_name in knife_names)
+        if any_knife_in_weapon_name:
+            continue
         try:
             image_file_name = get_image_file_name_based_on_name_pattern([skin_name, str(skin_id)])
         except FileNotFoundError:
@@ -187,11 +200,24 @@ def generate_price_labeled_images(
         skin_id = row["id"]
         price_bin = row["price_bin"]
         weapon_name = row["weapon_name"]
+        knife_names = [
+            "knife",
+            "bayonet",
+            "karambit",
+            "m9",
+            "gut",
+            "flip",
+            "butterfly",
+            "daggers",
+        ]
+        any_knife_in_weapon_name = any(knife_name in weapon_name.lower() for knife_name in knife_names)
+        if any_knife_in_weapon_name:
+            continue
         try:
             image_file_name = get_image_file_name_based_on_name_pattern([skin_name, str(skin_id)])
         except FileNotFoundError:
             if verbose:
-                print("Skipping skin without image file {skin_name} ({skin_id})")
+                print(f"Skipping skin without image file {skin_name} ({skin_id})")
             error_count += 1
             continue
         image_file_path = os.path.join(
@@ -215,5 +241,5 @@ def generate_price_labeled_images(
 
 if __name__ == "__main__":
     # main_data_cleaning()
-    # generate_quality_labeled_images()
+    generate_quality_labeled_images()
     generate_price_labeled_images()
