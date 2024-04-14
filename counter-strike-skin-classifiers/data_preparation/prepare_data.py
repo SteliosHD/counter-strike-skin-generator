@@ -74,10 +74,10 @@ def clean_data(
     drop_na: bool = False,
 ) -> pd.DataFrame:
     cleaned_df = clean_raw_skin_data(raw_data_path)
-    if save:
-        cleaned_df.to_csv(cleaned_data_path, index=False)
     if drop_na:
         cleaned_df = cleaned_df.dropna()
+    if save:
+        cleaned_df.to_csv(cleaned_data_path, index=False)
     return cleaned_df
 
 
@@ -102,6 +102,25 @@ def skin_no_knives(
     return no_knives_df
 
 
+def skin_create_price_bins(
+    bins_size: int = 5,
+    df_path: str = os.path.join(
+        DATASET_BASE_PATH,
+        "skins_no_images_no_missing_prices.csv",
+    ),
+    save_path: str = os.path.join(
+        DATASET_BASE_PATH,
+        "skins_no_images_no_missing_prices_with_bins.csv",
+    ),
+    save: bool = True,
+):
+    df = pd.read_csv(df_path)
+    df["price_bin"] = pd.qcut(df["factory_new_price"], bins_size, labels=False)
+    if save:
+        df.to_csv(save_path, index=False)
+    return df
+
+
 def main_data_cleaning():
     cleaned_df = clean_data()
     print(f"Cleaned {cleaned_df.shape[0]} skins to \n{cleaned_df}")
@@ -114,6 +133,8 @@ def main_data_cleaning():
         f"Cleaned no missing prices {cleaned_df_with_no_missing_values.shape[0]} skins to "
         f"\n{cleaned_df_with_no_missing_values}"
     )
+    skin_with_bins = skin_create_price_bins()
+    print(f"Created price bins for {skin_with_bins.shape[0]} skins to \n{skin_with_bins}")
 
 
 def generate_quality_labeled_images(
@@ -122,6 +143,7 @@ def generate_quality_labeled_images(
     verbose: bool = True,
 ):
     df = pd.read_csv(csv_path)
+    error_count = 0
     for index, row in df.iterrows():
         skin_name = row["skin_name"].replace(" ", "")
         skin_id = row["id"]
@@ -132,6 +154,7 @@ def generate_quality_labeled_images(
         except FileNotFoundError:
             if verbose:
                 print("Skipping skin without image file {skin_name} ({skin_id})")
+            error_count += 1
             continue
         image_file_path = os.path.join(
             DATASET_BASE_PATH,
@@ -149,8 +172,48 @@ def generate_quality_labeled_images(
         copy(image_file_path, image_path)
         if verbose:
             print(f"Renamed {image_file_path} to {image_path}")
+    print(f"Error count: {error_count}")
+
+
+def generate_price_labeled_images(
+    csv_path: str = os.path.join(DATASET_BASE_PATH, "skins_no_images_no_missing_prices_with_bins.csv"),
+    save_path: str = os.path.join(DATASET_BASE_PATH, "skin_images_price_labeled"),
+    verbose: bool = True,
+):
+    df = pd.read_csv(csv_path)
+    error_count = 0
+    for index, row in df.iterrows():
+        skin_name = row["skin_name"].replace(" ", "")
+        skin_id = row["id"]
+        price_bin = row["price_bin"]
+        weapon_name = row["weapon_name"]
+        try:
+            image_file_name = get_image_file_name_based_on_name_pattern([skin_name, str(skin_id)])
+        except FileNotFoundError:
+            if verbose:
+                print("Skipping skin without image file {skin_name} ({skin_id})")
+            error_count += 1
+            continue
+        image_file_path = os.path.join(
+            DATASET_BASE_PATH,
+            "skin_images",
+            image_file_name,
+        )
+        if verbose:
+            print(f"Processing {image_file_path}")
+        image_path = os.path.join(
+            save_path,
+            f"p_{price_bin}_{skin_name.replace(' ', '')}_{skin_id}_{weapon_name.replace(' ', '')}.png",
+        )
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
+        copy(image_file_path, image_path)
+        if verbose:
+            print(f"Renamed {image_file_path} to {image_path}")
+    print(f"Error count: {error_count}")
 
 
 if __name__ == "__main__":
     # main_data_cleaning()
-    generate_quality_labeled_images()
+    # generate_quality_labeled_images()
+    generate_price_labeled_images()

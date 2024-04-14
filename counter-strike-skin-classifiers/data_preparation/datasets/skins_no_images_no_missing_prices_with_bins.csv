@@ -1,0 +1,1139 @@
+id,skin_name,weapon_name,stat_trak,factory_new_price,quality,price_bin
+2,Syndicate,CZ75-Auto,0,7.79,3,2
+4,Army Sheen,CZ75-Auto,0,4.08,0,1
+5,Jungle Dashed,CZ75-Auto,0,1.28,0,0
+6,Distressed,CZ75-Auto,1,1.18,2,0
+7,Victoria,CZ75-Auto,1,127.29,5,3
+8,Circaetus,CZ75-Auto,1,1.92,2,1
+9,Tread Plate,CZ75-Auto,1,19.82,3,2
+10,Red Astor,CZ75-Auto,1,3.6,3,1
+13,Imprint,CZ75-Auto,1,2.32,2,1
+15,Polymer,CZ75-Auto,1,1.14,2,0
+16,Twist,CZ75-Auto,1,3.85,2,1
+17,Tigris,CZ75-Auto,1,5.15,3,1
+18,Poison Dart,CZ75-Auto,1,16.03,2,2
+19,Crimson Web,CZ75-Auto,1,52.89,2,3
+21,Pole Position,CZ75-Auto,1,5.38,3,1
+22,Green Plaid,CZ75-Auto,0,3.69,0,1
+23,Yellow Jacket,CZ75-Auto,1,39.14,4,3
+24,Tacticat,CZ75-Auto,1,4.1,3,1
+25,Xiangliu,CZ75-Auto,1,33.87,4,3
+26,Vendetta,CZ75-Auto,1,2.8,2,1
+29,Midnight Palm,CZ75-Auto,0,3.38,1,1
+30,Emerald Quartz,CZ75-Auto,0,126.38,2,3
+31,Framework,CZ75-Auto,0,1.28,0,0
+32,Hexane,CZ75-Auto,1,9.09,2,2
+33,Eco,CZ75-Auto,1,8.7,3,2
+34,Mudder,Desert Eagle,0,0.64,1,0
+35,Light Rail,Desert Eagle,1,16.89,3,2
+36,Mecha Industries,Desert Eagle,1,26.9,4,2
+37,Conspiracy,Desert Eagle,1,28.44,4,2
+38,Printstream,Desert Eagle,1,185.6,5,3
+39,Blaze,Desert Eagle,0,664.35,3,4
+40,Kumicho Dragon,Desert Eagle,1,97.44,4,3
+41,Trigger Discipline,Desert Eagle,1,10.29,3,2
+42,Blue Ply,Desert Eagle,1,7.98,2,2
+43,Sunset Storm 弐,Desert Eagle,0,304.16,3,4
+44,Emerald Jörmungandr,Desert Eagle,0,330.03,3,4
+45,Night Heist,Desert Eagle,0,16.24,2,2
+46,Hypnotic,Desert Eagle,1,145.38,4,3
+48,Oxide Blaze,Desert Eagle,1,2.42,2,1
+49,Directive,Desert Eagle,1,43.43,3,3
+50,Bronze Deco,Desert Eagle,1,2.29,2,1
+51,Sputnik,Desert Eagle,0,2.5,2,1
+52,Crimson Web,Desert Eagle,1,407.94,3,4
+53,Sunset Storm 壱,Desert Eagle,0,286.28,3,4
+54,Heirloom,Desert Eagle,1,65.95,3,3
+55,Urban DDPAT,Desert Eagle,0,14.91,1,2
+56,The Bronze,Desert Eagle,0,4.37,1,1
+57,Hand Cannon,Desert Eagle,0,589.78,3,4
+58,Urban Rubble,Desert Eagle,0,0.52,2,0
+59,Code Red,Desert Eagle,1,192.1,5,3
+60,Midnight Storm,Desert Eagle,0,29.96,1,2
+61,Fennec Fox,Desert Eagle,0,464.01,4,4
+62,Ocean Drive,Desert Eagle,1,449.55,5,4
+63,Naga,Desert Eagle,1,18.14,3,2
+64,Cobalt Disruption,Desert Eagle,1,166.45,4,3
+65,Corinthian,Desert Eagle,1,3.8,2,1
+66,Pilot,Desert Eagle,0,154.85,3,3
+67,Meteorite,Desert Eagle,0,1.09,2,0
+68,Golden Koi,Desert Eagle,1,268.8,5,4
+70,Oil Change,Dual Berettas,0,1.02,0,0
+71,Dualing Dragons,Dual Berettas,1,7.47,2,2
+72,Briar,Dual Berettas,0,6.19,0,1
+73,Moon in Libra,Dual Berettas,0,5.23,0,1
+75,Duelist,Dual Berettas,0,141.84,3,3
+77,Tread,Dual Berettas,1,3.99,2,1
+78,Cobalt Quartz,Dual Berettas,0,0.26,3,0
+79,Black Limba,Dual Berettas,1,107.25,2,3
+80,Royal Consorts,Dual Berettas,1,10.13,3,2
+81,Drift Wood,Dual Berettas,0,4.01,1,1
+82,Dezastre,Dual Berettas,1,17.08,3,2
+83,Heist,Dual Berettas,0,0.6,0,0
+84,Stained,Dual Berettas,0,0.21,1,0
+85,Flora Carnivora,Dual Berettas,1,6.63,3,1
+87,Ventilators,Dual Berettas,1,1.11,2,0
+88,Urban Shock,Dual Berettas,1,7.7,3,2
+89,Marina,Dual Berettas,1,58.56,3,3
+90,Cartel,Dual Berettas,1,5.28,2,1
+91,Cobra Strike,Dual Berettas,1,149.86,4,3
+92,Switch Board,Dual Berettas,0,5.01,1,1
+93,Balance,Dual Berettas,1,8.99,2,2
+95,Shred,Dual Berettas,1,1.29,2,0
+96,Pyre,Dual Berettas,0,35.8,1,3
+97,Melondrama,Dual Berettas,1,17.87,4,2
+98,Twin Turbo,Dual Berettas,0,7.42,4,2
+99,Elite 1.6,Dual Berettas,1,1.17,2,0
+100,Hemoglobin,Dual Berettas,1,31.55,3,3
+101,Retribution,Dual Berettas,1,4.39,2,1
+105,Case Hardened,Five-SeveN,1,108.94,3,3
+106,Angry Mob,Five-SeveN,1,45.48,5,3
+107,Capillary,Five-SeveN,1,1.03,2,0
+111,Nightshade,Five-SeveN,1,5.55,2,1
+112,Silver Quartz,Five-SeveN,0,0.61,2,0
+113,Fowl Play,Five-SeveN,1,22.65,4,2
+115,Hyper Beast,Five-SeveN,1,928.03,5,4
+116,Withered Vine,Five-SeveN,0,5.59,1,1
+117,Scrawl,Five-SeveN,1,1.24,2,0
+119,Boost Protocol,Five-SeveN,1,10.04,3,2
+120,Fairy Tale,Five-SeveN,1,129.87,4,3
+121,Retrobution,Five-SeveN,1,8.13,3,2
+123,Orange Peel,Five-SeveN,0,0.31,1,0
+124,Berries And Cherries,Five-SeveN,0,93.91,3,3
+125,Urban Hazard,Five-SeveN,1,3.86,2,1
+126,Fall Hazard,Five-SeveN,0,349.74,4,4
+127,Kami,Five-SeveN,1,3.05,2,1
+128,Violent Daimyo,Five-SeveN,1,2.66,2,1
+129,Scumbria,Five-SeveN,1,1.93,2,1
+130,Coolant,Five-SeveN,0,0.04,0,0
+131,Flame Test,Five-SeveN,1,0.75,2,0
+132,Triumvirate,Five-SeveN,1,9.29,3,2
+134,Neon Kimono,Five-SeveN,0,364.63,3,4
+135,Forest Night,Five-SeveN,0,0.1,0,0
+136,Copper Galaxy,Five-SeveN,1,24.56,3,2
+137,Crimson Blossom,Five-SeveN,0,114.88,2,3
+138,Buddy,Five-SeveN,1,4.28,3,1
+139,Neo-Noir,Glock-18,1,268.51,5,4
+140,Weasel,Glock-18,1,10.2,3,2
+141,Vogue,Glock-18,1,21.42,4,2
+143,Moonrise,Glock-18,1,5.61,3,1
+144,Steel Disruption,Glock-18,1,11.25,3,2
+145,Water Elemental,Glock-18,1,52.45,4,3
+146,Winterized,Glock-18,1,2.13,2,1
+147,Off World,Glock-18,1,4.33,2,1
+148,Red Tire,Glock-18,0,3.63,1,1
+149,Blue Fissure,Glock-18,1,78.88,2,3
+151,Clear Polymer,Glock-18,1,4.27,2,1
+153,Sacrifice,Glock-18,1,5.49,2,1
+155,Pink DDPAT,Glock-18,0,89.67,3,3
+156,Snack Attack,Glock-18,1,91.88,4,3
+157,High Beam,Glock-18,0,0.12,1,0
+158,Franklin,Glock-18,0,45.09,3,3
+159,Synth Leaf,Glock-18,0,320.14,3,4
+160,Umbral Rabbit,Glock-18,1,6.08,3,1
+161,Catacombs,Glock-18,1,1.79,2,1
+162,Nuclear Garden,Glock-18,0,7.22,3,2
+163,Wraiths,Glock-18,1,4.93,2,1
+164,Warhawk,Glock-18,1,4.38,2,1
+165,Twilight Galaxy,Glock-18,0,236.65,4,4
+166,Bullet Queen,Glock-18,1,174.99,5,3
+167,Grinder,Glock-18,1,7.84,3,2
+169,Ramese's Reach,Glock-18,0,17.92,3,2
+170,Royal Legion,Glock-18,1,29.61,3,2
+171,Wasteland Rebel,Glock-18,1,32.97,5,3
+172,Dragon Tattoo,Glock-18,1,304.6,3,4
+173,Oxide Blaze,Glock-18,1,1.59,2,0
+174,Brass,Glock-18,0,91.69,3,3
+175,Reactor,Glock-18,0,12.02,2,2
+176,Ironwork,Glock-18,1,6.56,2,1
+177,Gamma Doppler,Glock-18,0,70.77,5,3
+178,Bunsen Burner,Glock-18,1,6.98,2,1
+181,Pulse,P2000,1,3.46,2,1
+182,Urban Hazard,P2000,1,0.82,2,0
+183,Grassland Leaves,P2000,0,176.65,1,3
+184,Lifted Spirits,P2000,1,0.76,2,0
+185,Scorpion,P2000,0,6.08,3,1
+186,Woodsman,P2000,1,25.88,3,2
+187,Coach Class,P2000,0,20.63,1,2
+188,Granite Marbleized,P2000,0,0.26,1,0
+189,Amber Fade,P2000,0,8.6,3,2
+190,Corticera,P2000,1,54.16,4,3
+191,Ocean Foam,P2000,1,408.56,4,4
+192,Imperial,P2000,1,1.36,2,0
+193,Gnarled,P2000,1,0.97,2,0
+194,Obsidian,P2000,1,19.12,3,2
+195,Dispatch,P2000,0,23.54,2,2
+196,Fire Elemental,P2000,1,231.99,5,4
+198,Chainmail,P2000,0,120.63,2,3
+199,Red FragCam,P2000,1,6.19,2,1
+200,Space Race,P2000,0,8.49,3,2
+201,Handgun,P2000,1,16.91,3,2
+202,Pathfinder,P2000,0,22.48,1,2
+203,Imperial Dragon,P2000,1,24.99,4,2
+204,Ivory,P2000,1,3.09,2,1
+205,Panther Camo,P2000,0,3.34,1,1
+207,Acid Etched,P2000,1,6.8,3,1
+208,Wicked Sick,P2000,1,30.46,4,3
+209,Oceanic,P2000,1,1.76,2,1
+210,Turf,P2000,1,3.75,2,1
+211,X-Ray,P250,1,3.11,3,1
+212,Vino Primo,P250,0,8.89,3,2
+213,Inferno,P250,1,4.59,3,1
+214,Modern Hunter,P250,0,441.38,2,4
+215,Supernova,P250,1,4.76,3,1
+216,Digital Architect,P250,0,55.1,3,3
+217,Muertos,P250,1,28.11,4,2
+218,Dark Filigree,P250,0,7.39,1,2
+219,See Ya Later,P250,1,42.29,5,3
+220,Mint Kimono,P250,0,5.09,0,1
+221,Bone Mask,P250,0,9.51,0,2
+222,Re.built,P250,1,1.17,2,0
+223,Undertow,P250,1,66.63,4,3
+224,Mehndi,P250,1,81.72,4,3
+225,Metallic DDPAT,P250,0,0.15,1,0
+226,Nuclear Threat,P250,0,641.53,3,4
+227,Nevermore,P250,1,3.81,3,1
+228,Forest Night,P250,0,1.23,0,0
+230,Cyber Shell,P250,1,3.66,3,1
+231,Contamination,P250,0,2.8,1,1
+232,Contaminant,P250,1,2.43,2,1
+233,Exchanger,P250,0,0.56,2,0
+234,Iron Clad,P250,1,2.56,2,1
+235,Franklin,P250,0,1.75,4,0
+236,Hive,P250,1,9.63,2,2
+237,Bengal Tiger,P250,0,20.66,2,2
+238,Facility Draft,P250,0,0.04,0,0
+239,Cartel,P250,1,77.8,4,3
+240,Cassette,P250,1,0.64,2,0
+241,Drought,P250,0,0.67,0,0
+242,Crimson Kimono,P250,0,25.05,1,2
+243,Facets,P250,0,25.58,1,2
+244,Red Rock,P250,1,25.68,3,2
+246,Steel Disruption,P250,1,5.88,2,1
+248,Boreal Forest,P250,0,0.12,0,0
+249,Visions,P250,1,22.43,4,2
+250,Wingshot,P250,1,11.2,3,2
+251,Verdigris,P250,1,1.71,2,0
+252,Splash,P250,1,121.73,3,3
+253,Ripple,P250,1,0.95,2,0
+254,Apep's Curse,P250,0,124.29,4,3
+255,Gunsmoke,P250,0,33.63,1,3
+256,Black & Tan,P250,0,29.4,2,2
+257,Valence,P250,1,3.21,2,1
+258,Canal Spray,R8 Revolver,0,5.51,0,1
+260,Reboot,R8 Revolver,1,14.0,3,2
+261,Llama Cannon,R8 Revolver,1,31.96,4,3
+262,Memento,R8 Revolver,1,6.33,2,1
+263,Grip,R8 Revolver,1,1.02,2,0
+264,Inlay,R8 Revolver,0,0.12,0,0
+265,Crazy 8,R8 Revolver,1,6.03,3,1
+266,Blaze,R8 Revolver,0,1.5,2,0
+267,Fade,R8 Revolver,1,75.45,5,3
+268,Crimson Web,R8 Revolver,1,22.96,2,2
+269,Survivalist,R8 Revolver,1,1.29,2,0
+270,Amber Fade,R8 Revolver,0,1.07,4,0
+271,Bone Forged,R8 Revolver,1,0.82,2,0
+272,Banana Cannon,R8 Revolver,1,5.33,3,1
+273,Bone Mask,R8 Revolver,0,0.08,0,0
+274,Junk Yard,R8 Revolver,1,1.94,2,1
+276,Phoenix Marker,R8 Revolver,0,3.37,1,1
+277,Desert Brush,R8 Revolver,0,1.06,0,0
+279,Jambiya,Tec-9,1,4.08,2,1
+280,Cut Out,Tec-9,1,24.99,2,2
+283,Nuclear Threat,Tec-9,0,812.38,3,4
+284,Ossified,Tec-9,0,1.36,2,0
+285,Remote Control,Tec-9,0,5.67,4,1
+286,Bamboozle,Tec-9,1,3.99,3,1
+287,Rust Leaf,Tec-9,0,24.34,1,2
+288,Fuel Injector,Tec-9,1,39.97,4,3
+289,Blast From the Past,Tec-9,0,16.0,2,2
+290,Orange Murano,Tec-9,0,9.19,1,2
+291,Urban DDPAT,Tec-9,0,0.12,0,0
+292,Flash Out,Tec-9,1,1.09,2,0
+293,Brass,Tec-9,0,57.53,2,3
+294,Cracked Opal,Tec-9,1,1.65,2,0
+295,Safety Net,Tec-9,0,1.43,2,0
+296,Army Mesh,Tec-9,0,0.04,0,0
+297,Isaac,Tec-9,1,25.4,2,2
+298,Decimator,Tec-9,1,165.81,4,3
+299,Titanium Bit,Tec-9,1,21.07,3,2
+300,Hades,Tec-9,0,22.96,1,2
+301,Toxic,Tec-9,0,8.28,2,2
+302,Ice Cap,Tec-9,1,1.45,2,0
+305,Terrace,Tec-9,0,128.12,2,3
+307,Bamboo Forest,Tec-9,0,6.71,0,1
+308,Mummy's Rot,Tec-9,0,2.41,2,1
+309,Rebel,Tec-9,1,1.12,2,0
+310,Phoenix Chalk,Tec-9,0,0.68,0,0
+311,VariCamo,Tec-9,0,0.16,1,0
+313,Avalanche,Tec-9,1,13.79,3,2
+314,Re-Entry,Tec-9,1,4.37,3,1
+315,Snek-9,Tec-9,1,3.68,2,1
+316,Red Quartz,Tec-9,0,0.13,3,0
+317,Brother,Tec-9,1,3.98,3,1
+318,Forest Leaves,USP-S,0,1.21,1,0
+319,Night Ops,USP-S,0,0.52,2,0
+320,Cortex,USP-S,1,29.0,4,2
+321,Caiman,USP-S,1,150.93,4,3
+322,Cyrex,USP-S,1,12.88,3,2
+323,Torque,USP-S,1,5.08,2,1
+324,Lead Conduit,USP-S,1,22.27,2,2
+325,Business Class,USP-S,0,60.91,2,3
+326,Stainless,USP-S,1,81.66,2,3
+327,Blueprint,USP-S,1,128.06,2,3
+328,Guardian,USP-S,1,12.06,3,2
+329,Desert Tactical,USP-S,0,0.77,1,0
+330,Para Green,USP-S,0,18.45,1,2
+331,Overgrowth,USP-S,1,292.31,3,4
+332,Target Acquired,USP-S,0,234.72,4,4
+333,Kill Confirmed,USP-S,1,557.31,5,4
+334,Black Lotus,USP-S,1,44.51,2,3
+335,Neo-Noir,USP-S,1,121.57,5,3
+336,Serum,USP-S,1,62.12,4,3
+339,Orange Anolis,USP-S,0,100.14,3,3
+340,The Traitor,USP-S,1,196.71,5,3
+341,Purple DDPAT,USP-S,0,17.46,2,2
+343,Pathfinder,USP-S,0,28.92,1,2
+344,Ancient Visions,USP-S,0,52.94,3,3
+345,Orion,USP-S,1,127.41,4,3
+346,Royal Blue,USP-S,0,57.9,1,3
+347,Flashback,USP-S,1,3.45,3,1
+348,Ticket to Hell,USP-S,1,6.39,3,1
+349,Monster Mashup,USP-S,1,92.2,4,3
+350,Printstream,USP-S,1,305.54,5,4
+351,Road Rash,USP-S,0,64.33,3,3
+352,Blood Tiger,USP-S,1,11.37,2,2
+353,Check Engine,USP-S,0,1.49,2,0
+354,Lapis Gator,MAC-10,1,1.89,2,1
+356,Disco Tech,MAC-10,1,44.3,4,3
+357,Stalker,MAC-10,1,325.43,5,4
+359,Neon Rider,MAC-10,1,41.51,5,3
+360,Echoing Sands,MAC-10,0,0.76,1,0
+361,Commuter,MAC-10,0,137.74,1,3
+362,Strats,MAC-10,0,1.07,0,0
+363,Oceanic,MAC-10,1,0.72,2,0
+364,Copper Borre,MAC-10,0,137.95,2,3
+365,Sienna Damask,MAC-10,0,0.71,0,0
+366,Red Filigree,MAC-10,0,92.73,3,3
+367,Case Hardened,MAC-10,0,95.97,3,3
+372,Carnivore,MAC-10,1,2.3,2,1
+373,Palm,MAC-10,0,0.21,1,0
+374,Pipe Down,MAC-10,1,5.55,3,1
+375,Nuclear Garden,MAC-10,0,11.45,2,2
+376,Rangeen,MAC-10,1,1.49,2,0
+377,Graven,MAC-10,1,119.79,3,3
+378,Whitefish,MAC-10,1,2.31,2,1
+380,Heat,MAC-10,1,17.61,3,2
+381,Tatter,MAC-10,1,17.41,3,2
+382,Amber Fade,MAC-10,0,20.49,2,2
+383,Button Masher,MAC-10,1,3.05,3,1
+384,Last Dive,MAC-10,1,5.98,3,1
+385,Calf Skin,MAC-10,0,0.21,1,0
+386,Gold Brick,MAC-10,0,71.06,3,3
+387,Curse,MAC-10,1,18.95,3,2
+388,Urban DDPAT,MAC-10,0,18.58,0,2
+389,Allure,MAC-10,1,4.6,3,1
+390,Toybox,MAC-10,1,61.56,4,3
+391,Surfwood,MAC-10,0,4.6,0,1
+392,Malachite,MAC-10,1,9.18,3,2
+393,Fade,MAC-10,0,36.73,2,3
+394,Classic Crate,MAC-10,1,1.34,2,0
+395,Aloha,MAC-10,1,6.39,2,1
+396,Ensnared,MAC-10,1,1.1,2,0
+397,Hot Snakes,MAC-10,0,241.04,4,4
+398,Monkeyflage,MAC-10,1,0.95,2,0
+399,Propaganda,MAC-10,0,38.52,4,3
+400,Co-Processor,MP5-SD,0,0.56,2,0
+402,Dirt Drop,MP5-SD,0,0.07,0,0
+403,Necro Jr.,MP5-SD,1,1.01,2,0
+404,Oxide Oasis,MP5-SD,0,398.3,4,4
+405,Agent,MP5-SD,1,13.9,3,2
+406,Acid Wash,MP5-SD,1,4.17,2,1
+407,Autumn Twilly,MP5-SD,0,7.57,3,2
+408,Condition Zero,MP5-SD,1,4.12,2,1
+409,Gauss,MP5-SD,1,3.7,3,1
+410,Bamboo Garden,MP5-SD,0,4.39,0,1
+411,Kitbash,MP5-SD,1,3.7,3,1
+412,Desert Strike,MP5-SD,1,1.23,2,0
+413,Phosphor,MP5-SD,1,22.89,4,2
+415,Liquidation,MP5-SD,1,1.6,2,0
+416,Ocean Foam,MP7,1,7.68,3,2
+417,Fade,MP7,0,7.99,3,2
+418,Vault Heist,MP7,0,3.16,1,1
+419,Gunsmoke,MP7,0,12.45,1,2
+420,Urban Hazard,MP7,1,0.82,2,0
+421,Asterion,MP7,0,5.73,0,1
+423,Forest DDPAT,MP7,0,0.06,0,0
+424,Cirrus,MP7,1,2.42,2,1
+426,Abyssal Apparition,MP7,1,17.84,4,2
+427,Neon Ply,MP7,1,13.94,3,2
+428,Tall Grass,MP7,0,3.36,1,1
+429,Motherboard,MP7,0,0.1,1,0
+430,Special Delivery,MP7,1,9.69,3,2
+431,Impire,MP7,1,9.18,3,2
+432,Teal Blossom,MP7,0,98.82,2,3
+434,Akoben,MP7,1,1.2,2,0
+435,Bloodsport,MP7,1,15.79,5,2
+436,Nemesis,MP7,1,36.95,4,3
+437,Olive Plaid,MP7,0,3.68,0,1
+438,Guerrilla,MP7,1,4.01,2,1
+439,Armor Core,MP7,1,0.78,2,0
+441,Prey,MP7,0,1.08,0,0
+442,Scorched,MP7,0,8.47,0,2
+443,Sunbaked,MP7,0,0.14,0,0
+444,Powercore,MP7,1,6.98,3,1
+445,Orange Peel,MP7,0,13.52,1,2
+447,Army Recon,MP7,0,0.05,0,0
+449,Full Stop,MP7,0,31.38,2,3
+450,Sand Scale,MP9,1,1.17,2,0
+452,Capillary,MP9,1,1.82,2,1
+453,Hypnotic,MP9,1,31.25,3,3
+454,Stained Glass,MP9,0,131.65,3,3
+455,Orange Peel,MP9,0,0.28,1,0
+456,Ruby Poison Dart,MP9,1,7.0,3,1
+457,Featherweight,MP9,1,1.39,2,0
+458,Modest Threat,MP9,1,0.88,2,0
+459,Mount Fuji,MP9,1,28.54,3,2
+460,Airlock,MP9,1,24.56,4,2
+461,Army Sheen,MP9,0,0.81,0,0
+463,Deadly Poison,MP9,1,5.43,2,1
+464,Dark Age,MP9,0,127.78,2,3
+465,Sand Dashed,MP9,0,0.09,0,0
+466,Green Plaid,MP9,0,4.48,0,1
+467,Starlight Protector,MP9,1,64.89,5,3
+468,Music Box,MP9,0,17.48,2,2
+469,Bioleak,MP9,1,1.34,2,0
+470,Pandora's Box,MP9,0,166.44,2,3
+471,Old Roots,MP9,0,5.48,1,1
+472,Slide,MP9,0,0.07,0,0
+473,Food Chain,MP9,1,25.03,4,2
+474,Black Sand,MP9,1,1.02,2,0
+476,Dry Season,MP9,0,53.78,0,3
+477,Setting Sun,MP9,0,11.19,2,2
+479,Goo,MP9,1,4.36,3,1
+480,Dart,MP9,1,2.5,2,1
+481,Rose Iron,MP9,1,17.02,3,2
+482,Hydra,MP9,1,42.87,4,3
+483,Night Riot,PP-Bizon,1,0.78,2,0
+484,Rust Coat,PP-Bizon,0,26.79,2,2
+485,Night Ops,PP-Bizon,0,0.1,1,0
+486,Lumen,PP-Bizon,1,4.09,2,1
+487,Urban Dashed,PP-Bizon,0,0.09,0,0
+488,Antique,PP-Bizon,1,19.19,3,2
+489,Brass,PP-Bizon,0,2.28,2,1
+491,Space Cat,PP-Bizon,1,2.84,3,1
+492,Osiris,PP-Bizon,1,4.79,3,1
+493,Cobalt Halftone,PP-Bizon,1,4.81,2,1
+494,Blue Streak,PP-Bizon,1,25.09,3,2
+495,Runic,PP-Bizon,1,1.07,2,0
+496,Photic Zone,PP-Bizon,1,5.12,2,1
+497,Facility Sketch,PP-Bizon,0,0.04,0,0
+498,Jungle Slipstream,PP-Bizon,1,0.91,2,0
+499,High Roller,PP-Bizon,1,32.45,4,3
+500,Water Sigil,PP-Bizon,1,5.68,2,1
+501,Breaker Box,PP-Bizon,0,3.69,1,1
+502,Anolis,PP-Bizon,0,0.75,0,0
+503,Irradiated Alert,PP-Bizon,0,27.85,0,2
+504,Embargo,PP-Bizon,1,15.89,3,2
+506,Harvester,PP-Bizon,1,1.77,2,1
+507,Carbon Fiber,PP-Bizon,0,13.99,1,2
+508,Fuel Rod,PP-Bizon,1,11.37,3,2
+509,Judgement of Anubis,PP-Bizon,1,44.51,5,3
+510,Forest Leaves,PP-Bizon,0,33.29,0,3
+511,Bamboo Print,PP-Bizon,0,5.04,0,1
+512,Modern Hunter,PP-Bizon,0,155.84,2,3
+514,Sand Dashed,PP-Bizon,0,0.07,0,0
+517,Ash Wood,P90,0,0.16,1,0
+518,Chopper,P90,1,5.78,3,1
+519,Ancient Earth,P90,0,0.75,0,0
+520,Virus,P90,1,32.45,3,3
+521,Verdant Growth,P90,0,3.51,1,1
+522,Shallow Grave,P90,1,17.84,4,2
+523,Glacier Mesh,P90,0,25.01,2,2
+524,Leather,P90,0,18.07,1,2
+525,Asiimov,P90,1,193.84,5,3
+526,Astral Jörmungandr,P90,0,346.58,3,4
+527,Emerald Dragon,P90,1,1422.67,4,4
+528,Death Grip,P90,1,35.52,3,3
+529,Shapewood,P90,1,37.15,4,3
+530,Teardown,P90,0,0.51,2,0
+531,Freight,P90,1,0.88,2,0
+532,Grim,P90,1,2.48,2,1
+534,Module,P90,1,3.31,2,1
+535,Elite Build,P90,1,5.73,2,1
+536,ScaraB Rush,P90,0,13.39,3,2
+537,Blind Spot,P90,1,22.25,3,2
+538,Tiger Pit,P90,0,14.78,2,2
+539,Scorched,P90,0,8.45,0,2
+540,Sand Spray,P90,0,0.08,0,0
+541,Desert Warfare,P90,1,14.9,2,2
+542,Sunset Lily,P90,0,25.91,1,2
+543,Vent Rush,P90,1,4.41,3,1
+544,Traction,P90,1,4.59,2,1
+545,Run and Hide,P90,0,335.17,4,4
+546,Cold Blooded,P90,1,91.83,4,3
+547,Schematic,P90,0,13.97,2,2
+548,Facility Negative,P90,0,0.56,2,0
+549,Neoqueen,P90,1,4.21,3,1
+550,Fallout Warning,P90,0,275.49,1,4
+551,Baroque Red,P90,0,32.33,2,3
+553,Cocoa Rampage,P90,1,2.29,2,1
+554,Off World,P90,1,1.75,2,0
+555,Desert DDPAT,P90,0,1.06,0,0
+556,Nostalgia,P90,1,26.15,4,2
+557,Roadblock,UMP-45,1,0.92,2,0
+558,Corporal,UMP-45,1,1.39,2,0
+559,Mechanism,UMP-45,0,4.23,1,1
+560,Momentum,UMP-45,1,20.39,4,2
+561,Exposure,UMP-45,1,3.32,3,1
+562,Scorched,UMP-45,0,5.0,0,1
+563,Fallout Warning,UMP-45,0,107.76,1,3
+564,Oscillator,UMP-45,1,1.55,2,0
+565,Plastique,UMP-45,1,4.71,3,1
+566,Gunsmoke,UMP-45,0,0.18,1,0
+567,Wild Child,UMP-45,1,31.14,4,3
+568,Riot,UMP-45,1,1.33,2,0
+569,Delusion,UMP-45,1,4.65,2,1
+571,Full Stop,UMP-45,0,1.59,2,0
+572,Fade,UMP-45,0,582.47,4,4
+573,Bone Pile,UMP-45,1,34.94,2,3
+574,Carbon Fiber,UMP-45,0,0.14,1,0
+575,Metal Flowers,UMP-45,1,6.28,2,1
+576,Briefing,UMP-45,1,1.31,2,0
+577,Arctic Wolf,UMP-45,1,3.68,3,1
+578,Blaze,UMP-45,0,18.37,2,2
+580,Urban DDPAT,UMP-45,0,0.09,0,0
+581,Mudder,UMP-45,0,0.06,0,0
+584,Labyrinth,UMP-45,1,0.85,2,0
+585,Scaffold,UMP-45,1,7.65,3,2
+586,Day Lily,UMP-45,0,96.67,2,3
+587,Facility Dark,UMP-45,0,0.04,0,0
+588,Gold Bismuth,UMP-45,1,11.16,3,2
+589,Moonrise,UMP-45,1,3.33,3,1
+590,Crime Scene,UMP-45,0,94.02,3,3
+591,Minotaur's Labyrinth,UMP-45,0,120.52,2,3
+592,Houndstooth,UMP-45,0,3.12,1,1
+593,Primal Saber,UMP-45,1,21.87,4,2
+594,Metallic DDPAT,MAG-7,0,0.15,1,0
+595,Counter Terrace,MAG-7,0,120.55,2,3
+596,Cinquedea,MAG-7,0,813.75,4,4
+597,Memento,MAG-7,1,8.98,2,2
+598,Firestarter,MAG-7,1,12.89,2,2
+599,Popdog,MAG-7,1,0.91,2,0
+600,Navy Sheen,MAG-7,0,0.68,0,0
+601,Hard Water,MAG-7,1,5.86,2,1
+603,Copper Coated,MAG-7,0,2.29,2,1
+604,SWAG-7,MAG-7,1,4.48,3,1
+606,Rust Coat,MAG-7,0,0.06,0,0
+607,Heat,MAG-7,1,8.59,3,2
+608,Hazard,MAG-7,0,148.74,2,3
+609,Insomnia,MAG-7,1,0.98,2,0
+610,Carbon Fiber,MAG-7,0,4.28,1,1
+611,Justice,MAG-7,1,29.76,4,2
+612,Core Breach,MAG-7,0,4.84,3,1
+613,Praetorian,MAG-7,1,9.86,3,2
+614,Monster Call,MAG-7,1,4.87,3,1
+615,Foresight,MAG-7,1,0.65,2,0
+616,Irradiated Alert,MAG-7,0,21.85,0,2
+619,BI83 Spectrum,MAG-7,1,6.96,3,1
+620,Prism Terrace,MAG-7,0,52.56,3,3
+621,Sonar,MAG-7,1,1.3,2,0
+622,Cobalt Core,MAG-7,1,1.51,2,0
+623,Petroglyph,MAG-7,1,4.13,3,1
+624,Chainmail,MAG-7,0,28.94,1,2
+625,Heaven Guard,MAG-7,1,1.25,2,0
+627,Baroque Orange,Nova,0,102.87,3,3
+628,Mandrel,Nova,0,0.04,0,0
+629,Red Quartz,Nova,0,8.66,3,2
+630,Modern Hunter,Nova,0,294.24,2,4
+631,Caged Steel,Nova,0,0.14,1,0
+632,Wood Fired,Nova,1,0.68,2,0
+633,Tempest,Nova,1,29.83,2,2
+635,Blaze Orange,Nova,0,927.31,2,4
+636,Koi,Nova,1,4.49,3,1
+637,Plume,Nova,1,3.98,2,1
+638,Windblown,Nova,1,1.61,2,0
+639,Bloomstick,Nova,1,276.32,4,4
+640,Antique,Nova,1,28.74,4,2
+642,Graphite,Nova,1,35.19,3,3
+643,Moon in Libra,Nova,0,5.37,0,1
+645,Predator,Nova,0,0.09,0,0
+646,Interlock,Nova,0,14.67,2,2
+648,Quick Sand,Nova,0,29.94,2,2
+649,Clear Polymer,Nova,1,11.46,3,2
+650,Walnut,Nova,0,20.08,0,2
+651,Rust Coat,Nova,0,3.38,1,1
+652,Forest Leaves,Nova,0,34.95,0,3
+653,Army Sheen,Nova,0,0.69,0,0
+654,Hyper Beast,Nova,1,72.31,4,3
+655,Ranger,Nova,1,1.92,2,1
+656,Toy Soldier,Nova,1,9.38,3,2
+657,Rising Skull,Nova,1,16.47,3,2
+658,Wild Six,Nova,1,3.32,3,1
+659,Gila,Nova,1,3.19,3,1
+660,Polar Mesh,Nova,0,0.08,0,0
+661,Ghost Camo,Nova,1,5.86,2,1
+662,Sobek's Bite,Nova,0,12.8,3,2
+663,Exo,Nova,1,0.91,2,0
+664,Brake Light,Sawed-Off,0,0.89,2,0
+665,Copper,Sawed-Off,0,125.08,2,3
+666,Amber Fade,Sawed-Off,0,0.52,2,0
+667,Black Sand,Sawed-Off,1,0.81,2,0
+668,The Kraken,Sawed-Off,1,47.37,5,3
+669,Highwayman,Sawed-Off,1,7.94,3,2
+670,Parched,Sawed-Off,0,1.06,0,0
+671,Mosaico,Sawed-Off,0,34.93,1,3
+672,Morris,Sawed-Off,1,0.91,2,0
+673,Devourer,Sawed-Off,1,32.44,4,3
+674,Snake Camo,Sawed-Off,0,0.18,1,0
+675,Jungle Thicket,Sawed-Off,0,4.39,0,1
+676,Irradiated Alert,Sawed-Off,0,14.34,0,2
+677,Rust Coat,Sawed-Off,0,22.66,1,2
+678,Apocalypto,Sawed-Off,1,3.95,3,1
+679,Forest DDPAT,Sawed-Off,0,0.05,0,0
+681,Limelight,Sawed-Off,1,6.52,3,1
+682,Wasteland Princess,Sawed-Off,1,17.73,4,2
+683,Full Stop,Sawed-Off,0,0.51,2,0
+685,Zander,Sawed-Off,1,1.57,2,0
+686,Kiss♥Love,Sawed-Off,1,28.94,4,2
+687,Orange DDPAT,Sawed-Off,1,169.37,3,3
+688,Serenity,Sawed-Off,1,7.36,3,2
+689,Sage Spray,Sawed-Off,0,5.97,0,1
+690,Clay Ambush,Sawed-Off,0,0.58,0,0
+691,Yorick,Sawed-Off,1,1.53,2,0
+692,Bamboo Shadow,Sawed-Off,0,4.44,0,1
+693,First Class,Sawed-Off,0,42.23,2,3
+694,Origami,Sawed-Off,1,0.79,2,0
+695,Spirit Board,Sawed-Off,1,0.85,2,0
+696,Frost Borre,XM1014,0,129.77,2,3
+699,Entombed,XM1014,1,18.63,4,2
+700,Heaven Guard,XM1014,1,23.92,3,2
+701,Fallout Warning,XM1014,0,190.58,1,3
+702,Ancient Lore,XM1014,0,52.49,3,3
+703,Blue Tire,XM1014,0,1.13,0,0
+705,Watchdog,XM1014,1,22.96,2,2
+706,Slipstream,XM1014,1,1.29,2,0
+708,Banana Leaf,XM1014,0,24.59,1,2
+709,Blue Steel,XM1014,0,0.22,1,0
+710,Zombie Offensive,XM1014,1,2.89,3,1
+711,Quicksilver,XM1014,1,1.71,2,0
+712,Scumbria,XM1014,1,2.9,2,1
+713,Teclu Burner,XM1014,1,8.34,3,2
+714,Urban Perforated,XM1014,0,8.53,0,2
+715,VariCamo Blue,XM1014,0,16.27,2,2
+716,Red Leather,XM1014,0,55.27,2,3
+717,Tranquility,XM1014,1,89.84,4,3
+719,Bone Machine,XM1014,0,8.21,2,2
+720,Oxide Blaze,XM1014,1,0.66,2,0
+721,Black Tie,XM1014,1,12.26,3,2
+722,Seasons,XM1014,1,6.52,3,1
+723,Ziggy,XM1014,1,4.28,3,1
+724,XOXO,XM1014,1,25.5,4,2
+726,Hieroglyph,XM1014,0,0.15,0,0
+727,Elegant Vines,XM1014,0,69.53,3,3
+729,CaliCamo,XM1014,0,0.1,1,0
+730,Charter,XM1014,0,0.8,0,0
+731,Humidor,M249,0,21.97,2,2
+732,Downtown,M249,1,4.23,3,1
+733,Magma,M249,1,2.67,2,1
+734,Warbird,M249,1,3.03,2,1
+735,Emerald Poison Dart,M249,1,5.94,3,1
+736,System Lock,M249,1,2.03,2,1
+737,Nebula Crusader,M249,1,11.63,3,2
+738,O.S.I.P.R.,M249,1,1.61,2,0
+739,Midnight Palm,M249,0,5.49,1,1
+740,Spectre,M249,1,1.02,2,0
+741,Jungle DDPAT,M249,0,24.48,0,2
+742,Contrast Spray,M249,0,4.98,0,1
+743,Aztec,M249,1,4.31,3,1
+745,Gator Mesh,M249,0,0.11,1,0
+746,Predator,M249,0,1.27,0,0
+747,Shipping Forecast,M249,0,20.96,1,2
+748,Blizzard Marbleized,M249,0,251.7,1,4
+749,Deep Relief,M249,1,2.53,2,1
+751,Submerged,M249,0,0.13,0,0
+752,Infrastructure,Negev,0,14.57,2,2
+753,Boroque Sand,Negev,0,4.54,0,1
+755,Nuclear Waste,Negev,0,2.8,1,1
+756,Lionfish,Negev,1,3.3,3,1
+758,dev_texture,Negev,1,3.32,3,1
+759,Desert-Strike,Negev,1,0.81,2,0
+760,Bratatat,Negev,1,25.94,2,2
+762,Palm,Negev,0,82.51,1,3
+763,Power Loader,Negev,1,31.99,3,3
+765,Bulkhead,Negev,0,0.1,1,0
+766,Terrain,Negev,1,1.39,2,0
+767,Phoenix Stencil,Negev,0,14.97,2,2
+769,Prototype,Negev,1,1.02,2,0
+770,CaliCamo,Negev,0,11.53,1,2
+771,Army Sheen,Negev,0,0.04,0,0
+772,Drop Me,Negev,1,1.06,2,0
+773,Ultralight,Negev,1,0.66,2,0
+774,Jaguar,AK-47,1,699.22,5,4
+775,Head Shot,AK-47,1,211.25,5,4
+776,Neon Rider,AK-47,1,389.47,5,4
+777,Red Laminate,AK-47,1,1546.33,4,4
+778,Rat Rod,AK-47,1,36.95,3,3
+780,Legion of Anubis,AK-47,1,64.72,5,3
+781,Point Disarray,AK-47,1,87.77,4,3
+782,Aquamarine Revenge,AK-47,1,299.67,5,4
+783,Frontside Misty,AK-47,1,153.56,4,3
+784,Baroque Purple,AK-47,0,16.22,1,2
+785,Black Laminate,AK-47,0,204.83,2,4
+787,Blue Laminate,AK-47,1,44.92,3,3
+788,Nightwish,AK-47,1,173.75,5,3
+790,Neon Revolution,AK-47,1,165.53,5,3
+792,Orbit Mk01,AK-47,1,68.85,3,3
+793,Jungle Spray,AK-47,0,138.73,1,3
+794,Uncharted,AK-47,1,5.3,2,1
+795,Asiimov,AK-47,1,567.5,5,4
+797,Predator,AK-47,0,53.32,1,3
+799,First Class,AK-47,0,159.72,3,3
+800,Jet Set,AK-47,0,1053.83,4,4
+801,Green Laminate,AK-47,0,26.15,2,2
+802,Slate,AK-47,1,43.72,3,3
+803,Bloodsport,AK-47,1,314.71,5,4
+805,The Empress,AK-47,1,338.45,5,4
+806,Elite Build,AK-47,1,24.32,2,2
+807,Panthera onca,AK-47,0,359.38,4,4
+808,Emerald Pinstripe,AK-47,0,9.21,3,2
+809,Steel Delta,AK-47,0,2.9,2,1
+810,Safari Mesh,AK-47,0,2.14,1,1
+813,Ice Coaled,AK-47,1,55.46,4,3
+814,Cartel,AK-47,1,94.49,4,3
+815,Leet Museo,AK-47,1,180.82,5,3
+816,Phantom Disruptor,AK-47,1,36.07,4,3
+817,Case Hardened,AK-47,1,1205.36,4,4
+819,Safety Net,AK-47,0,8.46,3,2
+820,Navy Murano,AUG,0,4.85,0,1
+821,Arctic Wolf,AUG,1,20.96,3,2
+822,Tom Cat,AUG,1,1.34,2,0
+823,Syd Mead,AUG,1,20.65,4,2
+824,Carved Jade,AUG,0,20.65,2,2
+825,Sweeper,AUG,0,0.05,0,0
+826,Chameleon,AUG,1,24.97,5,2
+827,Torque,AUG,1,18.12,3,2
+828,Spalted Wood,AUG,0,5.72,1,1
+829,Snake Pit,AUG,0,0.12,0,0
+831,Death by Puppy,AUG,1,29.85,4,2
+832,Wings,AUG,1,26.7,2,2
+833,Surveillance,AUG,0,0.79,0,0
+834,Fleet Flock,AUG,1,26.97,4,2
+835,Sand Storm,AUG,0,72.2,3,3
+837,Amber Slipstream,AUG,1,1.14,2,0
+838,Ricochet,AUG,1,2.59,2,1
+839,Bengal Tiger,AUG,1,97.74,4,3
+841,Condemned,AUG,0,0.26,1,0
+842,Daedalus,AUG,0,5.14,0,1
+843,Momentum,AUG,1,62.1,4,3
+845,Aristocrat,AUG,1,7.06,3,2
+846,Flame Jörmungandr,AUG,0,339.2,3,4
+847,Plague,AUG,1,4.44,2,1
+848,Stymphalian,AUG,1,17.41,4,2
+849,Triqua,AUG,1,2.53,2,1
+850,Radiation Hazard,AUG,0,2.48,1,1
+852,Midnight Lily,AUG,0,347.73,3,4
+853,Amber Fade,AUG,0,1.49,2,0
+855,Random Access,AUG,0,4.64,3,1
+857,BOOM,AWP,1,1033.06,4,4
+858,Black Nile,AWP,0,5.99,2,1
+859,Graphite,AWP,1,486.28,4,4
+860,Neo-Noir,AWP,1,86.24,5,3
+863,Mortis,AWP,1,16.65,4,2
+864,Elite Build,AWP,1,82.65,4,3
+865,PAW,AWP,1,14.01,3,2
+867,Fade,AWP,0,1337.63,5,4
+869,Safari Mesh,AWP,0,1.27,1,0
+870,Lightning Strike,AWP,1,988.51,5,4
+872,Snake Camo,AWP,0,277.69,2,4
+873,Silk Tiger,AWP,0,343.77,4,4
+874,Exoskeleton,AWP,1,33.37,3,3
+875,Phobos,AWP,1,6.13,3,1
+876,Sun in Leo,AWP,0,37.43,1,3
+877,Chromatic Aberration,AWP,1,57.1,5,3
+878,Duality,AWP,1,38.66,4,3
+879,Atheris,AWP,1,44.44,3,3
+880,POP AWP,AWP,0,7.74,3,2
+881,Corticera,AWP,1,115.23,4,3
+882,Capillary,AWP,1,10.56,2,2
+883,Oni Taiji,AWP,1,973.67,5,4
+884,Fever Dream,AWP,1,34.39,4,3
+885,Worm God,AWP,1,7.39,3,2
+887,Hyper Beast,AWP,1,292.1,5,4
+888,Wildfire,AWP,1,332.9,5,4
+889,Containment Breach,AWP,1,1426.04,5,4
+891,Pink DDPAT,AWP,0,119.62,3,3
+892,Electric Hive,AWP,1,132.8,4,3
+893,Acheron,AWP,0,1.73,2,0
+897,ZX Spectron,FAMAS,1,22.0,3,2
+898,Spitfire,FAMAS,0,217.69,3,4
+899,Prime Conspiracy,FAMAS,0,91.82,3,3
+901,Faulty Wiring,FAMAS,0,1.14,0,0
+902,Commemoration,FAMAS,1,63.98,5,3
+903,Valence,FAMAS,1,16.17,3,2
+904,Survivor Z,FAMAS,1,1.67,2,0
+906,Teardown,FAMAS,0,0.63,2,0
+907,Hexane,FAMAS,1,8.59,2,2
+908,Pulse,FAMAS,1,14.45,3,2
+909,Meow 36,FAMAS,1,1.51,2,0
+910,Eye of Athena,FAMAS,1,35.08,4,3
+911,Mecha Industries,FAMAS,1,22.93,4,2
+912,Djinn,FAMAS,1,29.07,4,2
+913,CaliCamo,FAMAS,0,3.44,1,1
+914,Rapid Eye Movement,FAMAS,1,21.32,4,2
+915,Afterimage,FAMAS,1,47.47,4,3
+916,Waters of Nephthys,FAMAS,0,126.97,4,3
+917,Decommissioned,FAMAS,1,2.53,2,1
+919,Sundown,FAMAS,0,121.63,2,3
+920,Meltdown,FAMAS,0,36.15,4,3
+921,Contrast Spray,FAMAS,0,79.3,0,3
+922,Roll Cage,FAMAS,1,96.09,5,3
+923,Crypsis,FAMAS,1,1.74,2,0
+924,Macabre,FAMAS,1,5.88,2,1
+925,Cyanospatter,FAMAS,0,0.72,1,0
+927,Night Borre,FAMAS,0,6.83,0,1
+928,Styx,FAMAS,0,10.17,3,2
+929,Neural Net,FAMAS,1,5.44,3,1
+930,Digital Mesh,G3SG1,1,2.42,2,1
+931,Desert Storm,G3SG1,0,0.08,0,0
+932,Chronos,G3SG1,0,263.8,3,4
+933,Murky,G3SG1,1,2.13,2,1
+934,VariCamo,G3SG1,0,0.11,1,0
+935,Ancient Ritual,G3SG1,0,3.7,1,1
+936,Scavenger,G3SG1,1,3.47,3,1
+937,Orange Kimono,G3SG1,0,4.32,0,1
+938,Polar Camo,G3SG1,0,0.12,0,0
+940,Black Sand,G3SG1,1,2.8,2,1
+941,Violet Murano,G3SG1,0,30.19,2,3
+942,Jungle Dashed,G3SG1,0,0.07,0,0
+943,Keeping Tabs,G3SG1,1,3.95,2,1
+945,Demeter,G3SG1,1,52.25,2,3
+946,Hunter,G3SG1,1,1.17,2,0
+947,Ventilator,G3SG1,1,0.89,2,0
+948,High Seas,G3SG1,1,8.5,3,2
+949,Orange Crash,G3SG1,1,1.02,2,0
+950,Azure Zebra,G3SG1,1,5.56,2,1
+951,New Roots,G3SG1,0,27.96,2,2
+952,Stinger,G3SG1,1,3.56,3,1
+953,Arctic Camo,G3SG1,0,102.37,1,3
+954,Safari Mesh,G3SG1,0,18.24,0,2
+955,Dream Glade,G3SG1,1,3.06,3,1
+957,Flux,G3SG1,1,69.23,4,3
+958,Amber Fade,Galil AR,0,28.25,2,2
+961,Destroyer,Galil AR,1,0.76,2,0
+962,Kami,Galil AR,1,6.08,2,1
+963,Chromatic Aberration,Galil AR,1,29.94,4,2
+965,Cold Fusion,Galil AR,0,0.31,1,0
+966,Stone Cold,Galil AR,1,25.5,3,2
+967,Hunting Blind,Galil AR,0,4.26,0,1
+968,Akoben,Galil AR,1,2.04,2,1
+970,Sage Spray,Galil AR,0,0.13,0,0
+971,Shattered,Galil AR,1,98.57,2,3
+972,Aqua Terrace,Galil AR,0,123.4,2,3
+973,Firefight,Galil AR,1,8.2,3,2
+974,Urban Rubble,Galil AR,0,16.54,1,2
+975,Winter Forest,Galil AR,0,579.64,1,4
+976,VariCamo,Galil AR,0,0.11,1,0
+977,Dusk Ruins,Galil AR,0,16.96,2,2
+978,Signal,Galil AR,1,3.78,3,1
+979,Connexion,Galil AR,1,3.89,3,1
+980,Vandal,Galil AR,1,6.93,2,1
+981,Cerberus,Galil AR,0,77.89,3,3
+982,Crimson Tsunami,Galil AR,1,8.85,3,2
+983,Rocket Pop,Galil AR,1,18.66,2,2
+985,CAUTION!,Galil AR,0,69.81,3,3
+986,Phoenix Blacklight,Galil AR,0,76.63,3,3
+987,Sugar Rush,Galil AR,1,166.91,4,3
+989,Black Sand,Galil AR,1,2.81,2,1
+990,Orange DDPAT,Galil AR,1,839.31,3,4
+991,Nightmare,M4A1-S,1,116.27,4,3
+992,Emphorosaur-S,M4A1-S,1,13.25,3,2
+993,Master Piece,M4A1-S,0,497.11,4,4
+994,Hyper Beast,M4A1-S,1,480.13,5,4
+995,Night Terror,M4A1-S,1,7.33,3,2
+996,Chantico's Fire,M4A1-S,1,367.07,5,4
+997,Basilisk,M4A1-S,1,45.43,3,3
+998,Blue Phosphor,M4A1-S,0,748.68,4,4
+999,Moss Quartz,M4A1-S,0,69.84,1,3
+1000,Hot Rod,M4A1-S,0,1010.32,4,4
+1001,Golden Coil,M4A1-S,1,498.96,5,4
+1002,Printstream,M4A1-S,1,1152.38,5,4
+1004,Blood Tiger,M4A1-S,1,17.8,2,2
+1005,Briefing,M4A1-S,1,41.43,2,3
+1006,Mud-Spec,M4A1-S,0,1.27,1,0
+1008,Player Two,M4A1-S,1,223.94,5,4
+1009,Boreal Forest,M4A1-S,0,2.04,1,1
+1011,VariCamo,M4A1-S,0,1.19,2,0
+1014,Flashback,M4A1-S,1,16.0,3,2
+1017,Leaded Glass,M4A1-S,1,34.48,4,3
+1018,Control Panel,M4A1-S,0,63.98,4,3
+1019,Decimator,M4A1-S,1,92.05,4,3
+1020,Mecha Industries,M4A1-S,1,213.28,5,4
+1021,Fizzy POP,M4A1-S,0,2.48,2,1
+1022,Atomic Alloy,M4A1-S,1,165.84,4,3
+1023,Icarus Fell,M4A1-S,0,556.38,3,4
+1024,Guardian,M4A1-S,1,91.83,4,3
+1025,Cyrex,M4A1-S,1,135.14,5,3
+1026,In Living Color,M4A4,1,86.37,5,3
+1027,The Coalition,M4A4,0,389.31,5,4
+1028,Global Offensive,M4A4,0,23.47,2,2
+1029,Radiation Hazard,M4A4,0,581.76,2,4
+1030,Bullet Rain,M4A4,1,191.95,5,3
+1031,Cyber Security,M4A4,1,112.79,4,3
+1033,Tooth Fairy,M4A4,1,18.52,4,2
+1034,龍王 (Dragon King),M4A4,1,72.48,4,3
+1035,Temukau,M4A4,1,353.38,5,4
+1037,Desolate Space,M4A4,1,89.51,4,3
+1038,The Battlestar,M4A4,1,48.77,5,3
+1039,Spider Lily,M4A4,1,58.45,3,3
+1040,Griffin,M4A4,1,17.41,3,2
+1041,Faded Zebra,M4A4,1,79.8,2,3
+1042,Buzz Kill,M4A4,1,83.45,5,3
+1043,Converter,M4A4,0,0.91,2,0
+1044,Urban DDPAT,M4A4,0,3.28,1,1
+1045,Poseidon,M4A4,0,1669.16,4,4
+1046,Neo-Noir,M4A4,1,96.03,5,3
+1047,Desert-Strike,M4A4,1,28.86,5,2
+1048,Royal Paladin,M4A4,1,305.9,5,4
+1050,X-Ray,M4A4,1,87.16,5,3
+1051,Jungle Tiger,M4A4,0,78.84,1,3
+1053,The Emperor,M4A4,1,415.27,5,4
+1054,Red DDPAT,M4A4,0,100.14,3,3
+1055,Evil Daimyo,M4A4,1,17.14,3,2
+1056,Zirka,M4A4,1,144.56,3,3
+1057,Mainframe,M4A4,0,0.11,1,0
+1058,Desert Storm,M4A4,0,45.91,1,3
+1059,Daybreak,M4A4,0,278.19,3,4
+1060,Eye of Horus,M4A4,0,933.16,5,4
+1061,Poly Mag,M4A4,1,2.57,2,1
+1062,Modern Hunter,M4A4,0,358.18,3,4
+1063,Magnesium,M4A4,1,10.9,2,2
+1064,Dark Blossom,M4A4,0,24.85,1,2
+1065,Hellfire,M4A4,1,161.95,4,3
+1066,Magna Carta,SCAR-20,0,22.95,2,2
+1067,Green Marine,SCAR-20,1,1.49,2,0
+1068,Fragments,SCAR-20,1,0.88,2,0
+1069,Assault,SCAR-20,1,0.78,2,0
+1070,Poultrygeist,SCAR-20,1,0.67,2,0
+1071,Grotto,SCAR-20,1,1.42,2,0
+1072,Bloodsport,SCAR-20,1,19.95,4,2
+1073,Crimson Web,SCAR-20,1,56.9,2,3
+1074,Outbreak,SCAR-20,1,1.32,2,0
+1076,Sand Mesh,SCAR-20,0,0.08,0,0
+1077,Brass,SCAR-20,0,132.35,2,3
+1078,Jungle Slipstream,SCAR-20,1,0.64,2,0
+1082,Stone Mosaico,SCAR-20,0,4.39,0,1
+1083,Cardiac,SCAR-20,1,68.79,4,3
+1084,Cyrex,SCAR-20,1,135.76,4,3
+1085,Torn,SCAR-20,1,2.29,2,1
+1086,Powercore,SCAR-20,1,5.29,3,1
+1087,Carbon Fiber,SCAR-20,0,0.15,1,0
+1088,Palm,SCAR-20,0,59.9,1,3
+1089,Enforcer,SCAR-20,1,5.05,3,1
+1090,Army Sheen,SCAR-20,0,3.96,0,1
+1091,Blueprint,SCAR-20,1,1.13,2,0
+1092,Cyrex,SG 553,1,52.11,4,3
+1093,Army Sheen,SG 553,0,0.04,0,0
+1096,Colony IV,SG 553,1,105.96,4,3
+1097,Phantom,SG 553,1,3.74,3,1
+1098,Cyberforce,SG 553,1,1.4,2,0
+1099,Traveler,SG 553,0,18.02,1,2
+1100,Gator Mesh,SG 553,0,11.98,1,2
+1101,Damascus Steel,SG 553,0,1.17,2,0
+1102,Fallout Warning,SG 553,0,2.8,1,1
+1103,Ol' Rusty,SG 553,1,0.67,2,0
+1106,Hypnotic,SG 553,0,44.4,3,3
+1107,Barricade,SG 553,0,6.99,0,1
+1108,Wave Spray,SG 553,1,66.25,2,3
+1109,Dragon Tech,SG 553,1,4.37,3,1
+1110,Aerial,SG 553,1,0.92,2,0
+1111,Danger Close,SG 553,1,1.24,2,0
+1112,Integrale,SG 553,0,131.32,4,3
+1113,Heavy Metal,SG 553,1,1.82,2,1
+1114,Tiger Moth,SG 553,1,7.09,3,2
+1115,Atlas,SG 553,1,1.2,2,0
+1116,Waves Perforated,SG 553,0,0.09,0,0
+1118,Aloha,SG 553,1,0.69,2,0
+1119,Triarch,SG 553,1,5.48,3,1
+1120,Desert Blossom,SG 553,0,17.48,2,2
+1122,Darkwing,SG 553,1,7.65,3,2
+1123,Lush Ruins,SG 553,0,0.79,0,0
+1124,Hazard Pay,SG 553,0,315.69,4,4
+1125,Bleached,SG 553,0,1.16,0,0
+1126,Dragonfire,SSG 08,1,87.71,5,3
+1127,Prey,SSG 08,0,0.67,0,0
+1128,Sea Calico,SSG 08,0,394.3,3,4
+1130,Parallax,SSG 08,1,16.75,3,2
+1131,Necropos,SSG 08,1,6.95,2,1
+1132,Orange Filigree,SSG 08,0,30.45,2,3
+1133,Big Iron,SSG 08,1,58.99,4,3
+1136,Mainframe 001,SSG 08,1,1.39,2,0
+1137,Mayan Dreams,SSG 08,0,46.85,1,3
+1138,Death Strike,SSG 08,0,722.35,4,4
+1140,Death's Head,SSG 08,1,21.78,3,2
+1141,Azure Glyph,SSG 08,0,0.68,1,0
+1142,Lichen Dashed,SSG 08,0,35.72,0,3
+1144,Jungle Dashed,SSG 08,0,4.08,0,1
+1145,Acid Fade,SSG 08,0,0.93,2,0
+1146,Abyss,SSG 08,1,10.32,2,2
+1147,Threat Detected,SSG 08,0,22.85,2,2
+1148,Ghost Crusader,SSG 08,1,14.72,3,2
+1150,Blood in the Water,SSG 08,1,468.74,5,4
+1151,Tropical Storm,SSG 08,0,88.89,1,3
+1152,Spring Twilly,SSG 08,0,1.43,2,0
+1153,Hand Brake,SSG 08,0,1.0,2,0
+1154,Carbon Fiber,SSG 08,0,3.78,1,1
+1155,Fever Dream,SSG 08,1,7.41,3,2
+1156,Turbo Peek,SSG 08,1,53.91,4,3
+1157,Detour,SSG 08,0,20.21,2,2
+1161,Bright Water,Bayonet,1,423.97,5,4
+1162,Gamma Doppler,Bayonet,1,1262.75,5,4
+1164,Damascus Steel,Bayonet,1,545.4,5,4
+1165,Fade,Bayonet,1,947.32,5,4
+1168,Doppler,Bayonet,1,821.13,5,4
+1170,Lore,Bayonet,1,1119.01,5,4
+1173,Marble Fade,Bayonet,1,798.59,5,4
+1178,Slaughter,Bayonet,1,1033.16,5,4
+1179,Tiger Tooth,Bayonet,1,664.83,5,4
+1180,Freehand,Bayonet,1,678.4,5,4
+1183,Black Laminate,Bayonet,1,557.96,5,4
+1184,Lore,Bowie Knife,1,649.11,5,4
+1187,Damascus Steel,Bowie Knife,1,284.75,5,4
+1188,Gamma Doppler,Bowie Knife,1,496.11,5,4
+1190,Marble Fade,Bowie Knife,1,425.63,5,4
+1192,Slaughter,Bowie Knife,1,485.61,5,4
+1196,Autotronic,Bowie Knife,1,549.03,5,4
+1197,Black Laminate,Bowie Knife,1,424.53,5,4
+1198,Freehand,Bowie Knife,1,272.5,5,4
+1199,Bright Water,Bowie Knife,1,204.0,5,3
+1200,Doppler,Bowie Knife,1,554.99,5,4
+1204,Tiger Tooth,Bowie Knife,1,416.53,5,4
+1206,Fade,Bowie Knife,1,631.88,5,4
+1210,Damascus Steel,Butterfly Knife,1,1597.69,5,4
+1216,Freehand,Butterfly Knife,1,1492.36,5,4
+1235,Blue Steel,Classic Knife,1,927.31,5,4
+1238,Slaughter,Classic Knife,1,463.64,5,4
+1240,Fade,Classic Knife,1,912.22,5,4
+1246,Case Hardened,Classic Knife,1,669.82,5,4
+1247,Marble Fade,Falchion Knife,1,394.3,5,4
+1249,Lore,Falchion Knife,1,368.33,5,4
+1252,Gamma Doppler,Falchion Knife,1,581.02,5,4
+1253,Autotronic,Falchion Knife,1,413.19,5,4
+1254,Tiger Tooth,Falchion Knife,1,330.74,5,4
+1257,Bright Water,Falchion Knife,1,213.23,5,4
+1258,Fade,Falchion Knife,1,510.01,5,4
+1263,Slaughter,Falchion Knife,1,458.94,5,4
+1264,Doppler,Falchion Knife,1,589.67,5,4
+1269,Freehand,Falchion Knife,1,225.75,5,4
+1270,Damascus Steel,Falchion Knife,1,278.18,5,4
+1274,Marble Fade,Flip Knife,1,693.74,5,4
+1276,Slaughter,Flip Knife,1,549.23,5,4
+1279,Black Laminate,Flip Knife,1,509.92,5,4
+1280,Tiger Tooth,Flip Knife,1,463.88,5,4
+1281,Damascus Steel,Flip Knife,1,363.17,5,4
+1282,Bright Water,Flip Knife,1,316.53,5,4
+1283,Gamma Doppler,Flip Knife,1,787.6,5,4
+1285,Doppler,Flip Knife,1,617.02,5,4
+1287,Fade,Flip Knife,1,1024.32,5,4
+1291,Lore,Flip Knife,1,699.42,5,4
+1292,Autotronic,Flip Knife,1,1235.68,5,4
+1293,Freehand,Flip Knife,1,315.28,5,4
+1297,Marble Fade,Gut Knife,1,255.01,5,4
+1299,Bright Water,Gut Knife,1,168.46,5,3
+1301,Tiger Tooth,Gut Knife,1,219.61,5,4
+1302,Gamma Doppler,Gut Knife,1,354.6,5,4
+1303,Freehand,Gut Knife,1,162.27,5,3
+1304,Damascus Steel,Gut Knife,1,189.66,5,3
+1305,Stained,Gut Knife,1,198.78,5,3
+1307,Doppler,Gut Knife,1,258.72,5,4
+1308,Slaughter,Gut Knife,1,349.48,5,4
+1310,Lore,Gut Knife,1,483.13,5,4
+1311,Autotronic,Gut Knife,1,588.99,5,4
+1312,Fade,Gut Knife,1,360.19,5,4
+1315,Blue Steel,Gut Knife,1,1340.93,5,4
+1321,Black Laminate,Gut Knife,1,265.04,5,4
+1322,Doppler,Huntsman Knife,1,645.28,5,4
+1323,Lore,Huntsman Knife,1,533.2,5,4
+1325,Damascus Steel,Huntsman Knife,1,330.1,5,4
+1329,Gamma Doppler,Huntsman Knife,1,606.05,5,4
+1331,Autotronic,Huntsman Knife,1,474.89,5,4
+1335,Fade,Huntsman Knife,1,690.85,5,4
+1337,Slaughter,Huntsman Knife,1,853.12,5,4
+1338,Black Laminate,Huntsman Knife,1,598.94,5,4
+1342,Bright Water,Huntsman Knife,1,212.81,5,4
+1343,Marble Fade,Huntsman Knife,1,512.56,5,4
+1344,Tiger Tooth,Huntsman Knife,1,398.3,5,4
+1345,Freehand,Huntsman Knife,1,255.08,5,4
+1351,Bright Water,Karambit,1,959.76,5,4
+1357,Tiger Tooth,Karambit,1,1430.48,5,4
+1358,Doppler,Karambit,1,1730.31,5,4
+1371,Freehand,Karambit,1,960.96,5,4
+1375,Urban Masked,Kukri Knife,1,1498.1,5,4
+1380,Slaughter,Kukri Knife,1,1089.78,5,4
+1386,Tiger Tooth,M9 Bayonet,1,1350.97,5,4
+1388,Marble Fade,M9 Bayonet,1,1559.61,5,4
+1396,Blue Steel,M9 Bayonet,1,1286.05,5,4
+1399,Freehand,M9 Bayonet,1,918.03,5,4
+1401,Damascus Steel,M9 Bayonet,1,1247.8,5,4
+1404,Doppler,M9 Bayonet,1,1647.76,5,4
+1406,Bright Water,M9 Bayonet,1,1131.03,5,4
+1410,Marble Fade,Navaja Knife,1,222.55,5,4
+1412,Tiger Tooth,Navaja Knife,1,182.68,5,3
+1415,Damascus Steel,Navaja Knife,1,134.45,5,3
+1416,Doppler,Navaja Knife,1,267.99,5,4
+1418,Fade,Navaja Knife,1,349.61,5,4
+1421,Stained,Navaja Knife,1,240.17,5,4
+1423,Slaughter,Navaja Knife,1,249.55,5,4
+1425,Blue Steel,Navaja Knife,1,191.86,5,3
+1429,Slaughter,Nomad Knife,1,648.19,5,4
+1433,Scorched,Nomad Knife,1,549.03,5,4
+1436,Fade,Nomad Knife,1,1112.77,5,4
+1438,Case Hardened,Nomad Knife,1,891.14,5,4
+1442,Case Hardened,Paracord Knife,1,799.8,5,4
+1443,Fade,Paracord Knife,1,600.17,5,4
+1448,Blue Steel,Paracord Knife,1,530.08,5,4
+1454,Slaughter,Paracord Knife,1,460.12,5,4
+1456,Marble Fade,Shadow Daggers,1,245.73,5,4
+1459,Case Hardened,Shadow Daggers,1,450.67,5,4
+1461,Stained,Shadow Daggers,1,297.04,5,4
+1462,Tiger Tooth,Shadow Daggers,1,206.03,5,4
+1464,Gamma Doppler,Shadow Daggers,1,298.46,5,4
+1465,Fade,Shadow Daggers,1,349.11,5,4
+1467,Autotronic,Shadow Daggers,1,258.29,5,4
+1468,Freehand,Shadow Daggers,1,197.28,5,3
+1469,Black Laminate,Shadow Daggers,1,204.0,5,3
+1472,Bright Water,Shadow Daggers,1,137.78,5,3
+1473,Slaughter,Shadow Daggers,1,256.07,5,4
+1476,Damascus Steel,Shadow Daggers,1,159.39,5,3
+1477,Doppler,Shadow Daggers,1,315.27,5,4
+1478,Blue Steel,Shadow Daggers,1,319.92,5,4
+1479,Lore,Shadow Daggers,1,388.42,5,4
+1489,Slaughter,Skeleton Knife,1,1108.76,5,4
+1491,Scorched,Skeleton Knife,1,1546.33,5,4
+1501,Fade,Stiletto Knife,1,1023.79,5,4
+1504,Marble Fade,Stiletto Knife,1,700.26,5,4
+1506,Slaughter,Stiletto Knife,1,828.3,5,4
+1507,Case Hardened,Stiletto Knife,1,892.85,5,4
+1510,Doppler,Stiletto Knife,1,746.48,5,4
+1511,Tiger Tooth,Stiletto Knife,1,574.84,5,4
+1514,Fade,Survival Knife,1,533.2,5,4
+1516,Stained,Survival Knife,1,303.13,5,4
+1518,Blue Steel,Survival Knife,1,352.37,5,4
+1520,Slaughter,Survival Knife,1,345.1,5,4
+1521,Boreal Forest,Survival Knife,1,798.59,5,4
+1525,Urban Masked,Talon Knife,1,1112.77,5,4
+1526,Slaughter,Talon Knife,1,1167.37,5,4
+1527,Stained,Talon Knife,1,1747.91,5,4
+1528,Marble Fade,Talon Knife,1,1020.04,5,4
+1532,Blue Steel,Talon Knife,1,1547.25,5,4
+1533,Tiger Tooth,Talon Knife,1,879.43,5,4
+1535,Damascus Steel,Talon Knife,1,637.63,5,4
+1537,Doppler,Talon Knife,1,1374.68,5,4
+1548,Slaughter,Ursus Knife,1,553.89,5,4
+1549,Doppler,Ursus Knife,1,602.75,5,4
+1552,Fade,Ursus Knife,1,723.3,5,4
+1554,Marble Fade,Ursus Knife,1,587.6,5,4
+1555,Tiger Tooth,Ursus Knife,1,375.45,5,4
+1559,Stained,Ursus Knife,1,369.9,5,4
+1560,Damascus Steel,Ursus Knife,1,261.4,5,4
+1562,Blue Steel,Ursus Knife,1,463.88,5,4
