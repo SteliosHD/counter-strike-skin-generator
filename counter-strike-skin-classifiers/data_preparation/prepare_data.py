@@ -1,4 +1,5 @@
 import os
+from shutil import copy
 
 import pandas as pd
 
@@ -8,16 +9,16 @@ DATASET_BASE_PATH = os.path.join(
 )
 
 
-def load_image_file_based_on_name_pattern(name_pattern_params: list[str]):
+def get_image_file_name_based_on_name_pattern(name_pattern_params: list[str]):
     skin_images_relative_path = os.path.join(
         DATASET_BASE_PATH,
         "skin_images",
     )
     skin_images_path = os.path.abspath(skin_images_relative_path)
-    for file in os.listdir(skin_images_path):
-        pattern_params_in_file = all(param in file for param in name_pattern_params)
+    for file_name in os.listdir(skin_images_path):
+        pattern_params_in_file = all(param in file_name for param in name_pattern_params)
         if pattern_params_in_file:
-            return file
+            return file_name
     raise FileNotFoundError(f"File with name pattern {name_pattern_params} not found in {skin_images_path}")
 
 
@@ -101,7 +102,7 @@ def skin_no_knives(
     return no_knives_df
 
 
-if __name__ == "__main__":
+def main_data_cleaning():
     cleaned_df = clean_data()
     print(f"Cleaned {cleaned_df.shape[0]} skins to \n{cleaned_df}")
     skins_with_no_missing_values_path = os.path.join(
@@ -113,3 +114,43 @@ if __name__ == "__main__":
         f"Cleaned no missing prices {cleaned_df_with_no_missing_values.shape[0]} skins to "
         f"\n{cleaned_df_with_no_missing_values}"
     )
+
+
+def generate_quality_labeled_images(
+    csv_path: str = os.path.join(DATASET_BASE_PATH, "skins_no_images_cleaned.csv"),
+    save_path: str = os.path.join(DATASET_BASE_PATH, "skin_images_quality_labeled"),
+    verbose: bool = True,
+):
+    df = pd.read_csv(csv_path)
+    for index, row in df.iterrows():
+        skin_name = row["skin_name"].replace(" ", "")
+        skin_id = row["id"]
+        quality = row["quality"]
+        weapon_name = row["weapon_name"]
+        try:
+            image_file_name = get_image_file_name_based_on_name_pattern([skin_name, str(skin_id)])
+        except FileNotFoundError:
+            if verbose:
+                print("Skipping skin without image file {skin_name} ({skin_id})")
+            continue
+        image_file_path = os.path.join(
+            DATASET_BASE_PATH,
+            "skin_images",
+            image_file_name,
+        )
+        if verbose:
+            print(f"Processing {image_file_path}")
+        image_path = os.path.join(
+            save_path,
+            f"{quality}_{skin_name.replace(' ', '')}_{skin_id}_{weapon_name.replace(' ', '')}.png",
+        )
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
+        copy(image_file_path, image_path)
+        if verbose:
+            print(f"Renamed {image_file_path} to {image_path}")
+
+
+if __name__ == "__main__":
+    # main_data_cleaning()
+    generate_quality_labeled_images()

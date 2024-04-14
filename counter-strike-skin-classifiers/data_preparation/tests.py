@@ -1,6 +1,6 @@
 import pytest
 from data_preparation.prepare_data import (
-    load_image_file_based_on_name_pattern,
+    get_image_file_name_based_on_name_pattern,
     price_string_to_float,
     quality_class_to_int,
 )
@@ -12,7 +12,7 @@ def test_should_load_image_file_based_on_name_pattern():
     skin_id = "2"
     expected_file = "Syndicate_2_RestrictedPistol_CZ75-Auto.png"
     # Act
-    actual_file = load_image_file_based_on_name_pattern([skin_name, skin_id])
+    actual_file = get_image_file_name_based_on_name_pattern([skin_name, skin_id])
     # Assert
     assert actual_file == expected_file
 
@@ -23,7 +23,7 @@ def test_should_raise_error_when_image_file_not_found():
     # Act
     # Assert
     with pytest.raises(FileNotFoundError) as exc_info:
-        load_image_file_based_on_name_pattern([skin_name])
+        get_image_file_name_based_on_name_pattern([skin_name])
     assert "not found" in str(exc_info.value)
 
 
